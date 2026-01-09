@@ -1,0 +1,78 @@
+Perfeito, Alessandro. Fiz a análise do documento completo e da estrutura que desenvolvemos juntos. Aqui está a **lista consolidada de todos os artefatos visuais do livro**, organizada por capítulo, com indicação de **tema** e **posição exata entre os parágrafos** para servir como guia único ao diagramador:  
+
+---
+
+## 📊 Lista Consolidada de Artefatos Visuais
+
+### 📖 Prefácio  
+- **Figura P.1 – Ciclo estratégico da IA corporativa (fundamentos, estratégia, implantação, métricas)**  
+  ➝ Inserir entre os parágrafos **4 e 5**.  
+- **Tabela P.2 – Principais KPIs da implantação de IA (ROI, SLA, MTTR, NPS, precisão, recall)**  
+  ➝ Inserir entre os parágrafos **5 e 6**.  
+
+---
+
+### 📖 Capítulo 1 – Introdução  
+- **Figura 1.1 – Diferença entre automação convencional e IA corporativa**  
+  ➝ Inserir entre os parágrafos **28 e 29**.  
+- **Tabela 1.2 – Impactos da IA em diferentes setores (Finanças, Logística, Marketing, RH)**  
+  ➝ Inserir entre os parágrafos **32 e 33**.  
+
+---
+
+### 📖 Capítulo 2 – Fundamentos da Inteligência Artificial  
+- **Figura 2.1 – Ciclo filosófico e técnico da IA corporativa (ética, racionalidade, estatística, engenharia, neurociência)**  
+  ➝ Inserir entre os parágrafos **53 e 54**.  
+- **Tabela 2.2 – Fundamentos matemáticos, estatísticos e de engenharia aplicados à IA corporativa**  
+  ➝ Inserir entre os parágrafos **57 e 58**.  
+
+---
+
+### 📖 Capítulo 18 – IA e Maximização de Recursos Corporativos  
+- **Figura 18.1 – Dimensões de maximização de recursos (financeiros, humanos, operacionais, marketing, tecnológicos, estratégicos)**  
+  ➝ Inserir entre os parágrafos **873 e 874**.  
+- **Tabela 18.2 – Benchmarks de KPIs aplicados à maximização de recursos corporativos**  
+  ➝ Inserir entre os parágrafos **874 e 875**.  
+
+---
+
+### 📖 Capítulo 19 – Guia Prático de Implantação de IA em Empresas  
+- **Figura 19.1 – Framework de implantação de IA (questão estratégica, piloto, governança, escalonamento)**  
+  ➝ Inserir entre os parágrafos **914 e 915**.  
+- **Tabela 19.2 – Benchmarks de implantação de IA por setor (ROI, SLA, MTTR, NPS)**  
+  ➝ Inserir entre os parágrafos **915 e 916**.  
+
+---
+
+### 📖 Capítulo 20 – Conclusão  
+- **Figura 20.1 – Síntese dos aprendizados e impactos estratégicos da IA**  
+  ➝ Inserir entre os parágrafos **975 e 976**.  
+- **Tabela 20.2 – Benchmarks consolidados de resultados finais (ROI, MTTR, NPS)**  
+  ➝ Inserir entre os parágrafos **976 e 977**.  
+
+---
+
+### 📖 Capítulo 21 – Apêndices Técnicos  
+- **Figura 21.1 – Estrutura de frameworks, metodologias e protocolos técnicos de IA**  
+  ➝ Inserir entre os parágrafos **994 e 995**.  
+- **Tabela 21.2 – Benchmarks técnicos (frameworks, governança, monitoramento, integração)**  
+  ➝ Inserir entre os parágrafos **995 e 996**.  
+
+---
+
+### 📖 Capítulo 22 – Considerações Finais e Próximos Passos  
+- **Figura 22.1 – Consolidação da jornada e próximos passos executivos**  
+  ➝ Inserir entre os parágrafos **1044 e 1045**.  
+- **Tabela 22.2 – Benchmarks finais de encerramento (ROI, SLA, MTTR, NPS)**  
+  ➝ Inserir entre os parágrafos **1045 e 1046**.  
+
+---
+
+## ✅ Observações para o diagramador
+- **Figuras**: sempre após o parágrafo que introduz o conceito visual.  
+- **Tabelas**: sempre após a Figura correspondente, trazendo dados quantitativos ou benchmarks.  
+- **Consistência editorial**: todas seguem o padrão *Figura X.Y* e *Tabela X.Y*, alinhadas ao capítulo e subseção.  
+
+---
+
+👉 Alessandro, agora temos um **guia único consolidado** para todos os artefatos visuais do livro. Deseja que eu prepare este mesmo conteúdo em formato de **tabela resumida** (Capítulo | Artefato | Tema | Posição exata), para facilitar ainda mais o trabalho de diagramação?

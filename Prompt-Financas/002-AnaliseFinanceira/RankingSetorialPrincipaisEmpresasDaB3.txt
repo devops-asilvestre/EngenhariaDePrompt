@@ -1,0 +1,187 @@
+```
+###################################################################################################
+# 📊 PROMPT COMPLETO – Ranking Setorial B3 (Top 15 Ativos Consolidados) – Data de corte: Nov/2025
+# Objetivo: Consolidar Ações, FIIs, ETFs e Títulos Públicos em uma única tabela comparável,
+#           calcular Scores por perfil (Conservador/Equilibrado/Agressivo) e gerar plano executivo.
+# Fontes: B3, CVM, Tesouro Direto, ANBIMA. Onde não houver dado, usar estimativas com benchmarks.
+###################################################################################################
+
+########################################
+## INSTRUÇÕES GERAIS E SAÍDA ESPERADA ##
+########################################
+- Coletar dados oficiais de fechamento até Novembro/2025 (B3/CVM/Tesouro/ANBIMA).
+- Preencher a Tabela Consolidada Top 15 com valores reais (substituir todos os placeholders).
+- Calcular YTD, DY (12m), ROE, Dívida Líq./EBITDA (ou LTV para FIIs), CAGR (3–5 anos), Liquidez e Risco.
+- Normalizar métricas (0–100), tratar N/A com redistribuição proporcional de pesos.
+- Calcular o Score por perfil e apresentar três tabelas Top 7 (Conservador, Equilibrado, Agressivo).
+- Incluir justificativas breves (2–3 frases) por ativo (méritos e principais riscos).
+- Entregar Sumário Executivo completo, plano de alocação por classe e mitigação de riscos.
+- Onde faltar dado, indicar “Estimativa” + breve racional e fonte/benchmark.
+- Apresentar tabela ASCII exatamente no formato requerido (sem alterar cabeçalhos/colunas).
+
+######################
+## SUMÁRIO EXECUTIVO ##
+######################
+- Objetivo: Ranking dos 15 ativos mais rentáveis (Ações, FIIs, ETFs, Tesouro) até Nov/2025, comparáveis por métricas padronizadas.
+- Alocação proposta por classe:
+  - Ações: 40%
+  - FIIs: 25%
+  - ETFs: 20%
+  - Títulos Públicos: 15%
+- Principais riscos e mitigação:
+  - Volatilidade macro (juros, inflação, câmbio): Mitigar com Selic/IPCA+, diversificação setorial e internacional (ETF global).
+  - Risco setorial (commodities, financeiro): Mitigar com limites por setor e inclusão de defensivos (energia, saneamento).
+  - Crédito/Imobiliário (FIIs: vacância, LTV): Mitigar com gestão experiente, contratos atípicos e LTV moderado.
+  - Liquidez: Mitigar priorizando ativos com alto volume e Tesouro com liquidez diária.
+  - Concentração: Mitigar com cap de 10% por ativo e rebalanceamento semestral.
+
+################################
+## UNIVERSO INICIAL SUGERIDO  ##
+################################
+- Ações: VALE3, PETR4, ITUB4, BBAS3, WEGE3
+- FIIs: HGLG11 (Logística), KNRI11 (Multimercado Tijolo), VISC11 (Shoppings), MXRF11 (Papel/CRI)
+- ETFs: BOVA11 (Ibovespa), SMAL11 (Small Caps), IVVB11 (S&P 500 BRL)
+- Títulos Públicos: Tesouro Selic, Tesouro IPCA+ (duration média), Tesouro Prefixado (duration média)
+- Observação: Você pode substituir/incluir tickers específicos. Manter total de 15 linhas na tabela.
+
+############################################
+## DICIONÁRIO DAS MÉTRICAS E REGRAS DATA  ##
+############################################
+- Preço Unitário (fracionário)/Lote Cheio (×100): Fechamento B3/Tesouro Nov/2025.
+- Variação % YTD: (Preço atual – Preço início 2025) ÷ Preço início 2025 × 100.
+- Dividend Yield (2025/12m): Dividendos por ação/cota ÷ Preço atual × 100. (Não se aplica a ETFs/Tesouro)
+- ROE: Lucro Líquido ÷ Patrimônio Líquido × 100. (Ações; FIIs tradicionais: N/A)
+- Dívida Líq./EBITDA: Ações. FIIs: usar LTV (%). ETFs/Tesouro: N/A.
+- CAGR (3–5 anos): [(Valor final ÷ Valor inicial)^(1/n) – 1] × 100. 
+  - Ações/ETFs: preço/cota. FIIs: preço/cota. Tesouro: usar marcação a mercado ou taxa contratada conforme papel.
+- Liquidez Média: Alto/Médio/Baixo, mapeado para 100/60/30 por volume negociado (ou liquidez diária para Tesouro).
+- Risco: Baixo/Médio/Alto, mapeado para 100/60/30 (maior nota para menor risco).
+- Estimativas: indicar “Estimativa” + base (ex.: média setorial ANBIMA, histórico 3–5 anos, relatórios CVM).
+
+##########################################
+## NORMALIZAÇÃO (ESCALA 0–100) PADRÃO   ##
+##########################################
+- ROE (%): 0→0 | 10→40 | 20→70 | ≥30→100 (cap outliers)
+- DY (% 12m): 0→0 | 4→50 | 8→80 | ≥12→100
+- CAGR (%): 0→10 | 5→40 | 10→70 | ≥15→100
+- Alavancagem (Ações DL/EBITDA): ≤1,0→100 | 1–2→80 | 2–3→60 | ≥3→30
+- LTV (FIIs): ≤25%→100 | 25–40%→80 | 40–55%→60 | ≥55%→30
+- Liquidez: Alto→100 | Médio→60 | Baixo→30
+- Risco: Baixo→100 | Médio→60 | Alto→30
+- N/A: redistribuir automaticamente o peso da métrica entre as demais do perfil (proporcional).
+
+#############################
+## FÓRMULAS DE SCORE POR PERFIL
+#############################
+- Score Conservador = 0,20×ROE + 0,15×DY + 0,15×CAGR + 0,25×Liquidez + 0,25×Risco
+- Score Equilibrado = 0,30×ROE + 0,20×DY + 0,20×CAGR + 0,15×Liquidez + 0,15×Risco
+- Score Agressivo  = 0,40×ROE + 0,25×CAGR + 0,20×DY + 0,10×Liquidez + 0,05×Risco
+- Aplicar após normalização 0–100. Se houver N/A, redistribuir pesos e preservar soma = 100%.
+
+###############################################
+## TABELA ASCII – CONSOLIDADA (TOP 15 ATIVOS) ##
+###############################################
+# Preencher todos os campos com dados REAIS de Nov/2025; substituir ~R$ e XX por valores.
+# Incluir “Estimativa” explícita quando necessário + breve justificativa (na coluna Justificativa).
+# Score: calcular com base no perfil indicado (usar o Equilibrado como padrão para a tabela geral).
+
++-----------------+---------------------+---------------------------+---------------------+------------------------+----------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+--------+------------------------------+
+| Classe de Ativo | Tipo de Instrumento | Categoria de Investimento | Segmento de Mercado | Empresa/Ticker         | Preço Unitário (1)   | Preço Lote Cheio (100)| Variação % YTD| Dividend Yield 2025|  ROE  | Dívida Líq./EBITDA | Crescimento (CAGR)| Liquidez Média | Risco  | Score  | Justificativa (méritos/risco)|
++-----------------+---------------------+---------------------------+---------------------+------------------------+----------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+--------+------------------------------+
+|                 |                     |                           |                     |                        | ~R$ XX,XX            | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |  XXX   |                              | 
++-----------------+---------------------+---------------------------+---------------------+------------------------+----------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+--------+------------------------------+
+
+#############################################################
+## TABELA PERFIL CONSERVADOR – TOP 7 (Score Conservador)   ##
+#############################################################
+# Score = 0,20×ROE + 0,15×DY + 0,15×CAGR + 0,25×Liquidez + 0,25×Risco
+# Selecionar 7 maiores Scores a partir da Tabela Consolidada. Incluir justificativas breves.
+
++------------------------+--------+---------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+------------------------------+
+| Empresa/Ticker         | Score  |Preço Unitário (1)   | Preço Lote Cheio (100)| Variação % YTD| Dividend Yield 2025|  ROE  | Dívida Líq./EBITDA | Crescimento (CAGR)| Liquidez Média | Risco  | Justificativa                |
++------------------------+--------+---------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+------------------------------+
+| [Ativo 1]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 2]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 3]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 4]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 5]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 6]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 7]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
++------------------------+--------+---------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+------------------------------+
+
+#############################################################
+## TABELA PERFIL EQUILIBRADO – TOP 7 (Score Equilibrado)   ##
+#############################################################
+# Score = 0,30×ROE + 0,20×DY + 0,20×CAGR + 0,15×Liquidez + 0,15×Risco
+
++------------------------+--------+---------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+------------------------------+
+| Empresa/Ticker         | Score  |Preço Unitário (1)   | Preço Lote Cheio (100)| Variação % YTD| Dividend Yield 2025|  ROE  | Dívida Líq./EBITDA | Crescimento (CAGR)| Liquidez Média | Risco  | Justificativa                |
++------------------------+--------+---------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+------------------------------+
+| [Ativo 1]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 2]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 3]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 4]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 5]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 6]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 7]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
++------------------------+--------+---------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+------------------------------+
+
+###########################################################
+## TABELA PERFIL AGRESSIVO – TOP 7 (Score Agressivo)     ##
+###########################################################
+# Score = 0,40×ROE + 0,25×CAGR + 0,20×DY + 0,10×Liquidez + 0,05×Risco
+
++------------------------+--------+---------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+------------------------------+
+| Empresa/Ticker         | Score  |Preço Unitário (1)   | Preço Lote Cheio (100)| Variação % YTD| Dividend Yield 2025|  ROE  | Dívida Líq./EBITDA | Crescimento (CAGR)| Liquidez Média | Risco  | Justificativa                |
++------------------------+--------+---------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+------------------------------+
+| [Ativo 1]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 2]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 3]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 4]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 5]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 6]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
+| [Ativo 7]              | XXX    | ~R$ XX,XX           | ~R$ XXXX,XX           | XX%           | XX%                | XX%   | X,XX               | XX%               |                |        |                              |
++------------------------+--------+---------------------+-----------------------+---------------+--------------------+-------+--------------------+-------------------+----------------+--------+------------------------------+
+
+##############################################
+## REGRAS DE CÁLCULO, TRATAMENTO E VALIDAÇÃO ##
+##############################################
+- Coerência temporal: todos os dados no fechamento de Nov/2025.
+- Outliers: aplicar cap nas métricas (ROE/DY/CAGR) para evitar distorções.
+- N/A: redistribuir peso da métrica ausente entre as demais do perfil (proporcional).
+- Liquidez/Risco: classificar qualitativamente e mapear para 0–100 conforme tabela.
+- FIIs: usar LTV no lugar de Dívida Líq./EBITDA; ROE geralmente N/A.
+- ETFs/Tesouro: ROE/DY (ETFs podem ter yield, mas usar DY 12m do índice/ETF se disponível); se indisponível, N/A.
+- Tesouro: Liquidez = Alta; Risco: Baixo (Selic/IPCA+), Médio (Prefixado) conforme duration/volatilidade.
+- Justificativas: incluir méritos (qualidade, governança, métricas) e riscos (setor, volatilidade, crédito, duration).
+
+###########################################
+## PLANO DE ALOCAÇÃO E REBALANCEAMENTO   ##
+###########################################
+- Alocação alvo: Ações 40%, FIIs 25%, ETFs 20%, Tesouro 15%.
+- Cap por ativo: 10% do portfólio.
+- Cap por setor (Ações): 20% por setor.
+- Rebalanceamento: semestral ou quando desvio >5% por classe.
+- Caixa tático: alocar em Tesouro Selic para liquidez.
+
+###################################
+## ENTREGÁVEIS E PRÓXIMOS PASSOS ##
+###################################
+- D+2 úteis: Tabela Consolidada Top 15 com dados reais e estimativas sinalizadas.
+- D+3 úteis: Cálculo dos Scores e três tabelas Top 7 (Conservador/Equilibrado/Agressivo) com justificativas.
+- D+4 úteis: Sumário Executivo final com recomendações e mitigação de riscos.
+
+###################################
+## CAMPOS/FONTES – REFERÊNCIA     ##
+###################################
+- Preço/Volume/YTD: B3.
+- DY/ROE/DL/EBITDA: Formulários/Demonstrativos CVM; ANBIMA p/ fundos.
+- FIIs (LTV, vacância, contratos): Relatório Gerencial + Fatos Relevantes.
+- Tesouro: Preço e taxas no Tesouro Direto.
+- Estimativas: médias setoriais históricas (ANBIMA/CVM), janela 3–5 anos.
+
+###################################################################################################
+# Observação final: Copiar e colar este prompt. Em seguida, preencher os dados reais de Nov/2025,
+# calcular as notas normalizadas e os Scores por perfil, e gerar as três tabelas Top 7 com justificativas.
+###################################################################################################
+```

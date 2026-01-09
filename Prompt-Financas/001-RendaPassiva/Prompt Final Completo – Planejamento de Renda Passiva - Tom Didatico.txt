@@ -1,0 +1,303 @@
+---
+
+# 📌 Planejamento de Renda Passiva
+
+## Objetivo
+Gerar um **plano estruturado de renda passiva** com base em investimentos periódicos, apresentando análises quantitativas, qualitativas e visuais.  
+
+---
+
+## Contexto de Investimento
+- Meta de investimento mensal: **R$ 2.000,00**  
+- Meta de investimento trimestral: **R$ 6.000,00**  
+- Período regular de investimento: **Janeiro/2025 a Janeiro/2031**  
+- **Estilo da resposta**: Tom Educativo/Didático, Ideal para clientes que estão começando a investir. Explica conceitos passo a passo, com exemplos simples. linguagem clara e objetiva, evitando jargões excessivos.
+
+  - Exemplo: *“O Tesouro IPCA protege contra a inflação. Isso significa que seu dinheiro mantém o poder de compra ao longo do tempo.”*
+
+---
+
+## Fontes e Data de Corte
+- Use dados históricos e de fechamento até **Novembro/2025**.  
+- Cite as fontes utilizadas (**B3, CVM, Tesouro Direto, ANBIMA**).  
+- Se algum dado não estiver disponível, indique claramente e proponha uma **estimativa baseada em histórico ou benchmarks médios do setor**.  
+
+---
+
+## Estrutura da Resposta (Etapas)
+Responda em **4 etapas sequenciais**:
+
+1. **Sumário Educativo/Didático**  
+   - Máx. 1200 palavras  
+   - Alocação proposta  
+   - Renda passiva estimada por trimestre  
+   - Principais riscos e mitigação  
+
+2. **Tabelas por Classe de Ativo**  
+   - Top 15 ativos por classe  
+   - Score calculado (mostrar fórmula)  
+   - Justificativa breve (2–3 frases: méritos e riscos)  
+
+3. **Gráficos ou Alternativas**  
+   - Se não puder gerar gráficos, substitua por tabelas descritivas  
+   - Gráficos obrigatórios:  
+     - FIIs/Ações: histórico de dividendos (últimos 12 meses), distribuição mensal de rendimentos (barras), preço vs média anual (linha)  
+     - Tesouro: curva de juros relevante, sensibilidade de preço a variações de 100 bps  
+     - LCI/LCA: taxa vs prazo (dispersão), projeções para próximo ano em 3 cenários (conservador, base, otimista)  
+
+4. **Notas Metodológicas (Tabela)**  
+   - Fórmulas, pesos, fontes e observações  
+
+---
+
+## Critérios de Seleção e Ranking
+- Crie um **score composto** para cada classe de ativo, com pesos e métricas definidas abaixo.  
+- Mostre a fórmula e os pesos usados.  
+- Liste o **Top 10 por classe** com justificativa breve (2–3 frases: méritos e riscos).  
+
+---
+
+## Divisão do Investimento (Tabela Consolidada)
+                                   |----------------------------------------------------------------|
+                                   |  TOTAL INVESTIDO MENSALMENTE EM FIIS, AÇOES, TESOURO, LCI/LCA  |
+|----|-----------|-----------------|----------|------------------|--------------------|-------------|
+|Ano | Trimestre | Total Investido | FIIs     | Ações Dividendos | Tesouro IPCA/SELIC | LCI/LCA     |
+|    |           |    Trimestre    | Mensal   | Mensal           | Mensal             | Mensal      |
+|----|-----------|-----------------|----------|------------------|--------------------|-------------|
+|2026| Jan–Mar   | R$ 0            | R$     0 | R$ 0             | R$ 0               | R$ 0        |
+|2026| Abr–Jun   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2026| Jul–Set   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2026| Out–Dez   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|----|-----------|-----------------|----------|------------------|--------------------|-------------|
+|2027| Jan–Mar   | R$ 6.000        | R$ 2.000 | R$ 0             | R$ 0               | R$ 0        |
+|2027| Abr–Jun   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2027| Jul–Set   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2027| Out–Dez   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|----|-----------|-----------------|----------|------------------|--------------------|-------------|
+|2028| Jan–Mar   | R$ 6.000        | R$ 2.000 | R$ 0             | R$ 0               | R$ 0        |
+|2028| Abr–Jun   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2028| Jul–Set   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2028| Out–Dez   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|----|-----------|-----------------|----------|------------------|--------------------|-------------|
+|2029| Jan–Mar   | R$ 6.000        | R$ 2.000 | R$ 0             | R$ 0               | R$ 0        |
+|2029| Abr–Jun   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2029| Jul–Set   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2029| Out–Dez   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|----|-----------|-----------------|----------|------------------|--------------------|-------------|
+|2030| Jan–Mar   | R$ 6.000        | R$ 2.000 | R$ 0             | R$ 0               | R$ 0        |
+|2030| Abr–Jun   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2030| Jul–Set   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2030| Out–Dez   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|----|-----------|-----------------|----------|------------------|--------------------|-------------|
+|2031| Jan–Mar   | R$ 6.000        | R$ 2.000 | R$ 0             | R$ 0               | R$ 0        |
+|2031| Abr–Jun   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2031| Jul–Set   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|2031| Out–Dez   | R$ 6.000        | R$ 1.000 | R$ 333,33        | R$ 333,33          | R$ 333,33   |
+|----|-----------|-----------------|----------|------------------|--------------------|-------------|
+---
+
+## Métricas por Classe de Ativo
+- **FIIs**  
+  - Dividend yield médio 5 anos  
+  - Consistência de pagamento = % de meses com distribuição positiva nos últimos 5 anos  
+  - Vacância (fórmula: área vaga / área total)  
+  - Alavancagem (dívida / patrimônio líquido)  
+  - P/VP  
+  - Liquidez média diária  
+  - Volatilidade (desvio padrão anualizado dos retornos diários)  
+
+- **Ações com Dividendos**  
+  - Dividend yield  
+  - Payout ratio  
+  - CAGR de dividendos 5 anos  
+  - Estabilidade = desvio padrão do dividend yield em 5 anos  
+  - ROE  
+  - Dívida líquida/EBITDA  
+  - Volatilidade (desvio padrão anualizado dos retornos)  
+  - Liquidez  
+
+- **Tesouro IPCA/SELIC**  
+  - Título  
+  - Taxa indicativa  
+  - PU atual  
+  - Vencimento  
+  - Duration (sensibilidade a variação de 1 p.p. na curva)  
+  - Risco de marcação a mercado  
+
+- **LCI/LCA**  
+  - Emissor  
+  - Taxa (% do CDI ou taxa fixa)  
+  - Prazo  
+  - Carência  
+  - Cobertura FGC  
+  - Liquidez  
+
+---
+## Dicionario de Dados
+- Explique o que é:
+  - **FIIs**  
+	- Dividend yield  
+	- Consistência de pagamento
+	- Vacância
+	- Alavancagem 
+	- Patrimônio líquido
+	- P/VP  
+	- Liquidez média diária  
+	- Volatilidade
+
+  - **Tesouro IPCA/SELIC**  
+	- Título  
+	- Taxa indicativa  
+	- PU atual  
+	- Vencimento  
+	- Duration 
+	- Sensibilidade a variação 
+	- Risco de marcação a mercado  
+
+  - **LCI/LCA**  
+    - Emissor  
+	- Taxa % do CDI e taxa fixa  
+	- Prazo  
+	- Carência  
+	- Cobertura FGC  
+	- Liquidez  
+
+---
+## Formato das Tabelas
+| Trimestre | Total Investido | FIIs | Ações Dividendos | Tesouro IPCA/SELIC | LCI/LCA | Score | Risco Principal | Justificativa |
+
+---
+
+## Gráficos Obrigatórios
+- **FIIs/Ações**  
+  - Histórico de dividendos (últimos 12 meses)  
+  - Distribuição mensal de rendimentos (barras)  
+  - Preço vs média anual (linha)  
+
+- **Tesouro**  
+  - Curva de juros relevante  
+  - Sensibilidade de preço a variações de 100 bps  
+
+- **LCI/LCA**  
+  - Taxa vs prazo (dispersão)  
+  - Projeções para próximo ano em **3 cenários**:  
+    - Conservador: SELIC +1 p.p., IPCA +1 p.p., dividendos estáveis  
+    - Base: SELIC e IPCA estáveis, dividendos com CAGR histórico  
+    - Otimista: SELIC –1 p.p., IPCA –1 p.p., dividendos CAGR +2%  
+  - Mostrar faixa esperada de renda passiva (R$/mês)  
+
+- **Requisitos visuais**: gráficos devem ter legenda, título, escala temporal (mensal ou anual), cores distintas por classe de ativo e linha de tendência quando aplicável.  
+
+---
+
+## Regras de Qualidade e Exclusões
+- FIIs: excluir ativos com liquidez média diária < R$ 500.000/dia  
+- Ações: excluir ativos com liquidez média diária < R$ 1.000.000/dia  
+- Ajustar dividendos por eventos societários (desdobramentos)  
+- Tratar dividendos extraordinários separadamente  
+- Limite de concentração: máx. 10% por ativo e 30% por setor  
+- Informar riscos principais por ativo (ex.: vacância elevada, alavancagem, setor concentrado)  
+
+---
+
+## Score Composto (Fórmulas e Pesos Claros)
+- **FIIs**  
+  \[
+  Score\_FII = (DY\_{5anos} \cdot 0,30) + (Consistência \cdot 0,20) + (Vacância \cdot 0,15) + (P/VP \cdot 0,15) + (Liquidez \cdot 0,10) + (Volatilidade \cdot 0,10)
+  \]
+
+- **Ações**  
+  \[
+  Score\_Ação = (Dividend Yield \cdot 0,25) + (Payout Ratio \cdot 0,15) + (CAGR\_{5anos} \cdot 0,20) + (ROE \cdot 0,20) + (Dívida Líquida/EBITDA \cdot 0,10) + (Liquidez \cdot 0,10)
+  \]
+
+---
+
+## Entregáveis
+1. **Sumário Executivo**  
+   - Alocação proposta  
+   - Renda passiva estimada por trimestre  
+   - Principais riscos e mitigação  
+
+2. **Tabelas por Classe de Ativo**  
+   - Top 10 ativos por classe  
+   - Score calculado  
+   - Justificativa breve (méritos e riscos)  
+
+3. **Gráficos e Projeções**  
+   - Conforme especificações acima  
+
+4. **Notas Metodológicas (Tabela)**  
+| Métrica               | Fórmula/Definição                                   | Peso | Fonte   | Observação |
+|-----------------------|-----------------------------------------------------|------|---------|------------|
+| Consistência FIIs     | % meses com distribuição positiva (últimos 5 anos)  | 0,20 | B3      | Ajustado por eventos societários |
+| Estabilidade Ações    | Desvio padrão do Dividend Yield em 5 anos           | 0,20 | CVM     | Dividendos extraordinários excluídos |
+| Duration Tesouro      | Sensibilidade a variação de 1 p.p. na curva         | —    | Tesouro | Usar PU atual |
+| Vacância FIIs         | Área vaga / área total                              | 0,15 | B3      | Considerar relatórios gerenciais |
+| Volatilidade          | Desvio padrão anualizado dos retornos diários       | 0,10 | ANBIMA  | Ajustado por liquidez |
+| Dívida Líquida/EBITDA | Dívida líquida / EBITDA                             | 0,10 | CVM     | Excluir efeitos não recorrentes |
+| Payout Ratio Ações    | Dividendos pagos / Lucro líquido                    | 0,15 | CVM     | Ajustar por eventos extraordinários |
+| ROE                   | Lucro líquido / Patrimônio líquido                  | 0,20 | CVM     | Média dos últimos 5 anos |
+| Liquidez Média        | Volume financeiro médio diário                      | 0,10 | B3      | Excluir ativos com baixa liquidez |
+| P/VP FIIs             | Preço de mercado / Valor patrimonial                | 0,15 | B3      | Atualizado trimestralmente |
+|-----------------------|-----------------------------------------------------|------|---------|------------|
+
+---
+
+## Priorização
+- Se não for possível entregar todos os itens, priorizar:  
+  1. Sumário Executivo  
+  2. Tabelas por classe de ativo  
+  3. Gráficos ou tabelas substitutas  
+  4. Notas metodológicas  
+
+---
+
+## Requisitos Visuais
+- Gráficos devem conter:  
+  - Legenda clara  
+  - Título descritivo  
+  - Escala temporal (mensal ou anual)  
+  - Cores distintas por classe de ativo  
+  - Linha de tendência quando aplicável  
+
+---
+
+## Resultado Esperado
+Um relatório **executivo, modular e robusto**, com:  
+- Clareza e hierarquia (sumário → tabelas → gráficos → notas)  
+- Fórmulas matemáticas explícitas e pesos claros  
+- Cenários de projeção bem definidos (conservador, base, otimista)  
+- Regras de exclusão e qualidade aplicadas  
+- Flexibilidade para lidar com ausência de dados (benchmarks e estimativas)  
+- Estilo executivo consistente: frases curtas, objetivas, linguagem corporativa  
+- 
+---
+
+## Estimativa Final de Patrimônio
+- Calcule o patrimônio acumulado ao final do período (Jan/2031).
+- Mostre tabela consolidada por categoria de investimento (FIIs, Ações, Tesouro, LCI/LCA).
+- Inclua percentual de participação (%) de cada categoria.
+- Finalize com um resumo executivo em até 150 palavras, destacando patrimônio total, concentração por classe e principais riscos.
+
+
+- Patrimônio Total ao Final do Período (Jan/2031)
+ - Mostrar valor acumulado considerando aportes + rendimentos projetados.
+- Exibir em formato monetário (R$).
+ - Distribuição por Categoria de Investimento
+- Tabela consolidada com o total acumulado em cada classe: FIIs, Ações Dividendos, Tesouro IPCA/SELIC, LCI/LCA.
+ - Percentual de participação (%) de cada classe no patrimônio final.
+- Resumo Executivo Final
+ - Frases curtas e objetivas, estilo executivo.
+ - Exemplo: “Ao final de 6 anos, o patrimônio estimado é de R$ X,XX,XX,XX, com maior concentração em FIIs (40%), seguido por Tesouro IPCA (25%). Risco moderado, liquidez adequada.”
+- Formato da Tabela Final
+ - Categoria|Valor Estimado (R$)|% do Patrimônio Final|Observação (Risco/Retorno)|
+ 
+## Ranking Setorial – Principais Empresas da B3 (2025)
+ - **Exiba a data do ultimo fechamento**
+ - Quero que me monte um ranking das principais empresas do ramo de energia eletrica, energia renovavel, logistica e transportes rodoviarios, petroliferas, tecnologia, Concessionárias de Rodovias e saude mostrando o dividend yielde, crescimento e risco
+ - **Levar em consideração a data do ultimo fechamento**
+ - Formato da Tabela Final
+  - Setor|Empresa|Valor Ativo Avista| Valor Ativo Fracionário|Variação de preço|Variação %|Dividend yield (2025)|Crescimento|Risco
+## Simulação de Carteira Diversificada (2026–2031)
+ -  montar uma simulação prática de carteira diversificada até 2031, incluindo os setores que você pediu: energia elétrica, energia renovável, logística/transportes rodoviários, petrolíferas, tecnologia, concessionárias de rodovias e saúde.

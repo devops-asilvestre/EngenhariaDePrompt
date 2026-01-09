@@ -1,0 +1,76 @@
+```
+# 📌 Analise financeira dos melhores e mais rentaveis fundos de investimentos
+
+## Objetivo
+- Realizar analise financeira dos melhores e mais rentaveis fundos de investimentos.  
+- Me ajude a montar uma tabela onde eu possa apresentar um plano detalhado ao meu cliente.
+
+## Ranking Setorial – Principais Empresas da B3 (2025)
+ - **Exiba a data do ultimo fechamento**
+ - Quero que me monte um ranking das principais empresas do ramo de energia eletrica, energia renovavel, logistica e transportes rodoviarios, petroliferas, tecnologia, Concessionárias de Rodovias e saúde mostrando o dividend yielde, crescimento e risco
+ - **Levar em consideração a data do ultimo fechamento**
+ - Formato da Tabela Final
+  -|Setor|Empresa| Preço Unitário (1)|Preço Lote Cheio (100)|Variação % YTD|Dividend Yield 2025|ROE|Dívida Líq./EBITDA|Crescimento (CAGR)|Liquidez Média|Risco|
+
+--
+
+## Fontes e Data de Corte
+- Use dados históricos e de fechamento até **Novembro/2025**.
+- Cite as fontes utilizadas (**B3, CVM, Tesouro Direto, ANBIMA**).  
+- Utilize as seguintes fontes de pesquisa (**B3, CVM, Tesouro Direto, ANBIMA**).   
+- Das seguintes classe de ativos (FIIs, Ações com Dividendos, Tesouro IPCA/SELIC, LCI/LCA). 
+- Se algum dado não estiver disponível, indique claramente e proponha uma **estimativa baseada em histórico ou benchmarks médios do setor**.  
+
+-- 
+## Métricas por Classe de Ativo
+- **FIIs**  
+  - Dividend yield médio 5 anos  
+  - Consistência de pagamento = % de meses com distribuição positiva nos últimos 5 anos  
+  - Vacância (fórmula: área vaga / área total)  
+  - Alavancagem (dívida / patrimônio líquido)  
+  - P/VP  
+  - Liquidez média diária  
+  - Volatilidade (desvio padrão anualizado dos retornos diários)  
+
+- **Ações com Dividendos**  
+  - Dividend yield  
+  - Payout ratio  
+  - CAGR de dividendos 5 anos  
+  - Estabilidade = desvio padrão do dividend yield em 5 anos  
+  - ROE  
+  - Dívida líquida/EBITDA  
+  - Volatilidade (desvio padrão anualizado dos retornos)  
+  - Liquidez  
+
+- **Tesouro IPCA/SELIC**  
+  - Título  
+  - Taxa indicativa  
+  - PU atual  
+  - Vencimento  
+  - Duration (sensibilidade a variação de 1 p.p. na curva)  
+  - Risco de marcação a mercado  
+
+- **LCI/LCA**  
+  - Emissor  
+  - Taxa (% do CDI ou taxa fixa)  
+  - Prazo  
+  - Carência  
+  - Cobertura FGC  
+  - Liquidez  
+
+
+--
+## Estrutura da Resposta
+1. **Sumário Executivo**  
+   - Máx. 1200 palavras  
+   - Alocação proposta  
+   - Principais riscos e mitigação  
+
+2. **Tabelas por Classe de Ativo**  
+   - Top 15 ativos por classe  
+   - Score calculado (mostrar fórmula)  
+   - Justificativa breve (2–3 frases: méritos e riscos)  
+
+
+--
+```
