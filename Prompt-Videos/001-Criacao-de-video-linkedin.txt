@@ -1,0 +1,40 @@
+Crie um vídeo profissional para LinkedIn com duração mínima de 3 minutos, apresentando o perfil de Alessandro Silvestre, Analista e Especialista em Desenvolvimento Backend C#. 
+
+O vídeo deve ter tom inspirador e corporativo, com narrativa clara e envolvente. Estruture em blocos:
+
+1. Introdução:
+   - Apresentar Alessandro Silvestre como especialista em Backend C# com mais de 20 anos de experiência.
+   - Destacar atuação em empresas nacionais e multinacionais, com foco em APIs, microsserviços e soluções em cloud (Azure, AWS, GCP).
+
+2. Competências Técnicas:
+   - Mostrar expertise em linguagens e frameworks: C#, .NET 6/8, Node.js, TypeScript.
+   - Bancos de dados: SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, Redis.
+   - Cloud & DevOps: Docker, Kubernetes, CI/CD, Azure DevOps, SonarQube.
+   - Segurança e autenticação: OAuth, OpenID, JWT.
+   - Testes e qualidade: xUnit, integração e performance.
+
+3. Competências Interpessoais:
+   - Comunicação clara, liderança técnica, proatividade e foco em resultados.
+   - Adaptabilidade e disponibilidade para viagens e mudanças.
+
+4. Experiência Profissional:
+   - Breve narrativa das principais empresas: Amil, MC1 Global, DB Diagnósticos, Marfrig, Montreal, Grupo Laureate.
+   - Mostrar impacto em projetos de saúde, educação, e grandes corporações.
+
+5. Formação e Cursos:
+   - Gestão Financeira (em andamento), Redes de Computadores, Gestão em Marketing.
+   - Cursos recentes em IA aplicada ao financeiro e Linux DevOps Pro.
+
+6. Encerramento:
+   - Reforçar a mensagem de evolução contínua e entrega de valor.
+   - Call to Action: "Conecte-se comigo no LinkedIn e vamos construir soluções escaláveis e inovadoras juntos."
+   - Incluir o LinkedIn direto: "linkedin.com/in/alessandro-silvestre-devops"
+
+Estilo visual:
+- Layout corporativo moderno, com transições suaves e gráficos dinâmicos.
+- Música de fundo motivadora e profissional.
+- Inserir legendas e destaques visuais para pontos-chave.
+
+Formato: Horizontal (16:9), ideal para LinkedIn.
+Duração: Entre 3 e 3,5 minutos.
+Legendas: Sempre ativas, para aumentar acessibilidade e retenção.

@@ -1,0 +1,139 @@
+===========================================================
+        SUPER-PROMPT ASCII - ANÁLISE CAMBIAL PROFISSIONAL
+        PYG vs BRL/USD (Últimos 6 meses - Diário)
+===========================================================
+
+OBJETIVO:
+- Obter série diária completa de BRL/USD (Ptax) e PYG/USD.
+- Derivar taxa PYG/BRL para cada dia.
+- Incluir TODAS as colunas já definidas + métricas avançadas.
+- Validar cálculos com checklist de qualidade.
+- Revisar métricas com fluxo de auditoria passo-a-passo.
+- Consolidar em planilha única para análise e gráficos.
+
+-----------------------------------------------------------
+ETAPAS DE EXECUÇÃO:
+
+1. COLETA BRL/USD (Ptax - Banco Central do Brasil)
+   - Acessar: https://ptax.bcb.gov.br/ptax_internet/consultaBoletim.do
+   - Selecionar:
+     * Data inicial: 18/07/2025
+     * Data final:   18/01/2026
+     * Moeda: USD
+
+2. COLETA PYG/USD (Guarani vs Dólar)
+   - Fonte oficial: Banco Central do Paraguai (BCP).
+   - Alternativas: XE.com, OANDA, Investing.com.
+   - Selecionar mesmo intervalo de datas: 18/07/2025 a 18/01/2026.
+
+3. CONSOLIDAÇÃO EM PLANILHA ÚNICA
+   - Abrir Excel/Google Sheets.
+   - Criar aba "Dados Consolidados".
+   - Colunas sugeridas:
+
+     | Data | BRL/USD (Compra) | BRL/USD (Venda) | Spread | BRL/USD Média |
+     | PYG/USD (Compra) | PYG/USD (Venda) | PYG/USD Média |
+     | PYG/BRL (Compra) | PYG/BRL (Venda) | PYG/BRL Média |
+     | Variação diária (%) | Retorno log (%) |
+     | Média móvel 7d | Média móvel 30d |
+     | Volatilidade 30d | Máx/Mín acumulado |
+     | Sharpe diário (com Rf real) | Sharpe anualizado |
+     | Drawdown Máx | Beta Cambial |
+     | VaR (95% empírico) | VaR (95% paramétrico CF) |
+     | Taxa de juros BR | Taxa de juros PY |
+     | Inflação BR | Inflação PY |
+     | Volume de negociação (se disponível) |
+     | Eventos macro relevantes (COPOM, BCP, etc.) |
+
+   - Fórmulas principais:
+     * Spread = Venda - Compra
+     * Média = (Compra + Venda) ÷ 2
+     * PYG/BRL = PYG/USD ÷ BRL/USD
+     * Variação diária (%) = (Cotação hoje - Cotação ontem) ÷ Cotação ontem × 100
+     * Retorno log = ln(P_t / P_t-1)
+     * Média móvel = MÉDIA(intervalo)
+     * Volatilidade = DESVPAD(intervalo)
+     * Sharpe diário = (Retorno diário - Rf diário) ÷ Volatilidade diária
+     * Sharpe anual = Sharpe diário × √252
+     * Drawdown = Máx acumulado - Valor atual
+     * Beta = COV(PYG, BRL) ÷ VAR(BRL)
+     * VaR empírico = Percentil 5% da série de retornos
+     * VaR CF = μ + σ * z_CF (Cornish-Fisher)
+       - z_CF ≈ z + (S/6)(z² - 1) + (K/24)(z³ - 3z) - (S²/36)(2z³ - 5z)
+     * Taxa de juros = conforme dados oficiais (SELIC, BCP)
+     * Inflação = IPCA (Brasil), IPC-PY (Paraguai)
+
+4. VALIDAÇÃO
+   - Conferir alinhamento das datas (sem lacunas).
+   - Garantir que cada linha tenha valores para todas as colunas.
+   - Corrigir feriados ou dias sem cotação.
+
+
+-----------------------------------------------------------
+CHECKLIST DE QUALIDADE - MÉTRICAS CAMBIAIS
+
+VALIDAÇÃO DE DADOS BÁSICOS:
+[ ] Datas alinhadas (sem lacunas ou duplicações).
+[ ] BRL/USD (Compra/Venda) conferidos com fonte oficial (BCB).
+[ ] PYG/USD conferido com fonte oficial (BCP ou agregadores confiáveis).
+[ ] PYG/BRL derivado corretamente.
+[ ] Spread e médias corretos.
+
+VALIDAÇÃO DE MÉTRICAS DE VARIAÇÃO:
+[ ] Variação diária (%) correta.
+[ ] Retorno log = ln(P_t / P_t-1).
+[ ] Médias móveis (7d e 30d).
+[ ] Volatilidade 30d consistente.
+[ ] Máx/Mín acumulado atualizado.
+
+VALIDAÇÃO DE MÉTRICAS DE RISCO:
+[ ] Sharpe diário = (Retorno - Rf) ÷ Volatilidade.
+[ ] Sharpe anual = Sharpe diário × √252.
+[ ] Drawdown Máx correto.
+[ ] Beta Cambial calculado.
+[ ] VaR empírico = Percentil 5% dos retornos.
+[ ] VaR CF = μ + σ * z_CF (Cornish-Fisher).
+
+VALIDAÇÃO DE CONTEXTO MACRO:
+[ ] Taxa de juros BR (SELIC).
+[ ] Taxa de juros PY (BCP).
+[ ] Inflação BR (IPCA).
+[ ] Inflação PY (IPC-PY).
+[ ] Eventos macro relevantes registrados.
+
+-----------------------------------------------------------
+FLUXO DE AUDITORIA - REVISÃO DE CÁLCULOS
+
+INÍCIO
+  |
+  v
+[1] Conferir dados brutos
+  |
+  v
+[2] Validar cálculos básicos
+  |
+  v
+[3] Validar métricas de tendência
+  |
+  v
+[4] Validar métricas de risco
+  |
+  v
+[5] Validar contexto macro
+  |
+  v
+[6] Revisão final
+  |
+  v
+FIM 
+
+-----------------------------------------------------------
+RESULTADO ESPERADO:
+- Série diária completa com TODAS as colunas originais +
+  métricas avançadas de risco (Sharpe, Beta, Drawdown, VaR empírico,
+  VaR Cornish-Fisher, juros, inflação, volume, eventos macro).
+- Checklist de qualidade aplicado.
+- Fluxo de auditoria seguido.
+- Base robusta e confiável para decisão de investimento em PYG.
+
+===========================================================
