@@ -13,7 +13,7 @@ O objetivo deste repositório é documentar, versionar e compartilhar conhecimen
 - **Prompt-MeuLivro** → Prompts relacionados ao desenvolvimento de um livro sobre Inteligência Artificial Corporativa.  
 - **Prompt-Financas** → Prompts voltados para estudos e aplicações em finanças, como renda passiva.  
 - **MaterialEstudo-Livros-eBook-Artigos** → Biblioteca de referência com artigos, eBooks e livros utilizados como base teórica.
-
+- **Prompt-RH-Drielly** → Prompts voltados para desenvolvimentos de artigos para movimentar linkedin
 ---
 
 ## 🎯 Objetivos
