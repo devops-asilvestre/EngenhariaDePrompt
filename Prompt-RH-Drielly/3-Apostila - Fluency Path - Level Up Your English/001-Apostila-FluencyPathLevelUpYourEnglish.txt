@@ -1,0 +1,3792 @@
+[PROMPT MESTRE - APOSTILA DE INGLÊS - FLUENCY PATH: LEVEL UP YOUR ENGLISH]
+====================================================================
+Execução: Analise este prompt e na sequencia **Inicie a redação da apostila seguindo a ordem explicita na seção [MAPA EDITORIAL – FLUENCY PATH: LEVEL UP YOUR ENGLISH] e [TÓPICOS A SEREM REDIGIDOS NA APOSTILA]**
+
+Objetivo prompt:Crie um conteúdo para uma apostila (FLUENCY PATH: LEVEL UP YOUR ENGLISH) de inglês voltada para pessoas entre 15 e 40 anos. 
+O conteúdo deve ser claro, didático e motivador, com linguagem acessível e exemplos práticos. 
+Cada tópico deve conter:
+
+1. Título do tópico
+2. Texto explicativo em 2 a 3 parágrafos:
+   - Explique o conceito de forma simples e envolvente.
+   - Inclua exemplos práticos e comparações quando necessário.
+   - Utilize metáforas leves ou analogias para facilitar a compreensão.
+   - Indique quando houver artefatos visuais, gráficos, tabelas ou links de apoio audiovisual.
+3. Objetivos de aprendizagem (em bullets):
+   - Liste os pontos principais que o aluno deve compreender.
+   - Use frases curtas e diretas.
+4. Lista de Exercícios:
+   - Crie de 5 a 10 exercícios variados (tradução, completar frases, múltipla escolha, prática oral).
+   - Os exercícios devem ser progressivos (do mais simples ao mais desafiador).
+5. Solução dos Exercícios:
+   - Apresente as respostas corretas de forma organizada.
+   - Explique brevemente quando necessário (não apenas dar a resposta).
+6. Recursos visuais e audiovisuais:
+   - Indique onde inserir gráficos, tabelas ou links de apoio audiovisual.
+
+[PERSONA]
+--------------------------------------------------------------------
+- Você é um especialista em ensino de Inglês com mais de 20 anos de experiência em grandes instituições de ensino e cursos de idiomas.
+- Professor universitário e autor de materiais didáticos reconhecidos.
+- Estilo de escrita: tom didático, estruturado em frameworks visuais (tabelas de vocabulário, quadros de regras, comparações entre inglês britânico e americano), estudos de caso práticos e exemplos cotidianos, equilibrando profundidade técnica com aplicabilidade para estudantes.
+- O especialista deve adaptar linguagem clara e consultiva para estudantes, autodidatas e profissionais que desejam aplicar o inglês em contextos corporativos e acadêmicos.
+- Traços de personalidade:
+  * Credibilidade: fundamentar explicações em regras gramaticais reconhecidas, exemplos de uso real e referências confiáveis (gramáticas tradicionais, Cambridge, Oxford).
+  * Pragmatismo: foco em aplicações práticas da língua (diálogos, situações de trabalho, viagens, comunicação digital).
+  * Autoridade comparativa: usar paralelos históricos e culturais (ex.: diferenças entre inglês britânico e americano) para reforçar credibilidade.
+- Nível de formalidade: médio‑alto, evitando coloquialismos excessivos, mas explicando jargões e expressões quando necessário.
+- Consistência de voz: manter terminologia uniforme ao longo da apostila, com glossário opcional, padronização de exemplos e uso consistente de frameworks visuais.
+- Neutralidade analítica: apresentar variações de uso (ex.: britânico vs. americano, formal vs. informal) e manter imparcialidade ao tratar tendências linguísticas, sempre orientando para implicações práticas no aprendizado.
+
+[REGRAS ESTRUTURAIS]
+--------------------------------------------------------------------
+- O conteúdo deve estar sempre alinhado ao escopo definido em 
+  "Apostila de Inglês Básico: Estrutura, Gramática e Vocabulário para uso prático".
+- **As explicações e textos explicativos da apostila devem ser escritos em português, garantindo clareza didática para o estudante.**
+- **Todos os exemplos, exercícios, artefatos visuais, soluções e demais conteúdos práticos devem ser apresentados integralmente em inglês, assegurando imersão e prática do idioma.**
+- Cada tópico da apostila deve conter mínimo de 3 à 4 artefatos visuais, sejam estes 
+  (figuras ilustrativas, tabelas de vocabulário, gráficos comparativos, quadros de regras), 
+  numerados sequencialmente e citados no corpo do texto.
+- **Todos os tópicos da apostila devem incluir recursos audiovisuais (links de apoio), sendo obrigatório em pelo menos 80% dos tópicos.**
+- **Os links de apoio audiovisual devem ser buscados no YouTube, sempre relacionados diretamente ao tópico descrito (ex.: vídeo de pronúncia para "Alphabet", vídeo de explicação para "Simple Present").**
+- **Cada indicação de recurso audiovisual deve ser contextualizada no texto, explicando como o vídeo complementa o aprendizado.**
+- O material deve manter consistência editorial, linguagem clara e foco em aplicabilidade prática 
+  para estudantes e autodidatas entre 15 e 40 anos.
+- Todas as explicações gramaticais ou comparativas devem ser acompanhadas de exemplos práticos 
+  (frases, diálogos ou situações cotidianas).
+- Nenhum conceito pode ser apresentado de forma genérica; sempre indicar exemplos concretos 
+  (ex.: "She is a teacher" para Verb To Be).
+- As referências a pronúncia, uso ou regras devem ser integradas no corpo do texto, em estilo didático 
+  (ex.: "Note que a letra 'H' não é pronunciada em 'hour'").
+- Quando não houver regra oficial ou consenso gramatical, deve-se sinalizar explicitamente como 
+  hipótese, variação de uso ou cenário prospectivo (ex.: diferenças entre inglês britânico e americano).
+
+[EXECUÇÃO E DIRETRIZES]
+--------------------------------------------------------------------
+
+1. Estrutura de tópicos e subtítulos
+- Cada tópico da apostila deve iniciar com o título correspondente usando heading Markdown:
+  ## Nome do Tópico
+- Cada subtópico (Explicação, Lista de Exercícios, Solução dos Exercícios) deve iniciar com heading Markdown:
+  ### Nome do Subtópico
+- Os títulos devem aparecer exatamente como definidos no índice da apostila.
+- Usar Markdown para clareza visual dos títulos, subtítulos, listas e tabelas.
+- Cada tópico deve ter profundidade e consistência didática em seu conteúdo.
+- O número de parágrafos por tópico é flexível, variando conforme a complexidade do assunto tratado.
+
+2. Numeração de parágrafos
+---------------------------
+- A numeração dos parágrafos é contínua ao longo de toda a apostila.
+  Exemplo:
+    - Tópico "Alphabet" começa no Parágrafo 1 e termina no Parágrafo 20.
+    - Tópico "Cardinal Numbers" começa no Parágrafo 21 e termina no Parágrafo 40.
+- Nunca reiniciar a numeração dentro de um tópico ou subtópico.
+- Cada parágrafo deve:
+  * Representar uma ou duas ideias centrais, desenvolvidas de forma clara e detalhada.
+  * O **PARÁGRAFO DEVE TER NO MÍNIMO 250 CARACTERES**, garantindo profundidade e riqueza de exemplos.
+  * **Todo parágrafo deve ser descrito com profundidade, desenvolvendo claramente a ideia central, trazendo exemplos práticos, comparações ou analogias quando necessário, evitando explicações superficiais.**
+  * O máximo de caracteres é flexível, variando conforme a complexidade do assunto tratado.
+  * Manter entre 8–15 linhas para consistência visual e densidade textual.
+
+3. Checkpoints de fechamento
+-----------------------------
+- Ao final de cada tópico, escrever explicitamente:
+  "Tópico X concluído com Y parágrafos."
+- Isso serve como confirmação de que o tópico foi encerrado corretamente.
+- Cada lote deve terminar com separador padrão ("---") e mini-resumo didático com objetivos atingidos.
+
+4. Entrega incremental
+-----------------------
+- Produção em lotes (cada lote pode conter 2 a 3 tópicos).
+- Cada lote deve incluir checkpoint editorial:
+  * Coesão e progressão lógica.
+  * Consistência terminológica e glossário atualizado.
+  * Ausência de redundância e ligação explícita com o índice.
+- Revisão contínua: cada lote deve estar pronto para copiar e colar no editor sem ajustes manuais.
+
+5. Conteúdo e estilo
+---------------------
+- O texto deve ser claro, estruturado e fundamentado em exemplos práticos.
+- Usar linguagem didática-consultiva, conectando conceitos gramaticais a aplicações cotidianas.
+- Cada tópico deve iniciar com uma questão prática (ex.: "Como soletrar seu nome em inglês?") e terminar com implicações para o aprendizado (ex.: "Agora você já consegue se apresentar corretamente.").
+- Artefatos visuais (figuras, tabelas, gráficos, quadros) devem ter título, legenda e numeração sequencial por tópico (ex.: Figura 1.1, Tabela 2.2).
+- Referência cruzada obrigatória: toda figura/tabela deve ser citada e explicada no texto.
+- O conteúdo deve ser apresentado em blocos visuais sempre que possível, utilizando quadros comparativos, tabelas de vocabulário e exemplos práticos para facilitar a leitura e consulta rápida.
+
+6. Uso de siglas e termos
+--------------------------
+- Sempre que houver necessidade de uso de siglas ou termos técnicos, estes devem ser explicados na primeira ocorrência.
+- O formato deve ser: TERMO (tradução ou explicação em português).
+  Exemplo: ESL (English as a Second Language ou Inglês como Segunda Língua).
+- Após a primeira explicação, o termo pode ser usado isoladamente ao longo do texto.
+- O glossário didático deve incluir todos os termos utilizados, com definições claras e consistentes.
+
+7. Prefácio e Resumo
+---------------------
+- Prefácio obrigatório: apresentar objetivos pedagógicos, contexto de aprendizado e aplicabilidade prática.
+- Resumo final obrigatório: sintetizar aprendizados, implicações para o uso cotidiano e recomendações práticas de estudo.
+
+[MAPA EDITORIAL – FLUENCY PATH: LEVEL UP YOUR ENGLISH]
+--------------------------------------------------------------------
+
+Prefácio
+	|
+	+-- Objetivos pedagógicos
+	+-- Contexto de aprendizado
+	+-- Dicas de estudo autônomo
+
+Tópicos Fundamentais de Gramática e Vocabulário
+	|
+	+-- Alphabet
+	+-- Cardinal Numbers
+	+-- Ordinal Numbers
+	+-- Indefinite Article
+	+-- Subject Pronouns
+	+-- Verb To Be
+	+-- Verb To Be and Useful Words
+	+-- Demonstrative Pronouns
+	+-- Family Members
+	+-- Greetings, Introductions and Farewell
+	+-- Pronúncia do TH
+	+-- Definite Article
+	+-- Plural Forms
+	+-- Simple Present
+	+-- Simple Past
+	+-- Present Continuous
+	+-- Past Continuous
+	+-- Future Forms
+	+-- Present Perfect
+	+-- Passive Voice
+	+-- Modal Verbs
+	+-- Relative Clauses
+	+-- Reported Speech
+	+-- Possessive Nouns
+
+Tópicos Avançados de Escrita e Produção Textual
+	|
+	+-- Academic Writing – Essay Structure
+	+-- Argumentative Writing
+	+-- Persuasive Writing
+	+-- Narrative Writing
+	+-- Descriptive Writing
+	+-- Creative Writing
+
+Business English
+	|
+	+-- Meetings
+	+-- Emails
+	+-- Presentations
+	+-- Negotiations
+	+-- Customer Service
+	+-- Telephoning
+	+-- Socializing
+
+English for Practical Contexts
+	|
+	+-- Travel
+	+-- Interviews
+	+-- Socializing (cotidiano)
+	+-- Customer Service (atendimento)
+	+-- Telephoning (telefonemas)
+
+Revisão e Consolidação
+	|
+	+-- Revisão Final: “O que você já é capaz de fazer”
+	+-- Atividades de revisão integradas
+	+-- Artefatos visuais: quadro resumo, tabela geral, mapa mental
+
+Glossário Didático
+	|
+	+-- Termos-chave em ordem alfabética
+	+-- Definições claras e exemplos práticos
+	+-- Comparações (inglês britânico vs. americano)
+	+-- Vocabulário aplicado em frases cotidianas
+
+
+[TÓPICOS A SEREM REDIGIDOS NA APOSTILA]
+--------------------------------------------------------------------
+
+[TÓPICO: Prefácio]
+
+Explicação:
+Este material, **Fluency Path – Level Up Your English**, foi desenvolvido para guiar estudantes entre 15 e 40 anos em uma jornada prática e motivadora rumo à fluência. A apostila combina teoria clara, exercícios progressivos, soluções comentadas e recursos visuais para facilitar o aprendizado.  
+
+O objetivo é oferecer uma experiência didática que conecta regras gramaticais a situações reais: viagens, entrevistas, reuniões de trabalho e interações sociais. Cada tópico foi cuidadosamente estruturado para que você avance passo a passo, consolidando conhecimento e confiança.  
+
+Objetivos de aprendizagem:
+- Entender a lógica da língua inglesa de forma clara e acessível.  
+- Aplicar o inglês em contextos cotidianos e profissionais.  
+- Revisar conteúdos com exercícios e flashcards.  
+- Construir autonomia no estudo e prática da língua.  
+
+Indicação de artefatos visuais:
+- Figura 0.1: Linha do tempo da jornada de aprendizado.  
+- Tabela 0.2: Estrutura da apostila (tópicos principais).  
+- Quadro 0.3: Dicas de estudo autônomo.  
+- Link audiovisual: vídeo introdutório sobre como usar a apostila.  
+
+Tópico Prefácio concluído com 3 parágrafos.
+---
+
+[TÓPICO: ALPHABET]
+
+Explicação:
+O alfabeto inglês é composto por 26 letras, divididas em vogais (A, E, I, O, U) e consoantes. 
+Aprender o alfabeto é essencial para a pronúncia correta das palavras, soletração de nomes e 
+compreensão de estruturas básicas da língua. 
+Cada letra possui um som específico, e algumas podem variar dependendo da palavra em que aparecem. 
+Durante o estudo, é importante praticar tanto a leitura quanto a pronúncia, utilizando recursos 
+visuais e audiovisuais como tabelas fonéticas e vídeos de apoio.
+
+Objetivos de aprendizagem:
+    * Reconhecer as 26 letras do alfabeto inglês.
+    * Diferenciar vogais e consoantes.
+    * Soletrar palavras simples corretamente.
+    * Praticar a pronúncia de cada letra.
+    * Utilizar o alfabeto em situações cotidianas (ex.: soletrar nomes).
+
+Lista de Exercícios:
+    1. Escreva todas as letras do alfabeto em ordem.
+    2. Classifique cada letra como vogal ou consoante.
+    3. Soletrar seu nome em inglês utilizando o alfabeto.
+    4. Complete: A, B, C, __, E, F, __, H.
+    5. Assista a um vídeo de pronúncia do alfabeto e repita em voz alta.
+    6. Crie uma lista de 5 palavras e soletrar cada uma delas.
+
+Solução dos Exercícios:
+    1. A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+    2. Vogais: A, E, I, O, U | Consoantes: todas as demais.
+    3. Exemplo: "Alessandro" → A L E S S A N D R O.
+    4. Resposta: D, G.
+    5. Resposta prática: repetir o vídeo em voz alta.
+    6. Exemplo: "Cat" → C A T | "Dog" → D O G | "Book" → B O O K | "Sun" → S U N | "Tree" → T R E E.
+
+Indicação de artefatos visuais:
+    - Inserir tabela com as 26 letras e seus fonemas.
+    - Gráfico comparando vogais e consoantes.
+    - Link de apoio audiovisual: vídeo de pronúncia do alfabeto (YouTube).
+
+---
+[TÓPICO: CARDINAL NUMBERS]
+
+Explicação:
+Os números cardinais em inglês são utilizados para contar e indicar quantidades. 
+Eles vão de "one" (um) até "infinity" (infinito), mas os mais comuns no uso cotidiano 
+são de 1 a 100. Aprender os números cardinais é essencial para situações práticas 
+como dizer a idade, falar preços, contar objetos ou indicar quantidades em geral. 
+É importante praticar tanto a escrita quanto a pronúncia, pois alguns números 
+possuem sons semelhantes e podem gerar confusão (ex.: "thirteen" e "thirty").
+
+Objetivos de aprendizagem:
+    * Reconhecer e escrever os números cardinais em inglês.
+    * Praticar a pronúncia correta dos números de 1 a 100.
+    * Utilizar números cardinais em frases cotidianas (idade, preços, quantidades).
+    * Diferenciar números com sons semelhantes (ex.: thirteen vs. thirty).
+    * Aplicar números cardinais em diálogos simples.
+
+Lista de Exercícios:
+    1. Escreva os números de 1 a 20 em inglês.
+    2. Traduza para inglês: "Eu tenho três livros."
+    3. Complete: Ten, Eleven, Twelve, ___, Fourteen.
+    4. Escreva sua idade em inglês.
+    5. Leia em voz alta os números: 13, 30, 15, 50.
+    6. Crie uma frase usando o número 100.
+
+Solução dos Exercícios:
+    1. One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Eleven, Twelve, 
+       Thirteen, Fourteen, Fifteen, Sixteen, Seventeen, Eighteen, Nineteen, Twenty.
+    2. "I have three books."
+    3. Resposta: Thirteen.
+    4. Exemplo: "I am thirty years old."
+    5. Pronúncia prática: Thirteen (13), Thirty (30), Fifteen (15), Fifty (50).
+    6. Exemplo: "There are one hundred students in the school."
+
+Indicação de artefatos visuais:
+    - Tabela com números de 1 a 100 e suas pronúncias.
+    - Quadro comparativo: números terminados em -teen vs. -ty.
+    - Gráfico ilustrando uso de números em situações cotidianas (idade, preços, quantidades).
+    - Link de apoio audiovisual: vídeo de pronúncia dos números cardinais.
+
+---
+
+[TÓPICO: ORDINAL NUMBERS]
+
+Explicação:
+Os números ordinais em inglês são usados para indicar posição ou ordem em uma sequência 
+(ex.: first, second, third). Eles são fundamentais para falar de datas, classificações, 
+andar de prédios ou etapas de processos. É importante diferenciar a escrita e a pronúncia 
+dos ordinais, pois alguns possuem terminações específicas (-th, -st, -nd, -rd).
+
+Objetivos de aprendizagem:
+    * Reconhecer e escrever números ordinais em inglês.
+    * Utilizar ordinais em frases cotidianas (datas, posições, classificações).
+    * Diferenciar terminações corretas (-th, -st, -nd, -rd).
+    * Praticar pronúncia dos ordinais mais comuns.
+
+Lista de Exercícios:
+    1. Escreva os números ordinais de 1 a 10 em inglês.
+    2. Traduza: "Hoje é o primeiro dia de aula."
+    3. Complete: First, Second, Third, ___, Fifth.
+    4. Escreva em inglês: "Ele mora no terceiro andar."
+    5. Leia em voz alta: 21st, 22nd, 23rd, 24th.
+
+Solução dos Exercícios:
+    1. First, Second, Third, Fourth, Fifth, Sixth, Seventh, Eighth, Ninth, Tenth.
+    2. "Today is the first day of class."
+    3. Resposta: Fourth.
+    4. "He lives on the third floor."
+    5. Pronúncia prática: Twenty-first, Twenty-second, Twenty-third, Twenty-fourth.
+
+Indicação de artefatos visuais:
+    - Tabela com ordinais de 1 a 100.
+    - Quadro comparativo: terminações -th, -st, -nd, -rd.
+    - Linha do tempo com ordinais aplicados a datas.
+    - Link audiovisual: vídeo explicativo sobre ordinais.
+---
+
+[TÓPICO: INDEFINITE ARTICLE]
+
+Explicação:
+Os artigos indefinidos em inglês são "a" e "an". Eles são usados para se referir a algo 
+não específico ou mencionado pela primeira vez. A escolha entre "a" e "an" depende do som 
+da palavra seguinte: "a" antes de consoantes (a book), "an" antes de vogais (an apple). 
+Esse conceito é essencial para construir frases simples corretamente.
+
+Objetivos de aprendizagem:
+    * Diferenciar o uso de "a" e "an".
+    * Aplicar artigos indefinidos em frases cotidianas.
+    * Reconhecer padrões de uso com palavras iniciadas por vogais e consoantes.
+    * Praticar exemplos em situações reais.
+
+Lista de Exercícios:
+    1. Complete: I have ___ dog.
+    2. Complete: She is eating ___ orange.
+    3. Traduza: "Ele comprou um livro."
+    4. Escreva três frases usando "a".
+    5. Escreva três frases usando "an".
+
+Solução dos Exercícios:
+    1. "I have a dog."
+    2. "She is eating an orange."
+    3. "He bought a book."
+    4. Exemplos: "I saw a car." / "She has a pen." / "He is a teacher."
+    5. Exemplos: "I ate an apple." / "She bought an umbrella." / "He saw an elephant."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: uso de "a" vs. "an".
+    - Tabela com exemplos de palavras iniciadas por vogais e consoantes.
+    - Ilustrações com frases simples.
+    - Link audiovisual: vídeo sobre artigos indefinidos.
+---
+
+[TÓPICO: SUBJECT PRONOUNS]
+
+Explicação:
+Os pronomes sujeitos em inglês são usados para indicar quem realiza a ação na frase. 
+Eles são: I, You, He, She, It, We, They. São fundamentais para a construção de frases 
+simples e para o entendimento da conjugação verbal. É importante praticar tanto a escrita 
+quanto a pronúncia, além de observar diferenças entre singular e plural.
+
+Objetivos de aprendizagem:
+    * Reconhecer os pronomes sujeitos em inglês.
+    * Utilizar pronomes sujeitos em frases simples.
+    * Diferenciar singular e plural.
+    * Praticar pronúncia e escrita dos pronomes.
+
+Lista de Exercícios:
+    1. Escreva todos os pronomes sujeitos em inglês.
+    2. Complete: ___ am a student.
+    3. Traduza: "Eles são meus amigos."
+    4. Escreva três frases usando "He".
+    5. Escreva três frases usando "They".
+
+Solução dos Exercícios:
+    1. I, You, He, She, It, We, They.
+    2. "I am a student."
+    3. "They are my friends."
+    4. Exemplos: "He is tall." / "He plays soccer." / "He is my brother."
+    5. Exemplos: "They are happy." / "They study English." / "They live in Brazil."
+
+Indicação de artefatos visuais:
+    - Tabela com pronomes sujeitos e exemplos.
+    - Quadro comparativo: singular vs. plural.
+    - Ilustrações com frases simples.
+    - Link audiovisual: vídeo sobre pronomes sujeitos.
+---
+
+[TÓPICO: VERB TO BE]
+
+Explicação:
+O verbo "to be" é um dos mais importantes da língua inglesa, pois significa "ser" ou "estar". 
+Ele é usado para descrever estados, identidades e condições. Suas formas no presente são: 
+am, is, are. É essencial compreender como conjugar o verbo "to be" em diferentes pessoas 
+(I am, You are, He/She/It is, We are, They are) e aplicá-lo em frases simples do cotidiano.
+
+Objetivos de aprendizagem:
+    * Reconhecer as formas do verbo "to be".
+    * Conjugar corretamente o verbo "to be" no presente.
+    * Utilizar "to be" em frases afirmativas, negativas e interrogativas.
+    * Aplicar o verbo em situações cotidianas (apresentações, descrições, estados).
+
+Lista de Exercícios:
+    1. Complete: I ___ a student.
+    2. Traduza: "Ela é professora."
+    3. Escreva três frases afirmativas usando "to be".
+    4. Escreva três frases negativas usando "to be".
+    5. Transforme a frase "He is happy" em pergunta.
+
+Solução dos Exercícios:
+    1. "I am a student."
+    2. "She is a teacher."
+    3. Exemplos: "I am happy." / "You are tall." / "We are friends."
+    4. Exemplos: "I am not sad." / "He is not busy." / "They are not students."
+    5. "Is he happy?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do verbo "to be".
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Exemplos visuais com diálogos simples.
+    - Link audiovisual: vídeo explicativo sobre "to be".
+---
+
+[TÓPICO: VERB TO BE AND USEFUL WORDS]
+
+Explicação:
+Além do verbo "to be", é importante aprender palavras úteis que aparecem em frases básicas, 
+como adjetivos (happy, sad, tall, short) e substantivos comuns (student, teacher, friend). 
+A combinação do verbo "to be" com essas palavras permite construir frases completas e 
+significativas para comunicação inicial em inglês.
+
+Objetivos de aprendizagem:
+    * Combinar o verbo "to be" com adjetivos e substantivos.
+    * Construir frases simples e úteis para o dia a dia.
+    * Reconhecer vocabulário básico associado ao verbo "to be".
+    * Praticar pronúncia e escrita de palavras úteis.
+
+Lista de Exercícios:
+    1. Complete: She ___ my friend.
+    2. Traduza: "Eu estou feliz."
+    3. Escreva três frases usando "to be" + adjetivo.
+    4. Escreva três frases usando "to be" + substantivo.
+    5. Crie um diálogo curto usando "to be" e palavras úteis.
+
+Solução dos Exercícios:
+    1. "She is my friend."
+    2. "I am happy."
+    3. Exemplos: "He is tall." / "They are sad." / "I am tired."
+    4. Exemplos: "She is a teacher." / "He is a student." / "We are friends."
+    5. Exemplo: A: "Are you a student?" B: "Yes, I am a student."
+
+Indicação de artefatos visuais:
+    - Lista de adjetivos comuns com tradução.
+    - Tabela de substantivos básicos.
+    - Quadro com frases exemplo.
+    - Link audiovisual: vídeo sobre vocabulário útil com "to be".
+---
+
+[TÓPICO: DEMONSTRATIVE PRONOUNS]
+
+Explicação:
+Os pronomes demonstrativos em inglês são usados para indicar objetos ou pessoas em relação 
+à distância: this (este/esta), that (aquele/aquela), these (estes/estas), those (aqueles/aquelas). 
+Eles ajudam a identificar e diferenciar elementos próximos ou distantes, no singular ou plural.
+
+Objetivos de aprendizagem:
+    * Reconhecer os pronomes demonstrativos (this, that, these, those).
+    * Diferenciar singular e plural.
+    * Utilizar pronomes demonstrativos em frases cotidianas.
+    * Praticar pronúncia e escrita dos pronomes.
+
+Lista de Exercícios:
+    1. Complete: ___ is my book. (perto)
+    2. Complete: ___ are my friends. (longe)
+    3. Traduza: "Este é meu carro."
+    4. Escreva três frases usando "this" e "these".
+    5. Escreva três frases usando "that" e "those".
+
+Solução dos Exercícios:
+    1. "This is my book."
+    2. "Those are my friends."
+    3. "This is my car."
+    4. Exemplos: "This is my house." / "These are my shoes." / "This is my phone."
+    5. Exemplos: "That is my teacher." / "Those are my parents." / "That is my dog."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: this/these vs. that/those.
+    - Ilustrações mostrando objetos próximos e distantes.
+    - Tabela com exemplos práticos.
+    - Link audiovisual: vídeo sobre pronomes demonstrativos.
+---
+
+[TÓPICO: FAMILY MEMBERS]
+
+Explicação:
+O vocabulário relacionado a membros da família é essencial para diálogos básicos em inglês. 
+Palavras como father, mother, brother, sister, son, daughter, uncle, aunt, cousin e grandparents 
+são usadas em situações cotidianas para falar sobre parentes e relações familiares. 
+Aprender esses termos ajuda na construção de frases simples e na prática de apresentações pessoais.
+
+Objetivos de aprendizagem:
+    * Reconhecer vocabulário básico de membros da família.
+    * Utilizar termos familiares em frases simples.
+    * Praticar pronúncia correta dos termos.
+    * Construir diálogos curtos sobre família.
+
+Lista de Exercícios:
+    1. Escreva cinco palavras em inglês relacionadas à família.
+    2. Traduza: "Ela é minha irmã."
+    3. Complete: My ___ is very kind. (mãe)
+    4. Escreva três frases usando "father" e "mother".
+    5. Crie um diálogo curto apresentando sua família.
+
+Solução dos Exercícios:
+    1. Father, Mother, Brother, Sister, Cousin.
+    2. "She is my sister."
+    3. "My mother is very kind."
+    4. Exemplos: "My father is tall." / "My mother is a teacher." / "My father and mother are happy."
+    5. Exemplo: A: "This is my family. My father is a doctor and my mother is a nurse." B: "That’s nice!"
+
+Indicação de artefatos visuais:
+    - Tabela com vocabulário de membros da família.
+    - Quadro comparativo: singular vs. plural (brother/brothers).
+    - Ilustrações com árvore genealógica.
+    - Link audiovisual: vídeo sobre vocabulário de família.
+---
+
+[TÓPICO: GREETINGS, INTRODUCTIONS AND FAREWELL]
+
+Explicação:
+Saudações, apresentações e despedidas são fundamentais para a comunicação em inglês. 
+Expressões como "Hello", "Hi", "Good morning", "Nice to meet you" e "Goodbye" são usadas 
+em interações sociais e profissionais. Saber como cumprimentar, se apresentar e se despedir 
+é essencial para iniciar conversas e criar boas impressões.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões básicas de saudação, apresentação e despedida.
+    * Utilizar frases simples em interações sociais.
+    * Praticar pronúncia e entonação adequada.
+    * Construir diálogos curtos com cumprimentos e despedidas.
+
+Lista de Exercícios:
+    1. Escreva três formas de dizer "Olá" em inglês.
+    2. Traduza: "Prazer em conhecê-lo."
+    3. Complete: ___, my name is John.
+    4. Escreva três frases de despedida.
+    5. Crie um diálogo curto com saudação, apresentação e despedida.
+
+Solução dos Exercícios:
+    1. Hello, Hi, Good morning.
+    2. "Nice to meet you."
+    3. "Hello, my name is John."
+    4. Exemplos: "Goodbye." / "See you later." / "Take care."
+    5. Exemplo: A: "Hi, I’m Mary." B: "Hello, I’m Paul. Nice to meet you." A: "Goodbye, see you soon."
+
+Indicação de artefatos visuais:
+    - Quadro com expressões de saudação e despedida.
+    - Tabela com exemplos de apresentações formais e informais.
+    - Ilustrações de diálogos curtos.
+    - Link audiovisual: vídeo sobre cumprimentos em inglês.
+---
+
+[TÓPICO: A PRONÚNCIA DO TH]
+
+Explicação:
+O som "TH" em inglês é um dos mais desafiadores para falantes de português. 
+Ele pode ser pronunciado de duas formas principais: /θ/ (como em "think") e /ð/ (como em "this"). 
+A diferença está na posição da língua entre os dentes e na vibração das cordas vocais. 
+Praticar esse som é essencial para melhorar a pronúncia e evitar confusões com sons semelhantes.
+
+Objetivos de aprendizagem:
+    * Reconhecer os dois sons principais do "TH".
+    * Praticar a posição correta da língua e boca.
+    * Diferenciar palavras com /θ/ e /ð/.
+    * Aplicar a pronúncia correta em frases simples.
+
+Lista de Exercícios:
+    1. Escreva três palavras com som /θ/.
+    2. Escreva três palavras com som /ð/.
+    3. Traduza: "Este é meu irmão."
+    4. Leia em voz alta: think, this, thank, that.
+    5. Crie frases curtas usando palavras com "TH".
+
+Solução dos Exercícios:
+    1. Exemplos: think, thank, three.
+    2. Exemplos: this, that, mother.
+    3. "This is my brother."
+    4. Prática oral: think (/θɪŋk/), this (/ðɪs/), thank (/θæŋk/), that (/ðæt/).
+    5. Exemplos: "I think it is good." / "This is my book." / "Thank you very much."
+
+Indicação de artefatos visuais:
+    - Quadro com palavras divididas por som (/θ/ vs. /ð/).
+    - Ilustrações mostrando posição da língua.
+    - Tabela com exemplos de frases.
+    - Link audiovisual: vídeo sobre pronúncia do "TH".
+---
+
+[TÓPICO: DEFINITE ARTICLE]
+
+Explicação:
+O artigo definido em inglês é "the". Ele é usado para se referir a algo específico ou já conhecido 
+pelo falante e ouvinte. Diferente do português, o "the" não varia em gênero ou número, sendo usado 
+tanto para singular quanto plural, masculino ou feminino. É essencial compreender seu uso em frases 
+cotidianas para indicar objetos, pessoas ou situações específicas.
+
+Objetivos de aprendizagem:
+    * Reconhecer o uso do artigo definido "the".
+    * Aplicar "the" em frases simples e cotidianas.
+    * Diferenciar uso de "the" em singular e plural.
+    * Praticar exemplos em situações reais.
+
+Lista de Exercícios:
+    1. Complete: This is ___ book I told you about.
+    2. Traduza: "O carro está na garagem."
+    3. Escreva três frases usando "the" no singular.
+    4. Escreva três frases usando "the" no plural.
+    5. Crie um diálogo curto utilizando "the".
+
+Solução dos Exercícios:
+    1. "This is the book I told you about."
+    2. "The car is in the garage."
+    3. Exemplos: "The dog is sleeping." / "The house is big." / "The teacher is kind."
+    4. Exemplos: "The books are on the table." / "The cars are fast." / "The students are ready."
+    5. Exemplo: A: "Where is the pen?" B: "The pen is on the desk."
+
+Indicação de artefatos visuais:
+    - Quadro com exemplos de uso de "the".
+    - Tabela comparativa: singular vs. plural.
+    - Ilustrações com frases simples.
+    - Link audiovisual: vídeo sobre artigo definido.
+---
+
+[TÓPICO: PLURAL FORMS]
+
+Explicação:
+O plural em inglês geralmente é formado adicionando "-s" ou "-es" ao substantivo. 
+No entanto, existem regras específicas e exceções, como palavras terminadas em "y" (city → cities) 
+ou plurais irregulares (child → children, man → men). Aprender essas regras é fundamental para 
+construir frases corretas e compreender textos básicos.
+
+Objetivos de aprendizagem:
+    * Reconhecer regras básicas de formação do plural.
+    * Diferenciar plurais regulares e irregulares.
+    * Aplicar plurais em frases cotidianas.
+    * Praticar pronúncia e escrita dos plurais.
+
+Lista de Exercícios:
+    1. Escreva o plural de "book", "car", "dog".
+    2. Escreva o plural de "city", "baby", "lady".
+    3. Escreva o plural de "child", "man", "woman".
+    4. Traduza: "As crianças estão brincando."
+    5. Crie três frases usando plurais irregulares.
+
+Solução dos Exercícios:
+    1. Books, Cars, Dogs.
+    2. Cities, Babies, Ladies.
+    3. Children, Men, Women.
+    4. "The children are playing."
+    5. Exemplos: "The men are working." / "The women are talking." / "The children are studying."
+
+Indicação de artefatos visuais:
+    - Tabela com regras de formação do plural.
+    - Quadro com plurais irregulares.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre plurais em inglês.
+---
+
+[TÓPICO: SIMPLE PRESENT]
+
+Explicação:
+O tempo verbal "Simple Present" é usado para expressar ações habituais, rotinas e fatos gerais. 
+A forma básica do verbo é usada para todas as pessoas, exceto na terceira pessoa singular, 
+onde se adiciona "-s" ou "-es" (ex.: He works, She watches). É importante compreender as regras 
+de conjugação e aplicar o tempo verbal em frases cotidianas.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Simple Present.
+    * Conjugar verbos corretamente na terceira pessoa singular.
+    * Utilizar o tempo verbal em frases afirmativas, negativas e interrogativas.
+    * Praticar exemplos em situações reais.
+
+Lista de Exercícios:
+    1. Complete: She ___ (work) in a bank.
+    2. Traduza: "Eu estudo inglês todos os dias."
+    3. Escreva três frases afirmativas no Simple Present.
+    4. Escreva três frases negativas no Simple Present.
+    5. Transforme a frase "He plays soccer" em pergunta.
+
+Solução dos Exercícios:
+    1. "She works in a bank."
+    2. "I study English every day."
+    3. Exemplos: "I read books." / "They watch TV." / "We play tennis."
+    4. Exemplos: "I do not read books." / "She does not work here." / "They do not play soccer."
+    5. "Does he play soccer?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação de verbos no Simple Present.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Exemplos visuais com rotinas diárias.
+    - Link audiovisual: vídeo sobre Simple Present.
+---
+
+[TÓPICO: SPELLING RULES]
+
+Explicação:
+As regras de ortografia em inglês ajudam a compreender como palavras são formadas e modificadas. 
+Elas incluem padrões como adicionar "-s" para formar plurais, mudar "y" para "ies" em certas palavras, 
+ou adicionar "-ing" para formar o gerúndio. Também existem exceções que precisam ser memorizadas. 
+Dominar essas regras é essencial para escrever corretamente e evitar erros comuns.
+
+Objetivos de aprendizagem:
+    * Reconhecer regras básicas de ortografia em inglês.
+    * Aplicar regras de formação de plurais e gerúndios.
+    * Identificar exceções comuns.
+    * Praticar escrita correta em frases simples.
+
+Lista de Exercícios:
+    1. Escreva o plural de "baby", "city", "box".
+    2. Escreva o gerúndio de "run", "swim", "study".
+    3. Traduza: "Eles estão estudando inglês."
+    4. Complete: play → ___, stop → ___, dance → ___.
+    5. Crie três frases usando palavras no gerúndio.
+
+Solução dos Exercícios:
+    1. Babies, Cities, Boxes.
+    2. Running, Swimming, Studying.
+    3. "They are studying English."
+    4. Playing, Stopping, Dancing.
+    5. Exemplos: "I am running." / "She is dancing." / "They are studying."
+
+Indicação de artefatos visuais:
+    - Tabela com regras de ortografia.
+    - Quadro com exemplos de plurais e gerúndios.
+    - Ilustrações com frases simples.
+    - Link audiovisual: vídeo sobre regras de ortografia.
+---
+
+[TÓPICO: PREPOSITIONS OF PLACE]
+
+Explicação:
+As preposições de lugar em inglês indicam a posição de objetos ou pessoas. 
+As mais comuns são: in (em), on (sobre), under (embaixo), next to (ao lado), 
+between (entre), behind (atrás), in front of (na frente). 
+Essas preposições são fundamentais para descrever ambientes e situações cotidianas.
+
+Objetivos de aprendizagem:
+    * Reconhecer preposições de lugar mais comuns.
+    * Utilizar preposições em frases simples.
+    * Praticar pronúncia e escrita das preposições.
+    * Construir diálogos curtos descrevendo posições.
+
+Lista de Exercícios:
+    1. Complete: The book is ___ the table.
+    2. Traduza: "O gato está embaixo da cadeira."
+    3. Escreva três frases usando "in" e "on".
+    4. Escreva três frases usando "under" e "next to".
+    5. Crie um diálogo curto descrevendo uma sala.
+
+Solução dos Exercícios:
+    1. "The book is on the table."
+    2. "The cat is under the chair."
+    3. Exemplos: "The pen is in the box." / "The picture is on the wall." / "The food is in the fridge."
+    4. Exemplos: "The shoes are under the bed." / "The chair is next to the desk." / "The lamp is under the table."
+    5. Exemplo: A: "Where is the TV?" B: "The TV is in front of the sofa."
+
+Indicação de artefatos visuais:
+    - Quadro com preposições de lugar e exemplos.
+    - Ilustrações mostrando posições de objetos.
+    - Tabela com frases práticas.
+    - Link audiovisual: vídeo sobre preposições de lugar.
+---
+
+[TÓPICO: QUESTION WORDS (1 e 2)]
+
+Explicação:
+As palavras interrogativas em inglês são usadas para fazer perguntas. 
+As principais são: What (o que), Where (onde), When (quando), Who (quem), Why (por que), 
+How (como), Which (qual). Elas são fundamentais para diálogos e comunicação cotidiana. 
+É importante praticar tanto a escrita quanto a pronúncia, além de observar o uso em diferentes contextos.
+
+Objetivos de aprendizagem:
+    * Reconhecer as principais palavras interrogativas.
+    * Utilizar question words em frases simples.
+    * Diferenciar usos em perguntas abertas e fechadas.
+    * Praticar pronúncia e escrita das palavras.
+
+Lista de Exercícios:
+    1. Escreva cinco question words em inglês.
+    2. Traduza: "Onde você mora?"
+    3. Complete: ___ is your name?
+    4. Escreva três perguntas usando "Why".
+    5. Crie um diálogo curto usando question words.
+
+Solução dos Exercícios:
+    1. What, Where, When, Who, Why.
+    2. "Where do you live?"
+    3. "What is your name?"
+    4. Exemplos: "Why are you sad?" / "Why is she late?" / "Why do they study English?"
+    5. Exemplo: A: "What is your favorite color?" B: "My favorite color is blue."
+
+Indicação de artefatos visuais:
+    - Tabela com question words e traduções.
+    - Quadro com exemplos de perguntas.
+    - Ilustrações com diálogos curtos.
+    - Link audiovisual: vídeo sobre question words.
+---
+
+[TÓPICO: DESCRIBING PEOPLE]
+
+Explicação:
+Descrever pessoas em inglês envolve o uso de adjetivos e expressões para falar sobre aparência física, 
+personalidade e características gerais. Palavras como tall (alto), short (baixo), young (jovem), 
+old (velho), friendly (amigável) e serious (sério) são comuns em diálogos cotidianos. 
+Aprender esse vocabulário é essencial para apresentações pessoais e interações sociais.
+
+Objetivos de aprendizagem:
+    * Reconhecer vocabulário básico para descrever pessoas.
+    * Utilizar adjetivos em frases simples.
+    * Diferenciar descrições físicas e de personalidade.
+    * Construir diálogos curtos descrevendo pessoas.
+
+Lista de Exercícios:
+    1. Escreva cinco adjetivos para descrever pessoas.
+    2. Traduza: "Ela é alta e simpática."
+    3. Complete: He is ___ (baixo) and ___ (sério).
+    4. Escreva três frases descrevendo amigos ou familiares.
+    5. Crie um diálogo curto descrevendo duas pessoas.
+
+Solução dos Exercícios:
+    1. Tall, Short, Young, Old, Friendly.
+    2. "She is tall and friendly."
+    3. "He is short and serious."
+    4. Exemplos: "My brother is young." / "My mother is kind." / "My friend is tall."
+    5. Exemplo: A: "Who is she?" B: "She is my sister. She is tall and smart."
+
+Indicação de artefatos visuais:
+    - Tabela com adjetivos de aparência e personalidade.
+    - Quadro comparativo: físico vs. personalidade.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre vocabulário de descrição de pessoas.
+---
+
+[TÓPICO: PREPOSITIONS OF TIME]
+
+Explicação:
+As preposições de tempo em inglês indicam quando algo acontece. 
+As mais comuns são: at (horas específicas), in (meses, anos, períodos do dia), 
+on (dias da semana, datas específicas). Elas são fundamentais para falar sobre horários, 
+rotinas e eventos. É importante praticar o uso correto em frases cotidianas.
+
+Objetivos de aprendizagem:
+    * Reconhecer preposições de tempo mais comuns.
+    * Utilizar preposições em frases simples.
+    * Diferenciar usos de at, in e on.
+    * Construir diálogos curtos sobre horários e datas.
+
+Lista de Exercícios:
+    1. Complete: I study English ___ Monday.
+    2. Traduza: "Eu acordo às 7 horas."
+    3. Escreva três frases usando "in".
+    4. Escreva três frases usando "on".
+    5. Crie um diálogo curto falando sobre horários.
+
+Solução dos Exercícios:
+    1. "I study English on Monday."
+    2. "I wake up at 7 o’clock."
+    3. Exemplos: "I travel in July." / "She was born in 1990." / "We study in the morning."
+    4. Exemplos: "I play soccer on Saturday." / "She works on Tuesday." / "We met on Christmas Day."
+    5. Exemplo: A: "When do you study?" B: "I study in the evening, at 8 o’clock."
+
+Indicação de artefatos visuais:
+    - Quadro com usos de at, in, on.
+    - Tabela com exemplos práticos.
+    - Ilustrações com calendários e relógios.
+    - Link audiovisual: vídeo sobre preposições de tempo.
+---
+
+[TÓPICO: ANSWERING HOURS]
+
+Explicação:
+Responder perguntas sobre horas em inglês envolve o uso de expressões como "It is five o’clock", 
+"It is half past two", "It is quarter to ten". É importante compreender como dizer horas exatas, 
+meias horas e quartos de hora. Esse conhecimento é essencial para rotinas, compromissos e diálogos cotidianos.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões básicas para dizer horas em inglês.
+    * Utilizar horas exatas, meias horas e quartos de hora.
+    * Praticar pronúncia correta das horas.
+    * Construir diálogos curtos sobre horários.
+
+Lista de Exercícios:
+    1. Traduza: "São três horas."
+    2. Complete: It is ___ past two.
+    3. Escreva três frases dizendo horas diferentes.
+    4. Escreva três frases usando "quarter to" ou "quarter past".
+    5. Crie um diálogo curto perguntando e respondendo horas.
+
+Solução dos Exercícios:
+    1. "It is three o’clock."
+    2. "It is half past two."
+    3. Exemplos: "It is five o’clock." / "It is ten o’clock." / "It is seven o’clock."
+    4. Exemplos: "It is quarter to nine." / "It is quarter past six." / "It is quarter to twelve."
+    5. Exemplo: A: "What time is it?" B: "It is quarter past eight."
+
+Indicação de artefatos visuais:
+    - Tabela com expressões de horas.
+    - Quadro com exemplos de quarter past/to e half past.
+    - Ilustrações com relógios analógicos e digitais.
+    - Link audiovisual: vídeo sobre como dizer horas em inglês.
+---
+
+[TÓPICO: TIME REFERENCE (days of the week, months of the year, seasons)]
+
+Explicação:
+As referências de tempo em inglês incluem dias da semana, meses do ano e estações. 
+Esses elementos são fundamentais para falar sobre datas, compromissos e rotinas. 
+Os dias da semana são: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday. 
+Os meses do ano vão de January a December. As estações são: Spring, Summer, Autumn/Fall, Winter. 
+É importante praticar a escrita, pronúncia e uso em frases cotidianas.
+
+Objetivos de aprendizagem:
+    * Reconhecer dias da semana, meses e estações em inglês.
+    * Utilizar referências de tempo em frases simples.
+    * Praticar pronúncia correta.
+    * Construir diálogos curtos sobre datas e rotinas.
+
+Lista de Exercícios:
+    1. Escreva os dias da semana em inglês.
+    2. Traduza: "Meu aniversário é em julho."
+    3. Complete: Spring, ___, Autumn, Winter.
+    4. Escreva três frases usando meses do ano.
+    5. Crie um diálogo curto falando sobre estações.
+
+Solução dos Exercícios:
+    1. Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
+    2. "My birthday is in July."
+    3. Summer.
+    4. Exemplos: "I travel in December." / "She studies in March." / "We play soccer in May."
+    5. Exemplo: A: "What is your favorite season?" B: "My favorite season is Summer."
+
+Indicação de artefatos visuais:
+    - Tabela com dias da semana e meses.
+    - Quadro com estações e exemplos.
+    - Ilustrações com calendários e paisagens.
+    - Link audiovisual: vídeo sobre referências de tempo.
+---
+
+[TÓPICO: ASKING AND GIVING OPINION]
+
+Explicação:
+Perguntar e dar opinião em inglês é essencial para diálogos mais complexos. 
+Expressões comuns incluem: "What do you think?", "In my opinion...", "I believe...", "I agree/disagree". 
+Essas frases ajudam a desenvolver conversas e a expressar pontos de vista em diferentes contextos.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões para perguntar e dar opinião.
+    * Utilizar frases em diálogos simples.
+    * Praticar pronúncia e escrita das expressões.
+    * Construir diálogos curtos com opiniões.
+
+Lista de Exercícios:
+    1. Escreva três frases para perguntar opinião.
+    2. Traduza: "Na minha opinião, inglês é importante."
+    3. Complete: I ___ with you.
+    4. Escreva três frases dando opinião.
+    5. Crie um diálogo curto perguntando e dando opinião.
+
+Solução dos Exercícios:
+    1. "What do you think?" / "Do you agree?" / "What is your opinion?"
+    2. "In my opinion, English is important."
+    3. "I agree with you."
+    4. Exemplos: "I believe English is useful." / "I think this book is good." / "In my opinion, soccer is fun."
+    5. Exemplo: A: "What do you think about English?" B: "I think English is very important."
+
+Indicação de artefatos visuais:
+    - Quadro com expressões de opinião.
+    - Tabela com exemplos práticos.
+    - Ilustrações com diálogos curtos.
+    - Link audiovisual: vídeo sobre como dar opinião em inglês.
+---
+
+[TÓPICO: OBJECT PRONOUNS]
+
+Explicação:
+Os pronomes objetos em inglês são usados para indicar quem recebe a ação na frase. 
+Eles são: me, you, him, her, it, us, them. São fundamentais para construir frases corretas 
+e compreender diálogos básicos. É importante praticar a escrita e a pronúncia, além de observar 
+diferenças entre singular e plural.
+
+Objetivos de aprendizagem:
+    * Reconhecer os pronomes objetos em inglês.
+    * Utilizar pronomes objetos em frases simples.
+    * Diferenciar singular e plural.
+    * Construir diálogos curtos usando pronomes objetos.
+
+Lista de Exercícios:
+    1. Escreva todos os pronomes objetos em inglês.
+    2. Complete: She loves ___ (ele).
+    3. Traduza: "Eles nos ajudam."
+    4. Escreva três frases usando "me" e "us".
+    5. Crie um diálogo curto usando pronomes objetos.
+
+Solução dos Exercícios:
+    1. Me, You, Him, Her, It, Us, Them.
+    2. "She loves him."
+    3. "They help us."
+    4. Exemplos: "He helps me." / "She calls us." / "They see me."
+    5. Exemplo: A: "Do you know them?" B: "Yes, I know them very well."
+
+Indicação de artefatos visuais:
+    - Tabela com pronomes objetos e exemplos.
+    - Quadro comparativo: singular vs. plural.
+    - Ilustrações com frases simples.
+    - Link audiovisual: vídeo sobre pronomes objetos.
+---
+
+[TÓPICO: POSSESSIVE ADJECTIVES AND PRONOUNS]
+
+Explicação:
+Os adjetivos possessivos (my, your, his, her, its, our, their) e os pronomes possessivos 
+(mine, yours, his, hers, ours, theirs) são usados para indicar posse. 
+A diferença principal é que os adjetivos acompanham substantivos ("my book"), 
+enquanto os pronomes substituem o substantivo ("This book is mine"). 
+Dominar esse conceito é essencial para construir frases claras e corretas.
+
+Objetivos de aprendizagem:
+    * Reconhecer adjetivos e pronomes possessivos.
+    * Diferenciar uso de adjetivos e pronomes.
+    * Utilizar possessivos em frases simples.
+    * Construir diálogos curtos indicando posse.
+
+Lista de Exercícios:
+    1. Complete: This is ___ car. (meu)
+    2. Traduza: "Este livro é dela."
+    3. Escreva três frases usando adjetivos possessivos.
+    4. Escreva três frases usando pronomes possessivos.
+    5. Crie um diálogo curto indicando posse.
+
+Solução dos Exercícios:
+    1. "This is my car."
+    2. "This book is hers."
+    3. Exemplos: "My house is big." / "Your dog is cute." / "Their school is new."
+    4. Exemplos: "This pen is mine." / "The car is ours." / "The shoes are theirs."
+    5. Exemplo: A: "Is this your phone?" B: "No, it is mine."
+
+Indicação de artefatos visuais:
+    - Tabela com adjetivos e pronomes possessivos.
+    - Quadro comparativo: adjetivos vs. pronomes.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre possessivos.
+---
+
+[TÓPICO: ADVERBS OF FREQUENCY]
+
+Explicação:
+Os advérbios de frequência indicam com que regularidade uma ação acontece. 
+Os mais comuns são: always (sempre), usually (geralmente), often (frequentemente), 
+sometimes (às vezes), rarely (raramente), never (nunca). 
+Eles são usados com o verbo principal para dar contexto às ações do dia a dia.
+
+Objetivos de aprendizagem:
+    * Reconhecer advérbios de frequência.
+    * Utilizar advérbios em frases simples.
+    * Diferenciar níveis de frequência.
+    * Construir diálogos curtos sobre rotinas.
+
+Lista de Exercícios:
+    1. Escreva cinco advérbios de frequência em inglês.
+    2. Traduza: "Eu sempre estudo inglês."
+    3. Complete: She ___ goes to the gym. (às vezes)
+    4. Escreva três frases usando "never".
+    5. Crie um diálogo curto usando advérbios de frequência.
+
+Solução dos Exercícios:
+    1. Always, Usually, Often, Sometimes, Never.
+    2. "I always study English."
+    3. "She sometimes goes to the gym."
+    4. Exemplos: "I never eat fast food." / "He never drinks coffee." / "They never play soccer."
+    5. Exemplo: A: "Do you study English?" B: "Yes, I usually study in the morning."
+
+Indicação de artefatos visuais:
+    - Quadro com advérbios de frequência e traduções.
+    - Tabela com exemplos práticos.
+    - Ilustrações com rotinas diárias.
+    - Link audiovisual: vídeo sobre advérbios de frequência.
+---
+
+[TÓPICO: IMPERATIVES]
+
+Explicação:
+O modo imperativo em inglês é usado para dar ordens, instruções ou conselhos. 
+Ele utiliza o verbo na forma básica, sem sujeito explícito. Exemplos: "Sit down", "Open the book", 
+"Don’t be late". É muito comum em instruções, manuais e diálogos cotidianos.
+
+Objetivos de aprendizagem:
+    * Reconhecer frases no imperativo.
+    * Utilizar imperativos em instruções simples.
+    * Diferenciar imperativos afirmativos e negativos.
+    * Construir diálogos curtos com instruções.
+
+Lista de Exercícios:
+    1. Escreva três frases no imperativo afirmativo.
+    2. Escreva três frases no imperativo negativo.
+    3. Traduza: "Abra a janela."
+    4. Complete: ___ your homework. (faça)
+    5. Crie um diálogo curto usando imperativos.
+
+Solução dos Exercícios:
+    1. Exemplos: "Sit down." / "Open the door." / "Read the book."
+    2. Exemplos: "Don’t run." / "Don’t shout." / "Don’t be late."
+    3. "Open the window."
+    4. "Do your homework."
+    5. Exemplo: A: "Close the door, please." B: "Okay, I will close it."
+
+Indicação de artefatos visuais:
+    - Quadro com exemplos de imperativos afirmativos e negativos.
+    - Tabela com instruções comuns.
+    - Ilustrações com situações práticas.
+    - Link audiovisual: vídeo sobre imperativos.
+---
+
+[TÓPICO: THERE IS / THERE ARE]
+
+Explicação:
+As expressões "There is" e "There are" são usadas para indicar a existência de algo. 
+"There is" é usado para o singular, enquanto "There are" é usado para o plural. 
+Essas estruturas são muito comuns em descrições de ambientes, listas e situações cotidianas. 
+Dominar esse conceito ajuda a construir frases claras e objetivas.
+
+Objetivos de aprendizagem:
+    * Reconhecer o uso de "There is" e "There are".
+    * Diferenciar singular e plural.
+    * Utilizar as expressões em frases simples.
+    * Construir diálogos curtos descrevendo ambientes.
+
+Lista de Exercícios:
+    1. Complete: ___ a book on the table. (singular)
+    2. Complete: ___ many students in the classroom. (plural)
+    3. Traduza: "Há um gato no jardim."
+    4. Escreva três frases usando "There is".
+    5. Escreva três frases usando "There are".
+
+Solução dos Exercícios:
+    1. "There is a book on the table."
+    2. "There are many students in the classroom."
+    3. "There is a cat in the garden."
+    4. Exemplos: "There is a pen on the desk." / "There is a car outside." / "There is a problem here."
+    5. Exemplos: "There are books on the shelf." / "There are apples in the basket." / "There are people in the park."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: There is vs. There are.
+    - Tabela com exemplos práticos.
+    - Ilustrações de ambientes com objetos.
+    - Link audiovisual: vídeo sobre uso de "There is/There are".
+---
+
+[TÓPICO: INTENSIFIERS]
+
+Explicação:
+Os intensificadores em inglês são palavras usadas para dar ênfase ou aumentar a força de um adjetivo ou advérbio. 
+Exemplos comuns incluem: very (muito), really (realmente), so (tão), too (demais), quite (bastante). 
+Eles ajudam a tornar a comunicação mais expressiva e detalhada.
+
+Objetivos de aprendizagem:
+    * Reconhecer intensificadores comuns.
+    * Utilizar intensificadores em frases simples.
+    * Diferenciar níveis de intensidade.
+    * Construir diálogos curtos com ênfase.
+
+Lista de Exercícios:
+    1. Escreva cinco intensificadores em inglês.
+    2. Traduza: "Ela está muito feliz."
+    3. Complete: He is ___ tall. (muito)
+    4. Escreva três frases usando "really".
+    5. Crie um diálogo curto usando intensificadores.
+
+Solução dos Exercícios:
+    1. Very, Really, So, Too, Quite.
+    2. "She is very happy."
+    3. "He is very tall."
+    4. Exemplos: "I really like pizza." / "She really studies hard." / "They really enjoy music."
+    5. Exemplo: A: "Do you like this movie?" B: "Yes, it is really good!"
+
+Indicação de artefatos visuais:
+    - Quadro com intensificadores e traduções.
+    - Tabela com exemplos práticos.
+    - Ilustrações com frases curtas.
+    - Link audiovisual: vídeo sobre intensificadores.
+---
+
+[TÓPICO: PRESENT CONTINUOUS]
+
+Explicação:
+O tempo verbal "Present Continuous" é usado para indicar ações que estão acontecendo no momento da fala. 
+Sua estrutura é formada pelo verbo "to be" + verbo principal + "-ing" (ex.: I am studying, She is working). 
+É muito comum em diálogos cotidianos e descrições de atividades em andamento.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Present Continuous.
+    * Conjugar verbos corretamente no tempo verbal.
+    * Utilizar o tempo em frases afirmativas, negativas e interrogativas.
+    * Construir diálogos curtos descrevendo ações em andamento.
+
+Lista de Exercícios:
+    1. Complete: I ___ (study) English now.
+    2. Traduza: "Ela está trabalhando."
+    3. Escreva três frases afirmativas no Present Continuous.
+    4. Escreva três frases negativas no Present Continuous.
+    5. Transforme a frase "He is playing soccer" em pergunta.
+
+Solução dos Exercícios:
+    1. "I am studying English now."
+    2. "She is working."
+    3. Exemplos: "I am reading a book." / "They are watching TV." / "We are eating lunch."
+    4. Exemplos: "I am not sleeping." / "She is not studying." / "They are not playing."
+    5. "Is he playing soccer?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Present Continuous.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com atividades em andamento.
+    - Link audiovisual: vídeo sobre Present Continuous.
+---
+
+[TÓPICO: SIMPLE PAST (Verb To Be e Verbos regulares/irregulares)]
+
+Explicação:
+O tempo verbal "Simple Past" é usado para indicar ações concluídas no passado. 
+O verbo "to be" possui formas específicas: was (singular) e were (plural). 
+Os verbos regulares formam o passado adicionando "-ed" (ex.: work → worked), 
+enquanto os verbos irregulares possuem formas próprias (ex.: go → went, eat → ate). 
+Dominar essas regras é essencial para narrar eventos passados e contar histórias.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Simple Past.
+    * Conjugar corretamente o verbo "to be" no passado.
+    * Diferenciar verbos regulares e irregulares.
+    * Utilizar o tempo verbal em frases afirmativas, negativas e interrogativas.
+
+Lista de Exercícios:
+    1. Complete: I ___ (be) at school yesterday.
+    2. Traduza: "Eles estavam felizes."
+    3. Escreva três frases usando verbos regulares no passado.
+    4. Escreva três frases usando verbos irregulares no passado.
+    5. Transforme a frase "She was tired" em pergunta.
+
+Solução dos Exercícios:
+    1. "I was at school yesterday."
+    2. "They were happy."
+    3. Exemplos: "I worked yesterday." / "She played soccer." / "They watched TV."
+    4. Exemplos: "I went to the park." / "He ate pizza." / "We saw a movie."
+    5. "Was she tired?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do verbo "to be" no passado.
+    - Quadro com verbos regulares e irregulares.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre Simple Past.
+---
+
+[TÓPICO: PHRASAL VERBS]
+
+Explicação:
+Os phrasal verbs são combinações de verbos com preposições ou advérbios que mudam o sentido original. 
+Exemplos: "get up" (levantar-se), "look for" (procurar), "give up" (desistir). 
+Eles são muito usados em inglês cotidiano e podem ter significados diferentes dependendo do contexto. 
+Aprender phrasal verbs é essencial para compreender diálogos naturais.
+
+Objetivos de aprendizagem:
+    * Reconhecer phrasal verbs comuns.
+    * Utilizar phrasal verbs em frases simples.
+    * Diferenciar significados literais e figurativos.
+    * Construir diálogos curtos com phrasal verbs.
+
+Lista de Exercícios:
+    1. Escreva cinco phrasal verbs comuns.
+    2. Traduza: "Ela desistiu do trabalho."
+    3. Complete: He ___ (levantar-se) at 7 o’clock.
+    4. Escreva três frases usando "look for".
+    5. Crie um diálogo curto usando phrasal verbs.
+
+Solução dos Exercícios:
+    1. Get up, Look for, Give up, Turn on, Take off.
+    2. "She gave up the job."
+    3. "He gets up at 7 o’clock."
+    4. Exemplos: "I look for my keys." / "She is looking for her book." / "They look for a new house."
+    5. Exemplo: A: "What are you looking for?" B: "I am looking for my phone."
+
+Indicação de artefatos visuais:
+    - Quadro com lista de phrasal verbs.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre phrasal verbs.
+---
+
+[TÓPICO: TIME EXPRESSIONS (Past and Present)]
+
+Explicação:
+As expressões de tempo em inglês ajudam a indicar quando uma ação acontece. 
+No passado: yesterday (ontem), last week (semana passada), two days ago (há dois dias). 
+No presente: today (hoje), now (agora), this week (esta semana). 
+Essas expressões são fundamentais para contextualizar frases e narrativas.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões de tempo comuns.
+    * Utilizar expressões em frases simples.
+    * Diferenciar uso no passado e no presente.
+    * Construir diálogos curtos com referências de tempo.
+
+Lista de Exercícios:
+    1. Escreva cinco expressões de tempo no passado.
+    2. Escreva cinco expressões de tempo no presente.
+    3. Traduza: "Eu estudei inglês ontem."
+    4. Complete: I am studying English ___.
+    5. Crie um diálogo curto usando expressões de tempo.
+
+Solução dos Exercícios:
+    1. Yesterday, Last week, Last month, Two days ago, Last year.
+    2. Today, Now, This week, This month, At the moment.
+    3. "I studied English yesterday."
+    4. "I am studying English now."
+    5. Exemplo: A: "When did you travel?" B: "I traveled last month." A: "What are you doing now?" B: "I am studying English."
+
+Indicação de artefatos visuais:
+    - Quadro com expressões de tempo no passado e presente.
+    - Tabela com exemplos práticos.
+    - Ilustrações com calendários e relógios.
+    - Link audiovisual: vídeo sobre expressões de tempo.
+---
+
+[TÓPICO: THERE WAS / THERE WERE]
+
+Explicação:
+As expressões "There was" e "There were" são usadas para indicar a existência de algo no passado. 
+"There was" é usado para o singular, enquanto "There were" é usado para o plural. 
+Essas estruturas são muito comuns em narrativas e descrições de situações passadas. 
+Dominar esse conceito ajuda a contar histórias e relatar eventos.
+
+Objetivos de aprendizagem:
+    * Reconhecer o uso de "There was" e "There were".
+    * Diferenciar singular e plural no passado.
+    * Utilizar as expressões em frases simples.
+    * Construir diálogos curtos descrevendo situações passadas.
+
+Lista de Exercícios:
+    1. Complete: ___ a party last night. (singular)
+    2. Complete: ___ many people at the concert. (plural)
+    3. Traduza: "Havia um cachorro no parque."
+    4. Escreva três frases usando "There was".
+    5. Escreva três frases usando "There were".
+
+Solução dos Exercícios:
+    1. "There was a party last night."
+    2. "There were many people at the concert."
+    3. "There was a dog in the park."
+    4. Exemplos: "There was a problem yesterday." / "There was a book on the table." / "There was a storm last week."
+    5. Exemplos: "There were cars in the street." / "There were students in the classroom." / "There were flowers in the garden."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: There was vs. There were.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações passadas.
+    - Link audiovisual: vídeo sobre uso de "There was/There were".
+---
+
+[TÓPICO: QUESTION WORDS IN THE PAST]
+
+Explicação:
+As palavras interrogativas no passado são usadas para fazer perguntas sobre eventos já concluídos. 
+A estrutura básica é: Question Word + auxiliar "did" + sujeito + verbo principal. 
+Exemplo: "What did you do yesterday?", "Where did she go?", "When did they arrive?". 
+É importante praticar tanto a escrita quanto a pronúncia dessas perguntas.
+
+Objetivos de aprendizagem:
+    * Reconhecer question words usadas no passado.
+    * Utilizar a estrutura correta com "did".
+    * Construir perguntas simples sobre eventos passados.
+    * Praticar pronúncia e escrita das perguntas.
+
+Lista de Exercícios:
+    1. Escreva três perguntas usando "What" no passado.
+    2. Traduza: "Onde você estava ontem?"
+    3. Complete: ___ did she say? (o que)
+    4. Escreva três perguntas usando "When".
+    5. Crie um diálogo curto com perguntas no passado.
+
+Solução dos Exercícios:
+    1. Exemplos: "What did you eat yesterday?" / "What did he buy?" / "What did they do?"
+    2. "Where were you yesterday?"
+    3. "What did she say?"
+    4. Exemplos: "When did you arrive?" / "When did she call?" / "When did they travel?"
+    5. Exemplo: A: "What did you do last night?" B: "I watched a movie."
+
+Indicação de artefatos visuais:
+    - Tabela com question words no passado.
+    - Quadro com exemplos práticos.
+    - Ilustrações com diálogos curtos.
+    - Link audiovisual: vídeo sobre perguntas no passado.
+---
+
+[TÓPICO: HOW MANY / HOW MUCH]
+
+Explicação:
+As expressões "How many" e "How much" são usadas para perguntar sobre quantidade. 
+"How many" é usado com substantivos contáveis (books, cars, apples), 
+enquanto "How much" é usado com substantivos incontáveis (water, money, sugar). 
+Essas estruturas são fundamentais para diálogos cotidianos e compras.
+
+Objetivos de aprendizagem:
+    * Reconhecer a diferença entre "How many" e "How much".
+    * Utilizar as expressões em frases simples.
+    * Diferenciar substantivos contáveis e incontáveis.
+    * Construir diálogos curtos perguntando sobre quantidade.
+
+Lista de Exercícios:
+    1. Complete: ___ books do you have? (contável)
+    2. Complete: ___ money do you need? (incontável)
+    3. Traduza: "Quantas maçãs há na mesa?"
+    4. Escreva três frases usando "How many".
+    5. Escreva três frases usando "How much".
+
+Solução dos Exercícios:
+    1. "How many books do you have?"
+    2. "How much money do you need?"
+    3. "How many apples are on the table?"
+    4. Exemplos: "How many cars are there?" / "How many students are in the class?" / "How many chairs are in the room?"
+    5. Exemplos: "How much water is in the bottle?" / "How much sugar do you want?" / "How much time do we have?"
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: How many vs. How much.
+    - Tabela com substantivos contáveis e incontáveis.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre uso de How many/How much.
+---
+
+[TÓPICO: EXPRESSING QUANTITY]
+
+Explicação:
+Expressar quantidade em inglês envolve o uso de palavras como some (alguns), any (algum/nenhum), 
+much (muito - incontável), many (muitos - contável), a lot of (muitos/muito), few (poucos), little (pouco). 
+Essas expressões ajudam a indicar quantidades em frases cotidianas, tanto em contextos afirmativos 
+quanto negativos e interrogativos.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões de quantidade mais comuns.
+    * Diferenciar uso com substantivos contáveis e incontáveis.
+    * Utilizar expressões em frases simples.
+    * Construir diálogos curtos indicando quantidade.
+
+Lista de Exercícios:
+    1. Complete: I have ___ books. (muitos)
+    2. Complete: There isn’t ___ water. (nenhum)
+    3. Traduza: "Há poucas pessoas na sala."
+    4. Escreva três frases usando "some" e "any".
+    5. Crie um diálogo curto usando expressões de quantidade.
+
+Solução dos Exercícios:
+    1. "I have many books."
+    2. "There isn’t any water."
+    3. "There are few people in the room."
+    4. Exemplos: "I have some friends." / "Do you have any questions?" / "She doesn’t have any money."
+    5. Exemplo: A: "Do you have any sugar?" B: "Yes, I have some sugar."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: contáveis vs. incontáveis.
+    - Tabela com expressões de quantidade.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre expressões de quantidade.
+---
+
+[TÓPICO: GIVING INSTRUCTIONS]
+
+Explicação:
+Dar instruções em inglês envolve o uso de imperativos e frases claras. 
+Exemplos comuns incluem: "Open the book", "Write your name", "Follow the rules". 
+Essas estruturas são usadas em sala de aula, no trabalho e em situações cotidianas. 
+É importante praticar instruções afirmativas e negativas.
+
+Objetivos de aprendizagem:
+    * Reconhecer frases comuns de instruções.
+    * Utilizar imperativos em contextos práticos.
+    * Diferenciar instruções afirmativas e negativas.
+    * Construir diálogos curtos com instruções.
+
+Lista de Exercícios:
+    1. Escreva três instruções afirmativas.
+    2. Escreva três instruções negativas.
+    3. Traduza: "Feche a porta."
+    4. Complete: ___ your homework. (faça)
+    5. Crie um diálogo curto com instruções.
+
+Solução dos Exercícios:
+    1. Exemplos: "Read the text." / "Open the window." / "Write your name."
+    2. Exemplos: "Don’t run." / "Don’t shout." / "Don’t be late."
+    3. "Close the door."
+    4. "Do your homework."
+    5. Exemplo: A: "Open the book at page 10." B: "Okay, I will open it."
+
+Indicação de artefatos visuais:
+    - Quadro com instruções afirmativas e negativas.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre como dar instruções.
+---
+
+[TÓPICO: ASKING AND GIVING DIRECTIONS]
+
+Explicação:
+Perguntar e dar direções em inglês é essencial para situações de viagem e cotidiano. 
+Expressões comuns incluem: "Where is the bank?", "Go straight ahead", "Turn left", "Turn right". 
+Essas frases ajudam a orientar e localizar lugares em uma cidade ou ambiente.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões para perguntar e dar direções.
+    * Utilizar frases em diálogos simples.
+    * Praticar vocabulário de lugares e movimentos.
+    * Construir diálogos curtos sobre direções.
+
+Lista de Exercícios:
+    1. Escreva três frases para perguntar direções.
+    2. Traduza: "Vire à direita na próxima rua."
+    3. Complete: Go ___ ahead. (em frente)
+    4. Escreva três frases dando instruções de direção.
+    5. Crie um diálogo curto perguntando e dando direções.
+
+Solução dos Exercícios:
+    1. "Where is the bus station?" / "How can I get to the park?" / "Where is the supermarket?"
+    2. "Turn right at the next street."
+    3. "Go straight ahead."
+    4. Exemplos: "Turn left at the corner." / "Go straight ahead for two blocks." / "The bank is next to the school."
+    5. Exemplo: A: "Excuse me, where is the library?" B: "Go straight ahead and turn left."
+
+Indicação de artefatos visuais:
+    - Quadro com vocabulário de direções.
+    - Tabela com exemplos práticos.
+    - Ilustrações com mapas simples.
+    - Link audiovisual: vídeo sobre como perguntar e dar direções.
+---
+
+[TÓPICO: BECAUSE / BECAUSE OF]
+
+Explicação:
+As expressões "because" e "because of" são usadas para indicar causa ou motivo. 
+"Because" é seguido por uma oração completa (sujeito + verbo), enquanto "because of" 
+é seguido por um substantivo ou pronome. Exemplo: "I stayed home because it was raining." 
+/ "I stayed home because of the rain." Dominar essa diferença é essencial para construir 
+frases claras e corretas.
+
+Objetivos de aprendizagem:
+    * Reconhecer a diferença entre "because" e "because of".
+    * Utilizar ambas as expressões em frases simples.
+    * Praticar exemplos em situações cotidianas.
+    * Construir diálogos curtos explicando motivos.
+
+Lista de Exercícios:
+    1. Complete: I am happy ___ I passed the test.
+    2. Complete: She is late ___ the traffic.
+    3. Traduza: "Eu fiquei em casa por causa da chuva."
+    4. Escreva três frases usando "because".
+    5. Escreva três frases usando "because of".
+
+Solução dos Exercícios:
+    1. "I am happy because I passed the test."
+    2. "She is late because of the traffic."
+    3. "I stayed home because of the rain."
+    4. Exemplos: "I am tired because I worked a lot." / "She is sad because she lost her book." / "They are happy because they won."
+    5. Exemplos: "He is sick because of the cold." / "We are late because of the bus." / "She is angry because of the noise."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: because vs. because of.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre uso de because/because of.
+---
+
+[TÓPICO: PAST CONTINUOUS]
+
+Explicação:
+O tempo verbal "Past Continuous" é usado para indicar ações que estavam acontecendo em um momento específico do passado. 
+Sua estrutura é formada pelo verbo "to be" no passado (was/were) + verbo principal + "-ing". 
+Exemplo: "I was studying at 8 o’clock." / "They were playing soccer yesterday." 
+Esse tempo verbal é útil para descrever ações em andamento no passado.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Past Continuous.
+    * Conjugar verbos corretamente no tempo verbal.
+    * Utilizar o tempo em frases afirmativas, negativas e interrogativas.
+    * Construir diálogos curtos descrevendo ações passadas em andamento.
+
+Lista de Exercícios:
+    1. Complete: I ___ (study) English at 8 o’clock yesterday.
+    2. Traduza: "Eles estavam jogando futebol."
+    3. Escreva três frases afirmativas no Past Continuous.
+    4. Escreva três frases negativas no Past Continuous.
+    5. Transforme a frase "She was reading a book" em pergunta.
+
+Solução dos Exercícios:
+    1. "I was studying English at 8 o’clock yesterday."
+    2. "They were playing soccer."
+    3. Exemplos: "I was watching TV." / "He was cooking dinner." / "We were listening to music."
+    4. Exemplos: "I was not sleeping." / "She was not studying." / "They were not working."
+    5. "Was she reading a book?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Past Continuous.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com atividades passadas em andamento.
+    - Link audiovisual: vídeo sobre Past Continuous.
+---
+
+[TÓPICO: NEGATIVE QUESTIONS]
+
+Explicação:
+As perguntas negativas em inglês são usadas para confirmar informações ou expressar surpresa. 
+A estrutura básica é: auxiliar + not + sujeito + verbo. Exemplo: "Don’t you like pizza?" / "Isn’t she your friend?" 
+Essas perguntas são comuns em diálogos informais e ajudam a dar ênfase ou confirmar expectativas.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura de perguntas negativas.
+    * Utilizar perguntas negativas em diálogos simples.
+    * Praticar pronúncia e escrita das perguntas.
+    * Construir diálogos curtos confirmando informações.
+
+Lista de Exercícios:
+    1. Escreva três perguntas negativas usando "do/does".
+    2. Traduza: "Ela não é sua irmã?"
+    3. Complete: ___ you like coffee? (não)
+    4. Escreva três perguntas negativas usando "is/are".
+    5. Crie um diálogo curto com perguntas negativas.
+
+Solução dos Exercícios:
+    1. Exemplos: "Don’t you study English?" / "Doesn’t he play soccer?" / "Don’t they work here?"
+    2. "Isn’t she your sister?"
+    3. "Don’t you like coffee?"
+    4. Exemplos: "Isn’t he your teacher?" / "Aren’t they your friends?" / "Isn’t it cold today?"
+    5. Exemplo: A: "Don’t you like music?" B: "Yes, I do. I love music."
+
+Indicação de artefatos visuais:
+    - Quadro com exemplos de perguntas negativas.
+    - Tabela com estruturas afirmativas vs. negativas.
+    - Ilustrações com diálogos curtos.
+    - Link audiovisual: vídeo sobre perguntas negativas.
+---
+[TÓPICO: POSSESSIVE NOUNS]
+
+Explicação:
+Os *possessive nouns* (substantivos possessivos) são usados para indicar posse ou pertencimento.  
+A regra básica é adicionar **’s** ao substantivo singular: "John’s book" (o livro do John).  
+Para substantivos plurais terminados em "s", adiciona-se apenas o apóstrofo: "The students’ classroom" (a sala dos estudantes).  
+Exemplo: "Mary’s car is new." / "The teachers’ meeting is tomorrow."
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura dos substantivos possessivos.
+    * Diferenciar singular e plural na forma possessiva.
+    * Utilizar possessive nouns em frases simples.
+    * Construir diálogos curtos aplicando possessive nouns.
+
+Lista de Exercícios:
+    1. Complete: This is ___ (John) book.
+    2. Complete: The ___ (students) homework is difficult.
+    3. Traduza: "O carro de Mary é novo."
+    4. Escreva três frases com substantivos possessivos no singular.
+    5. Escreva três frases com substantivos possessivos no plural.
+
+Solução dos Exercícios:
+    1. "This is John’s book."
+    2. "The students’ homework is difficult."
+    3. "Mary’s car is new."
+    4. Exemplos: "Peter’s house is big." / "The dog’s toy is broken." / "Anna’s phone is expensive."
+    5. Exemplos: "The teachers’ meeting is tomorrow." / "The boys’ room is messy." / "The girls’ team won the game."
+
+Indicação de artefatos visuais:
+    - Quadro com regras de formação de possessive nouns.
+    - Tabela comparativa: singular vs. plural.
+    - Ilustrações com objetos e donos.
+    - Link audiovisual: vídeo sobre possessive nouns.
+---
+
+[TÓPICO: FUTURE WITH WILL]
+
+Explicação:
+O tempo verbal "Future with Will" é usado para indicar ações que acontecerão no futuro. 
+Sua estrutura é formada por sujeito + will + verbo principal. Exemplo: "I will study tomorrow." 
+É muito comum em promessas, previsões e decisões tomadas no momento da fala. 
+Dominar esse tempo verbal é essencial para planejar e falar sobre o futuro.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Future with Will.
+    * Utilizar "will" em frases afirmativas, negativas e interrogativas.
+    * Praticar exemplos em situações cotidianas.
+    * Construir diálogos curtos sobre planos futuros.
+
+Lista de Exercícios:
+    1. Complete: I ___ (study) English tomorrow.
+    2. Traduza: "Ela viajará na próxima semana."
+    3. Escreva três frases afirmativas usando "will".
+    4. Escreva três frases negativas usando "will".
+    5. Transforme a frase "He will play soccer" em pergunta.
+
+Solução dos Exercícios:
+    1. "I will study English tomorrow."
+    2. "She will travel next week."
+    3. Exemplos: "I will read a book." / "They will watch TV." / "We will visit our friends."
+    4. Exemplos: "I will not sleep late." / "She will not work tomorrow." / "They will not play soccer."
+    5. "Will he play soccer?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Future with Will.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com planos futuros.
+    - Link audiovisual: vídeo sobre Future with Will.
+---
+
+[TÓPICO: FUTURE WITH GOING TO]
+
+Explicação:
+O tempo verbal "Future with Going To" é usado para indicar planos ou intenções já decididas. 
+Sua estrutura é formada por sujeito + verbo "to be" + going to + verbo principal. 
+Exemplo: "I am going to study tonight." / "They are going to travel next month." 
+É muito comum em conversas sobre planos futuros.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Future with Going To.
+    * Utilizar "going to" em frases afirmativas, negativas e interrogativas.
+    * Diferenciar uso de "will" e "going to".
+    * Construir diálogos curtos sobre intenções futuras.
+
+Lista de Exercícios:
+    1. Complete: She ___ (go) to the party tonight.
+    2. Traduza: "Nós vamos comprar um carro."
+    3. Escreva três frases afirmativas usando "going to".
+    4. Escreva três frases negativas usando "going to".
+    5. Transforme a frase "They are going to play soccer" em pergunta.
+
+Solução dos Exercícios:
+    1. "She is going to the party tonight."
+    2. "We are going to buy a car."
+    3. Exemplos: "I am going to study." / "He is going to work." / "They are going to travel."
+    4. Exemplos: "I am not going to sleep late." / "She is not going to cook." / "They are not going to play soccer."
+    5. "Are they going to play soccer?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Future with Going To.
+    - Quadro comparativo: will vs. going to.
+    - Ilustrações com planos futuros.
+    - Link audiovisual: vídeo sobre Future with Going To.
+---
+
+[TÓPICO: FUTURE CONTINUOUS]
+
+Explicação:
+O tempo verbal "Future Continuous" é usado para indicar ações que estarão acontecendo em um momento específico do futuro. 
+Sua estrutura é formada por sujeito + will + be + verbo principal + "-ing". 
+Exemplo: "I will be studying at 8 o’clock tomorrow." / "She will be working next week." 
+Esse tempo verbal é útil para descrever atividades em andamento no futuro.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Future Continuous.
+    * Conjugar verbos corretamente no tempo verbal.
+    * Utilizar o tempo em frases afirmativas, negativas e interrogativas.
+    * Construir diálogos curtos descrevendo ações futuras em andamento.
+
+Lista de Exercícios:
+    1. Complete: I ___ (study) English at 8 o’clock tomorrow.
+    2. Traduza: "Ela estará trabalhando amanhã."
+    3. Escreva três frases afirmativas no Future Continuous.
+    4. Escreva três frases negativas no Future Continuous.
+    5. Transforme a frase "He will be playing soccer" em pergunta.
+
+Solução dos Exercícios:
+    1. "I will be studying English at 8 o’clock tomorrow."
+    2. "She will be working tomorrow."
+    3. Exemplos: "I will be reading a book." / "They will be watching TV." / "We will be eating lunch."
+    4. Exemplos: "I will not be sleeping." / "She will not be studying." / "They will not be working."
+    5. "Will he be playing soccer?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Future Continuous.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com atividades futuras em andamento.
+    - Link audiovisual: vídeo sobre Future Continuous.
+---
+
+[TÓPICO: FUTURE PERFECT]
+
+Explicação:
+O tempo verbal "Future Perfect" é usado para indicar ações que terão sido concluídas em um momento específico do futuro. 
+Sua estrutura é formada por sujeito + will + have + particípio passado do verbo principal. 
+Exemplo: "I will have finished my homework by 8 o’clock." / "She will have traveled by next year." 
+Esse tempo verbal é útil para falar sobre metas e prazos futuros.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Future Perfect.
+    * Utilizar o tempo em frases afirmativas, negativas e interrogativas.
+    * Praticar exemplos em situações cotidianas.
+    * Construir diálogos curtos sobre ações futuras concluídas.
+
+Lista de Exercícios:
+    1. Complete: I ___ (finish) my work by tomorrow.
+    2. Traduza: "Ela terá estudado inglês até o próximo mês."
+    3. Escreva três frases afirmativas no Future Perfect.
+    4. Escreva três frases negativas no Future Perfect.
+    5. Transforme a frase "He will have traveled" em pergunta.
+
+Solução dos Exercícios:
+    1. "I will have finished my work by tomorrow."
+    2. "She will have studied English by next month."
+    3. Exemplos: "I will have read the book." / "They will have completed the project." / "We will have eaten dinner."
+    4. Exemplos: "I will not have finished." / "She will not have traveled." / "They will not have studied."
+    5. "Will he have traveled?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Future Perfect.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com prazos futuros.
+    - Link audiovisual: vídeo sobre Future Perfect.
+---
+
+[TÓPICO: FUTURE PERFECT CONTINUOUS]
+
+Explicação:
+O tempo verbal "Future Perfect Continuous" é usado para indicar ações que terão estado em andamento até um momento específico do futuro. 
+Sua estrutura é formada por sujeito + will + have + been + verbo principal + "-ing". 
+Exemplo: "I will have been studying for two hours by 8 o’clock." 
+Esse tempo verbal é útil para enfatizar a duração de uma ação futura.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Future Perfect Continuous.
+    * Utilizar o tempo em frases afirmativas, negativas e interrogativas.
+    * Praticar exemplos em situações cotidianas.
+    * Construir diálogos curtos sobre duração de ações futuras.
+
+Lista de Exercícios:
+    1. Complete: By next year, she ___ (work) here for 10 years.
+    2. Traduza: "Eu terei estado estudando por três horas até as 10."
+    3. Escreva três frases afirmativas no Future Perfect Continuous.
+    4. Escreva três frases negativas no Future Perfect Continuous.
+    5. Transforme a frase "He will have been playing soccer" em pergunta.
+
+Solução dos Exercícios:
+    1. "By next year, she will have been working here for 10 years."
+    2. "I will have been studying for three hours by 10."
+    3. Exemplos: "I will have been reading." / "They will have been traveling." / "We will have been waiting."
+    4. Exemplos: "I will not have been studying." / "She will not have been working." / "They will not have been playing."
+    5. "Will he have been playing soccer?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Future Perfect Continuous.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com duração de ações futuras.
+    - Link audiovisual: vídeo sobre Future Perfect Continuous.
+---
+
+[TÓPICO: PRESENT PERFECT]
+
+Explicação:
+O tempo verbal "Present Perfect" é usado para indicar ações que ocorreram em algum momento do passado e têm relevância no presente. 
+Sua estrutura é formada por sujeito + have/has + particípio passado do verbo principal. 
+Exemplo: "I have studied English." / "She has traveled to London." 
+É muito comum em conversas sobre experiências e situações que ainda têm impacto.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Present Perfect.
+    * Diferenciar uso de have e has.
+    * Utilizar o tempo em frases afirmativas, negativas e interrogativas.
+    * Construir diálogos curtos sobre experiências.
+
+Lista de Exercícios:
+    1. Complete: I ___ (study) English for two years.
+    2. Traduza: "Ela já visitou Paris."
+    3. Escreva três frases afirmativas no Present Perfect.
+    4. Escreva três frases negativas no Present Perfect.
+    5. Transforme a frase "They have eaten lunch" em pergunta.
+
+Solução dos Exercícios:
+    1. "I have studied English for two years."
+    2. "She has visited Paris."
+    3. Exemplos: "I have read this book." / "He has played soccer." / "We have traveled to Spain."
+    4. Exemplos: "I have not studied today." / "She has not finished her homework." / "They have not seen the movie."
+    5. "Have they eaten lunch?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Present Perfect.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com experiências pessoais.
+    - Link audiovisual: vídeo sobre Present Perfect.
+---
+
+[TÓPICO: PRESENT PERFECT CONTINUOUS]
+
+Explicação:
+O tempo verbal "Present Perfect Continuous" é usado para indicar ações que começaram no passado 
+e continuam até o presente, ou que ocorreram repetidamente até agora. 
+Sua estrutura é formada por sujeito + have/has + been + verbo principal + "-ing". 
+Exemplo: "I have been studying English for two hours." / "She has been working all day." 
+Esse tempo verbal enfatiza a duração da ação.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Present Perfect Continuous.
+    * Utilizar o tempo em frases afirmativas, negativas e interrogativas.
+    * Praticar exemplos em situações cotidianas.
+    * Construir diálogos curtos sobre ações em andamento.
+
+Lista de Exercícios:
+    1. Complete: I ___ (study) English for two hours.
+    2. Traduza: "Ela tem estado trabalhando o dia todo."
+    3. Escreva três frases afirmativas no Present Perfect Continuous.
+    4. Escreva três frases negativas no Present Perfect Continuous.
+    5. Transforme a frase "They have been playing soccer" em pergunta.
+
+Solução dos Exercícios:
+    1. "I have been studying English for two hours."
+    2. "She has been working all day."
+    3. Exemplos: "I have been reading." / "He has been cooking." / "We have been waiting."
+    4. Exemplos: "I have not been studying." / "She has not been working." / "They have not been playing."
+    5. "Have they been playing soccer?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Present Perfect Continuous.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com ações em andamento.
+    - Link audiovisual: vídeo sobre Present Perfect Continuous.
+---
+
+[TÓPICO: PAST PERFECT]
+
+Explicação:
+O tempo verbal "Past Perfect" é usado para indicar ações que aconteceram antes de outra ação no passado. 
+Sua estrutura é formada por sujeito + had + particípio passado do verbo principal. 
+Exemplo: "I had finished my homework before dinner." / "She had traveled before she met him." 
+Esse tempo verbal é útil para narrar sequências de eventos passados.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Past Perfect.
+    * Utilizar o tempo em frases afirmativas, negativas e interrogativas.
+    * Praticar exemplos em situações cotidianas.
+    * Construir diálogos curtos sobre sequências de ações passadas.
+
+Lista de Exercícios:
+    1. Complete: I ___ (finish) my work before dinner.
+    2. Traduza: "Eles já tinham saído quando eu cheguei."
+    3. Escreva três frases afirmativas no Past Perfect.
+    4. Escreva três frases negativas no Past Perfect.
+    5. Transforme a frase "She had studied English" em pergunta.
+
+Solução dos Exercícios:
+    1. "I had finished my work before dinner."
+    2. "They had left when I arrived."
+    3. Exemplos: "I had read the book." / "He had played soccer." / "We had traveled to Spain."
+    4. Exemplos: "I had not studied." / "She had not finished her homework." / "They had not seen the movie."
+    5. "Had she studied English?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Past Perfect.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com sequências de ações passadas.
+    - Link audiovisual: vídeo sobre Past Perfect.
+---
+
+[TÓPICO: PAST PERFECT CONTINUOUS]
+
+Explicação:
+O tempo verbal "Past Perfect Continuous" é usado para indicar ações que estavam em andamento 
+até um momento específico do passado. 
+Sua estrutura é formada por sujeito + had + been + verbo principal + "-ing". 
+Exemplo: "I had been studying for two hours before dinner." / "She had been working all day before she rested." 
+Esse tempo verbal enfatiza a duração de uma ação passada.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura do Past Perfect Continuous.
+    * Utilizar o tempo em frases afirmativas, negativas e interrogativas.
+    * Praticar exemplos em situações cotidianas.
+    * Construir diálogos curtos sobre duração de ações passadas.
+
+Lista de Exercícios:
+    1. Complete: I ___ (study) English for two hours before dinner.
+    2. Traduza: "Ela tinha estado trabalhando o dia todo antes de descansar."
+    3. Escreva três frases afirmativas no Past Perfect Continuous.
+    4. Escreva três frases negativas no Past Perfect Continuous.
+    5. Transforme a frase "They had been playing soccer" em pergunta.
+
+Solução dos Exercícios:
+    1. "I had been studying English for two hours before dinner."
+    2. "She had been working all day before she rested."
+    3. Exemplos: "I had been reading." / "He had been cooking." / "We had been waiting."
+    4. Exemplos: "I had not been studying." / "She had not been working." / "They had not been playing."
+    5. "Had they been playing soccer?"
+
+Indicação de artefatos visuais:
+    - Tabela com conjugação do Past Perfect Continuous.
+    - Quadro comparativo: afirmativa, negativa e interrogativa.
+    - Ilustrações com duração de ações passadas.
+    - Link audiovisual: vídeo sobre Past Perfect Continuous.
+---
+
+[TÓPICO: PRESENT PERFECT vs. SIMPLE PAST]
+
+Explicação:
+O "Present Perfect" e o "Simple Past" são tempos verbais que frequentemente causam confusão. 
+O "Present Perfect" (have/has + particípio) é usado para ações que ocorreram em algum momento do passado 
+com relevância no presente. Já o "Simple Past" (verbo no passado) é usado para ações concluídas em um 
+momento específico do passado. Exemplo: "I have studied English." (experiência até agora) vs. 
+"I studied English yesterday." (ação concluída em tempo definido).
+
+Objetivos de aprendizagem:
+    * Diferenciar Present Perfect e Simple Past.
+    * Utilizar cada tempo verbal em frases adequadas.
+    * Reconhecer marcadores de tempo típicos (yesterday, last week, ever, never).
+    * Construir diálogos curtos aplicando ambos os tempos.
+
+Lista de Exercícios:
+    1. Complete: I ___ (study) English yesterday.
+    2. Complete: I ___ (study) English for two years.
+    3. Traduza: "Eu nunca viajei para Londres."
+    4. Escreva três frases no Simple Past.
+    5. Escreva três frases no Present Perfect.
+
+Solução dos Exercícios:
+    1. "I studied English yesterday."
+    2. "I have studied English for two years."
+    3. "I have never traveled to London."
+    4. Exemplos: "I watched TV yesterday." / "She played soccer last week." / "They visited Paris in 2020."
+    5. Exemplos: "I have read this book." / "He has eaten sushi." / "We have seen that movie."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: Present Perfect vs. Simple Past.
+    - Tabela com marcadores de tempo.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre diferenças entre Present Perfect e Simple Past.
+---
+
+[TÓPICO: PRESENT PERFECT vs. PAST PERFECT]
+
+Explicação:
+O "Present Perfect" (have/has + particípio) indica ações passadas com relevância no presente. 
+O "Past Perfect" (had + particípio) indica ações que aconteceram antes de outra ação no passado. 
+Exemplo: "I have studied English." (experiência até agora) vs. 
+"I had studied English before I traveled." (ação anterior a outra no passado). 
+Dominar essa diferença é essencial para narrar sequências de eventos.
+
+Objetivos de aprendizagem:
+    * Diferenciar Present Perfect e Past Perfect.
+    * Utilizar cada tempo verbal em frases adequadas.
+    * Reconhecer contextos de uso.
+    * Construir diálogos curtos aplicando ambos os tempos.
+
+Lista de Exercícios:
+    1. Complete: I ___ (study) English before I traveled.
+    2. Traduza: "Eu já terminei meu trabalho."
+    3. Escreva três frases no Past Perfect.
+    4. Escreva três frases no Present Perfect.
+    5. Crie um diálogo curto usando ambos os tempos.
+
+Solução dos Exercícios:
+    1. "I had studied English before I traveled."
+    2. "I have already finished my work."
+    3. Exemplos: "I had eaten before she arrived." / "He had studied before the test." / "We had left before the rain."
+    4. Exemplos: "I have read this book." / "She has visited London." / "They have played soccer."
+    5. Exemplo: A: "Have you studied English?" B: "Yes, I have. I had studied before I traveled."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: Present Perfect vs. Past Perfect.
+    - Tabela com exemplos práticos.
+    - Ilustrações com sequências de ações.
+    - Link audiovisual: vídeo sobre diferenças entre Present Perfect e Past Perfect.
+---
+
+[TÓPICO: MODAL VERBS]
+
+Explicação:
+Os verbos modais são usados para expressar possibilidade, obrigação, permissão ou habilidade. 
+Os principais são: can (poder), could (poderia), may (pode), might (talvez), must (dever), 
+shall (deverá), should (deveria), will (vai), would (iria). Eles são seguidos pelo verbo principal 
+sem "to". Exemplo: "I can swim." / "You must study." / "She should go."
+
+Objetivos de aprendizagem:
+    * Reconhecer os principais verbos modais.
+    * Utilizar modais em frases simples.
+    * Diferenciar significados (possibilidade, obrigação, permissão).
+    * Construir diálogos curtos aplicando modais.
+
+Lista de Exercícios:
+    1. Escreva três frases usando "can".
+    2. Escreva três frases usando "must".
+    3. Traduza: "Você deveria estudar mais."
+    4. Complete: He ___ play the guitar. (habilidade)
+    5. Crie um diálogo curto usando modais.
+
+Solução dos Exercícios:
+    1. Exemplos: "I can swim." / "She can speak English." / "They can play soccer."
+    2. Exemplos: "You must study." / "He must work." / "They must be careful."
+    3. "You should study more."
+    4. "He can play the guitar."
+    5. Exemplo: A: "Can you help me?" B: "Yes, I can. But you must finish your homework first."
+
+Indicação de artefatos visuais:
+    - Quadro com lista de modais e significados.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre verbos modais.
+---
+
+[TÓPICO: MODAL VERBS – PAST]
+
+Explicação:
+Os verbos modais no passado são usados para expressar possibilidade, obrigação ou habilidade em situações já concluídas. 
+A estrutura básica é: modal + have + particípio passado. Exemplos: "She could have gone to the party." 
+/ "He should have studied more." / "They might have missed the bus." 
+Esse uso é essencial para falar sobre hipóteses, arrependimentos ou eventos passados.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura modal + have + particípio.
+    * Utilizar modais no passado em frases simples.
+    * Diferenciar significados (possibilidade, obrigação, arrependimento).
+    * Construir diálogos curtos aplicando modais no passado.
+
+Lista de Exercícios:
+    1. Complete: He ___ (study) more for the test. (deveria)
+    2. Traduza: "Ela poderia ter ido à festa."
+    3. Escreva três frases usando "should have".
+    4. Escreva três frases usando "could have".
+    5. Crie um diálogo curto usando modais no passado.
+
+Solução dos Exercícios:
+    1. "He should have studied more for the test."
+    2. "She could have gone to the party."
+    3. Exemplos: "I should have called you." / "She should have worked harder." / "They should have arrived earlier."
+    4. Exemplos: "I could have helped you." / "He could have won the game." / "We could have traveled last year."
+    5. Exemplo: A: "Why did you fail the test?" B: "I should have studied more."
+
+Indicação de artefatos visuais:
+    - Quadro com modais no passado.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre modais no passado.
+---
+
+[TÓPICO: CONDITIONAL SENTENCES]
+
+Explicação:
+As frases condicionais em inglês expressam situações hipotéticas e suas consequências. 
+Existem quatro tipos principais: Zero Conditional (fatos gerais), First Conditional (possibilidades futuras), 
+Second Conditional (hipóteses irreais no presente/futuro), Third Conditional (hipóteses irreais no passado). 
+Exemplo: "If it rains, we stay home." / "If I study, I will pass." / "If I were rich, I would travel." 
+/ "If I had studied, I would have passed."
+
+Objetivos de aprendizagem:
+    * Reconhecer os quatro tipos de condicionais.
+    * Utilizar condicionais em frases simples.
+    * Diferenciar contextos de uso.
+    * Construir diálogos curtos aplicando condicionais.
+
+Lista de Exercícios:
+    1. Escreva uma frase no Zero Conditional.
+    2. Escreva uma frase no First Conditional.
+    3. Escreva uma frase no Second Conditional.
+    4. Escreva uma frase no Third Conditional.
+    5. Crie um diálogo curto usando condicionais.
+
+Solução dos Exercícios:
+    1. "If you heat water, it boils."
+    2. "If I study, I will pass the test."
+    3. "If I were rich, I would buy a big house."
+    4. "If I had studied, I would have passed the exam."
+    5. Exemplo: A: "What will you do if it rains?" B: "I will stay home."
+
+Indicação de artefatos visuais:
+    - Quadro com os quatro tipos de condicionais.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações hipotéticas.
+    - Link audiovisual: vídeo sobre frases condicionais.
+---
+
+[TÓPICO: RELATIVE PRONOUNS]
+
+Explicação:
+Os pronomes relativos são usados para conectar frases e dar mais informações sobre um substantivo. 
+Os principais são: who (quem), which (o qual), that (que), whose (cujo), where (onde), when (quando). 
+Exemplo: "The man who is speaking is my teacher." / "The book that I read was interesting." 
+Eles são fundamentais para construir frases mais complexas e detalhadas.
+
+Objetivos de aprendizagem:
+    * Reconhecer os principais pronomes relativos.
+    * Utilizar pronomes relativos em frases simples.
+    * Diferenciar usos em diferentes contextos.
+    * Construir diálogos curtos aplicando pronomes relativos.
+
+Lista de Exercícios:
+    1. Complete: The man ___ is speaking is my teacher.
+    2. Traduza: "O livro que eu li era interessante."
+    3. Escreva três frases usando "who".
+    4. Escreva três frases usando "which".
+    5. Crie um diálogo curto usando pronomes relativos.
+
+Solução dos Exercícios:
+    1. "The man who is speaking is my teacher."
+    2. "The book that I read was interesting."
+    3. Exemplos: "The girl who is singing is my friend." / "The man who works here is kind." / "The boy who plays soccer is my brother."
+    4. Exemplos: "The car which is red is mine." / "The movie which we watched was funny." / "The house which is big belongs to them."
+    5. Exemplo: A: "Do you know the man who is talking?" B: "Yes, he is my teacher."
+
+Indicação de artefatos visuais:
+    - Quadro com pronomes relativos e usos.
+    - Tabela com exemplos práticos.
+    - Ilustrações com frases complexas.
+    - Link audiovisual: vídeo sobre pronomes relativos.
+---
+
+[TÓPICO: PASSIVE VOICE – PAST, PRESENT, FUTURE]
+
+Explicação:
+A voz passiva pode ser usada em diferentes tempos verbais. 
+- Presente: sujeito + is/are + particípio passado → "The house is cleaned every day."  
+- Passado: sujeito + was/were + particípio passado → "The car was repaired yesterday."  
+- Futuro: sujeito + will be + particípio passado → "The project will be finished tomorrow."  
+Ela é usada quando o foco está na ação ou no objeto, não em quem a realiza.
+
+Objetivos de aprendizagem:
+    * Reconhecer a voz passiva em diferentes tempos verbais.
+    * Diferenciar presente, passado e futuro na voz passiva.
+    * Utilizar frases simples em cada tempo.
+    * Construir diálogos curtos aplicando voz passiva.
+
+Lista de Exercícios:
+    1. Transforme: "They clean the room." → Voz passiva no presente.
+    2. Transforme: "She repaired the car." → Voz passiva no passado.
+    3. Transforme: "He will finish the work." → Voz passiva no futuro.
+    4. Escreva três frases na voz passiva no presente.
+    5. Escreva três frases na voz passiva no passado.
+
+Solução dos Exercícios:
+    1. "The room is cleaned."
+    2. "The car was repaired."
+    3. "The work will be finished."
+    4. Exemplos: "The book is read by students." / "The food is cooked by my mother." / "The homework is done by the children."
+    5. Exemplos: "The song was sung by her." / "The house was built in 1990." / "The letter was written by John."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: voz passiva no presente, passado e futuro.
+    - Tabela com exemplos práticos.
+    - Ilustrações com ações cotidianas.
+    - Link audiovisual: vídeo sobre voz passiva em diferentes tempos.
+---
+
+[TÓPICO: PASSIVE VOICE – MODAL VERBS]
+
+Explicação:
+A voz passiva também pode ser usada com verbos modais. 
+A estrutura é: sujeito + modal + be + particípio passado. 
+Exemplo: "The work must be done." / "The car can be repaired." / "The book should be read." 
+Esse uso é comum em instruções, regras e possibilidades.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura da voz passiva com modais.
+    * Utilizar modais em frases passivas simples.
+    * Diferenciar significados (obrigação, possibilidade, permissão).
+    * Construir diálogos curtos aplicando voz passiva com modais.
+
+Lista de Exercícios:
+    1. Complete: The homework ___ (must/do) today.
+    2. Traduza: "O carro pode ser consertado."
+    3. Escreva três frases usando "can" na voz passiva.
+    4. Escreva três frases usando "must" na voz passiva.
+    5. Crie um diálogo curto usando voz passiva com modais.
+
+Solução dos Exercícios:
+    1. "The homework must be done today."
+    2. "The car can be repaired."
+    3. Exemplos: "The room can be cleaned." / "The book can be read." / "The food can be cooked."
+    4. Exemplos: "The rules must be followed." / "The work must be finished." / "The exam must be done."
+    5. Exemplo: A: "Can the project be completed?" B: "Yes, it can be completed tomorrow."
+
+Indicação de artefatos visuais:
+    - Quadro com modais na voz passiva.
+    - Tabela com exemplos práticos.
+    - Ilustrações com instruções e regras.
+    - Link audiovisual: vídeo sobre voz passiva com modais.
+---
+
+[TÓPICO: PASSIVE VOICE – QUESTIONS]
+
+Explicação:
+Perguntas na voz passiva são usadas para focar na ação ou no objeto em vez de quem a realiza. 
+A estrutura é: auxiliar + sujeito + particípio passado. 
+Exemplo: "Is the room cleaned every day?" / "Was the car repaired yesterday?" / "Will the work be finished tomorrow?" 
+Esse uso é comum em entrevistas, inspeções e situações formais.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura de perguntas na voz passiva.
+    * Utilizar perguntas passivas em diferentes tempos verbais.
+    * Praticar exemplos em situações cotidianas.
+    * Construir diálogos curtos aplicando perguntas passivas.
+
+Lista de Exercícios:
+    1. Transforme: "Do they clean the room?" → Voz passiva no presente.
+    2. Transforme: "Did she repair the car?" → Voz passiva no passado.
+    3. Transforme: "Will he finish the work?" → Voz passiva no futuro.
+    4. Escreva três perguntas na voz passiva no presente.
+    5. Escreva três perguntas na voz passiva no passado.
+
+Solução dos Exercícios:
+    1. "Is the room cleaned?"
+    2. "Was the car repaired?"
+    3. "Will the work be finished?"
+    4. Exemplos: "Is the book read by students?" / "Is the food cooked by your mother?" / "Is the homework done by the children?"
+    5. Exemplos: "Was the song sung by her?" / "Was the house built in 1990?" / "Was the letter written by John?"
+
+Indicação de artefatos visuais:
+    - Quadro com perguntas na voz passiva.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações formais.
+    - Link audiovisual: vídeo sobre perguntas na voz passiva.
+---
+
+[TÓPICO: PASSIVE VOICE – NEGATIVE SENTENCES]
+
+Explicação:
+As frases negativas na voz passiva são usadas para indicar que uma ação **não** foi realizada.  
+A estrutura é: sujeito + verbo "to be" + not + particípio passado.  
+Exemplo: "The homework was not done." / "The room is not cleaned every day."  
+Esse uso é comum em relatos, instruções e situações formais.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura da voz passiva negativa.
+    * Utilizar frases negativas em diferentes tempos verbais.
+    * Diferenciar voz ativa e passiva negativa.
+    * Construir diálogos curtos aplicando voz passiva negativa.
+
+Lista de Exercícios:
+    1. Transforme: "They cleaned the room." → Voz passiva negativa no presente.
+    2. Traduza: "O carro não foi consertado ontem."
+    3. Escreva três frases negativas na voz passiva no presente.
+    4. Escreva três frases negativas na voz passiva no passado.
+    5. Crie um diálogo curto usando voz passiva negativa.
+
+Solução dos Exercícios:
+    1. "The room is not cleaned."
+    2. "The car was not repaired yesterday."
+    3. Exemplos: "The book is not read by students." / "The food is not cooked by my mother." / "The homework is not done by the children."
+    4. Exemplos: "The song was not sung by her." / "The house was not built in 1990." / "The letter was not written by John."
+    5. Exemplo: A: "Was the project finished?" B: "No, it was not finished."
+
+Indicação de artefatos visuais:
+    - Quadro com exemplos de frases negativas na voz passiva.
+    - Tabela comparativa: ativa vs. passiva negativa.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre voz passiva negativa.
+---
+
+[TÓPICO: PASSIVE VOICE – CONTINUOUS TENSES]
+
+Explicação:
+A voz passiva também pode ser usada nos tempos contínuos.  
+A estrutura é: sujeito + verbo "to be" (no tempo contínuo) + being + particípio passado.  
+Exemplo: "The room is being cleaned now." / "The car was being repaired yesterday."  
+Esse uso é comum para descrever ações em andamento.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura da voz passiva nos tempos contínuos.
+    * Utilizar frases afirmativas e negativas.
+    * Diferenciar presente contínuo e passado contínuo na voz passiva.
+    * Construir diálogos curtos aplicando voz passiva contínua.
+
+Lista de Exercícios:
+    1. Complete: The room ___ (clean) now. (presente contínuo)
+    2. Traduza: "O carro estava sendo consertado ontem."
+    3. Escreva três frases na voz passiva no presente contínuo.
+    4. Escreva três frases na voz passiva no passado contínuo.
+    5. Crie um diálogo curto usando voz passiva contínua.
+
+Solução dos Exercícios:
+    1. "The room is being cleaned now."
+    2. "The car was being repaired yesterday."
+    3. Exemplos: "The book is being read." / "The food is being cooked." / "The homework is being done."
+    4. Exemplos: "The song was being sung." / "The house was being built." / "The letter was being written."
+    5. Exemplo: A: "What is happening now?" B: "The room is being cleaned."
+
+Indicação de artefatos visuais:
+    - Quadro com estrutura da voz passiva contínua.
+    - Tabela com exemplos práticos.
+    - Ilustrações com ações em andamento.
+    - Link audiovisual: vídeo sobre voz passiva contínua.
+---
+
+[TÓPICO: PASSIVE VOICE – PERFECT TENSES]
+
+Explicação:
+A voz passiva também pode ser usada nos tempos perfeitos.  
+A estrutura é: sujeito + have/has/had + been + particípio passado.  
+Exemplo: "The work has been finished." / "The project had been completed before the deadline."  
+Esse uso é comum em relatórios e situações formais.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura da voz passiva nos tempos perfeitos.
+    * Utilizar frases afirmativas e negativas.
+    * Diferenciar presente perfeito e passado perfeito na voz passiva.
+    * Construir diálogos curtos aplicando voz passiva perfeita.
+
+Lista de Exercícios:
+    1. Complete: The homework ___ (finish) already. (presente perfeito)
+    2. Traduza: "O projeto já tinha sido concluído antes do prazo."
+    3. Escreva três frases na voz passiva no presente perfeito.
+    4. Escreva três frases na voz passiva no passado perfeito.
+    5. Crie um diálogo curto usando voz passiva perfeita.
+
+Solução dos Exercícios:
+    1. "The homework has been finished already."
+    2. "The project had been completed before the deadline."
+    3. Exemplos: "The book has been read." / "The food has been cooked." / "The homework has been done."
+    4. Exemplos: "The song had been sung." / "The house had been built." / "The letter had been written."
+    5. Exemplo: A: "Has the work been finished?" B: "Yes, it has been finished."
+
+Indicação de artefatos visuais:
+    - Quadro com estrutura da voz passiva nos tempos perfeitos.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações formais.
+    - Link audiovisual: vídeo sobre voz passiva perfeita.
+---
+
+[TÓPICO: PASSIVE VOICE – MIXED TENSES]
+
+Explicação:
+A voz passiva pode aparecer em diferentes tempos verbais dentro de um mesmo texto ou diálogo. 
+Isso acontece quando queremos destacar ações em momentos distintos. 
+Exemplo: "The room is cleaned every day." (presente) / "The car was repaired yesterday." (passado) / 
+"The project will be finished tomorrow." (futuro). 
+Misturar tempos ajuda a dar clareza sobre quando cada ação ocorreu ou ocorrerá.
+
+Objetivos de aprendizagem:
+    * Reconhecer a voz passiva em diferentes tempos verbais.
+    * Utilizar frases passivas em presente, passado e futuro.
+    * Construir textos curtos misturando tempos verbais.
+    * Praticar diálogos aplicando voz passiva em diferentes contextos.
+
+Lista de Exercícios:
+    1. Escreva uma frase passiva no presente.
+    2. Escreva uma frase passiva no passado.
+    3. Escreva uma frase passiva no futuro.
+    4. Crie um pequeno parágrafo misturando os três tempos.
+    5. Crie um diálogo curto usando voz passiva em tempos diferentes.
+
+Solução dos Exercícios:
+    1. "The book is read by students."
+    2. "The car was repaired yesterday."
+    3. "The work will be finished tomorrow."
+    4. Exemplo: "The homework is done every day. The project was completed last week. The new plan will be discussed tomorrow."
+    5. Exemplo: A: "Is the room cleaned every day?" B: "Yes, it is. It was cleaned yesterday and it will be cleaned tomorrow too."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo com tempos verbais na voz passiva.
+    - Tabela com exemplos práticos.
+    - Ilustrações com ações em diferentes momentos.
+    - Link audiovisual: vídeo sobre voz passiva em tempos mistos.
+---
+
+[TÓPICO: PASSIVE VOICE – COMPLEX SENTENCES]
+
+Explicação:
+A voz passiva também pode ser usada em frases complexas, combinando orações relativas ou condicionais. 
+Exemplo: "The book that was written by her is famous." / "If the work is finished today, it will be presented tomorrow." 
+Esse uso é comum em textos acadêmicos e formais.
+
+Objetivos de aprendizagem:
+    * Reconhecer a voz passiva em frases complexas.
+    * Utilizar pronomes relativos e condicionais com voz passiva.
+    * Construir frases mais elaboradas.
+    * Praticar diálogos aplicando voz passiva em contextos formais.
+
+Lista de Exercícios:
+    1. Complete: The song ___ (sing) by her is beautiful.
+    2. Traduza: "O carro que foi consertado ontem é novo."
+    3. Escreva três frases complexas usando voz passiva.
+    4. Escreva três frases condicionais com voz passiva.
+    5. Crie um diálogo curto usando voz passiva em frases complexas.
+
+Solução dos Exercícios:
+    1. "The song that was sung by her is beautiful."
+    2. "The car that was repaired yesterday is new."
+    3. Exemplos: "The house that was built in 1990 is big." / "The letter that was written by John is important." / "The movie that was watched by them is funny."
+    4. Exemplos: "If the homework is done, the teacher will be happy." / "If the project is finished, it will be presented tomorrow." / "If the food is cooked, we will eat soon."
+    5. Exemplo: A: "Do you know the book that was written by her?" B: "Yes, it is very famous."
+
+Indicação de artefatos visuais:
+    - Quadro com exemplos de frases complexas na voz passiva.
+    - Tabela com condicionais aplicando voz passiva.
+    - Ilustrações com textos acadêmicos.
+    - Link audiovisual: vídeo sobre voz passiva em frases complexas.
+---
+
+[TÓPICO: PASSIVE VOICE – REPORTED SPEECH]
+
+Explicação:
+A voz passiva pode ser combinada com o *reported speech* (discurso indireto). 
+Exemplo: Direct speech: "They clean the room." → Reported speech passive: "It was said that the room was cleaned." 
+Esse uso é comum em notícias, relatórios e situações formais, quando queremos relatar ações sem identificar quem as realizou.
+
+Objetivos de aprendizagem:
+    * Reconhecer a voz passiva no discurso indireto.
+    * Utilizar frases passivas relatando falas.
+    * Diferenciar discurso direto e indireto na voz passiva.
+    * Construir diálogos curtos aplicando voz passiva em reported speech.
+
+Lista de Exercícios:
+    1. Transforme: "They repaired the car." → Reported speech passivo.
+    2. Traduza: "Foi dito que o projeto foi concluído."
+    3. Escreva três frases no reported speech passivo.
+    4. Complete: It was reported that the homework ___ (finish).
+    5. Crie um diálogo curto usando voz passiva em reported speech.
+
+Solução dos Exercícios:
+    1. "It was said that the car was repaired."
+    2. "It was said that the project was finished."
+    3. Exemplos: "It was reported that the book was read." / "It was said that the food was cooked." / "It was announced that the homework was done."
+    4. "It was reported that the homework was finished."
+    5. Exemplo: A: "What did the teacher say?" B: "It was said that the homework was done."
+
+Indicação de artefatos visuais:
+    - Quadro com discurso direto vs. indireto na voz passiva.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações formais.
+    - Link audiovisual: vídeo sobre voz passiva em reported speech.
+---
+
+[TÓPICO: PASSIVE VOICE – ADVANCED USES]
+
+Explicação:
+A voz passiva pode ser usada em contextos mais avançados, como em textos técnicos, científicos e formais. 
+Ela permite dar ênfase ao objeto ou à ação em vez de quem a realiza. 
+Exemplo: "The experiment was conducted in 2020." / "The data will be analyzed tomorrow." 
+Esse uso é comum em relatórios, artigos acadêmicos e documentos oficiais.
+
+Objetivos de aprendizagem:
+    * Reconhecer usos avançados da voz passiva.
+    * Aplicar voz passiva em textos técnicos e formais.
+    * Diferenciar foco no agente vs. foco na ação.
+    * Construir frases complexas em contextos acadêmicos.
+
+Lista de Exercícios:
+    1. Complete: The experiment ___ (conduct) last year.
+    2. Traduza: "Os dados serão analisados amanhã."
+    3. Escreva três frases técnicas usando voz passiva.
+    4. Escreva três frases formais usando voz passiva.
+    5. Crie um pequeno parágrafo acadêmico usando voz passiva.
+
+Solução dos Exercícios:
+    1. "The experiment was conducted last year."
+    2. "The data will be analyzed tomorrow."
+    3. Exemplos: "The test was performed in the lab." / "The report was written by the researcher." / "The samples were collected in June."
+    4. Exemplos: "The law was approved in 1990." / "The building was constructed in 2005." / "The meeting was scheduled for Monday."
+    5. Exemplo: "The experiment was conducted in 2020. The results were analyzed carefully. The conclusions were published in a scientific journal."
+
+Indicação de artefatos visuais:
+    - Quadro com exemplos técnicos e formais.
+    - Tabela com usos avançados.
+    - Ilustrações com relatórios e artigos.
+    - Link audiovisual: vídeo sobre usos avançados da voz passiva.
+---
+
+[TÓPICO: PASSIVE VOICE – ACADEMIC WRITING]
+
+Explicação:
+Na escrita acadêmica, a voz passiva é frequentemente usada para dar objetividade e impessoalidade. 
+Ela evita o uso excessivo de "I" ou "we" e coloca foco na ação ou resultado. 
+Exemplo: "The survey was conducted among 200 students." / "The results were published in 2021." 
+Esse estilo é preferido em artigos científicos e relatórios.
+
+Objetivos de aprendizagem:
+    * Reconhecer a importância da voz passiva na escrita acadêmica.
+    * Utilizar voz passiva para dar objetividade.
+    * Construir frases formais em artigos e relatórios.
+    * Praticar redação acadêmica com voz passiva.
+
+Lista de Exercícios:
+    1. Complete: The survey ___ (conduct) among 200 students.
+    2. Traduza: "Os resultados foram publicados em 2021."
+    3. Escreva três frases acadêmicas usando voz passiva.
+    4. Escreva três frases de relatório usando voz passiva.
+    5. Crie um pequeno trecho acadêmico usando voz passiva.
+
+Solução dos Exercícios:
+    1. "The survey was conducted among 200 students."
+    2. "The results were published in 2021."
+    3. Exemplos: "The data was collected in May." / "The experiment was designed carefully." / "The hypothesis was tested."
+    4. Exemplos: "The report was submitted yesterday." / "The meeting was organized by the committee." / "The project was completed successfully."
+    5. Exemplo: "The survey was conducted among 200 students. The data was analyzed statistically. The conclusions were presented at the conference."
+
+Indicação de artefatos visuais:
+    - Quadro com exemplos de escrita acadêmica.
+    - Tabela com frases formais.
+    - Ilustrações com artigos e relatórios.
+    - Link audiovisual: vídeo sobre voz passiva na escrita acadêmica.
+---
+
+[TÓPICO: PASSIVE VOICE – COMMON MISTAKES]
+
+Explicação:
+Os erros mais comuns na voz passiva incluem:  
+- Usar o verbo "to be" incorretamente.  
+- Esquecer o particípio passado.  
+- Confundir voz ativa e passiva.  
+Exemplo incorreto: "The book is write by John." → Correto: "The book is written by John."  
+Corrigir esses erros é essencial para escrever corretamente.
+
+Objetivos de aprendizagem:
+    * Reconhecer erros comuns na voz passiva.
+    * Corrigir frases incorretas.
+    * Diferenciar voz ativa e passiva.
+    * Construir frases corretas evitando erros.
+
+Lista de Exercícios:
+    1. Corrija: "The homework is do by the students."
+    2. Corrija: "The car was repair yesterday."
+    3. Corrija: "The song is sing by her."
+    4. Escreva três frases corretas na voz passiva.
+    5. Crie um diálogo curto evitando erros comuns.
+
+Solução dos Exercícios:
+    1. "The homework is done by the students."
+    2. "The car was repaired yesterday."
+    3. "The song is sung by her."
+    4. Exemplos: "The house was built in 1990." / "The food is cooked by my mother." / "The letter was written by John."
+    5. Exemplo: A: "Who wrote the book?" B: "The book was written by a famous author."
+
+Indicação de artefatos visuais:
+    - Quadro com erros comuns e correções.
+    - Tabela comparativa: incorreto vs. correto.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre erros comuns na voz passiva.
+---
+
+[TÓPICO: ACTIVE VOICE vs. PASSIVE VOICE]
+
+Explicação:
+Na voz ativa, o sujeito realiza a ação. Exemplo: "John wrote the book."  
+Na voz passiva, o sujeito recebe a ação. Exemplo: "The book was written by John."  
+A voz ativa é mais comum em diálogos informais, enquanto a passiva é usada em textos formais, acadêmicos e notícias. 
+Dominar ambas é essencial para variar o estilo e dar clareza ao discurso.
+
+Objetivos de aprendizagem:
+    * Reconhecer diferenças entre voz ativa e passiva.
+    * Transformar frases da ativa para a passiva.
+    * Utilizar ambas em contextos adequados.
+    * Construir diálogos curtos aplicando ativa e passiva.
+
+Lista de Exercícios:
+    1. Transforme: "Mary cooks the dinner." → Voz passiva.
+    2. Traduza: "O livro foi escrito por John."
+    3. Escreva três frases na voz ativa.
+    4. Escreva três frases na voz passiva.
+    5. Crie um diálogo curto usando ativa e passiva.
+
+Solução dos Exercícios:
+    1. "The dinner is cooked by Mary."
+    2. "The book was written by John."
+    3. Exemplos: "I play soccer." / "She studies English." / "They watch TV."
+    4. Exemplos: "The homework is done by the students." / "The car was repaired yesterday." / "The food is cooked by my mother."
+    5. Exemplo: A: "Who cleaned the room?" B: "The room was cleaned by John."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: ativa vs. passiva.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre voz ativa e passiva.
+---
+
+[TÓPICO: FORMAL vs. INFORMAL ENGLISH]
+
+Explicação:
+O inglês pode variar entre formal e informal dependendo do contexto.  
+Formal: usado em textos acadêmicos, negócios e situações oficiais. Exemplo: "I would like to request information."  
+Informal: usado em conversas cotidianas. Exemplo: "Can you give me info?"  
+Dominar essa diferença é essencial para adaptar a linguagem ao ambiente.
+
+Objetivos de aprendizagem:
+    * Reconhecer diferenças entre inglês formal e informal.
+    * Utilizar expressões adequadas em cada contexto.
+    * Construir frases formais e informais.
+    * Praticar diálogos curtos adaptando o tom.
+
+Lista de Exercícios:
+    1. Transforme: "I want help." → Formal.
+    2. Traduza: "Gostaria de solicitar informações."
+    3. Escreva três frases formais.
+    4. Escreva três frases informais.
+    5. Crie um diálogo curto misturando formal e informal.
+
+Solução dos Exercícios:
+    1. "I would like some help."
+    2. "I would like to request information."
+    3. Exemplos: "I would like to apply for the job." / "Could you please send me the report?" / "I am writing to inform you..."
+    4. Exemplos: "I want pizza." / "Can you help me?" / "She’s gonna call you."
+    5. Exemplo: A: "Could you please tell me the time?" B: "Sure, it’s 5 o’clock."
+
+Indicação de artefatos visuais:
+    - Quadro comparativo: formal vs. informal.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações sociais e profissionais.
+    - Link audiovisual: vídeo sobre inglês formal e informal.
+---
+
+[TÓPICO: IDIOMATIC EXPRESSIONS]
+
+Explicação:
+As expressões idiomáticas são frases cujo significado não pode ser entendido literalmente.  
+Exemplo: "It’s raining cats and dogs." (Está chovendo muito).  
+São muito comuns no inglês cotidiano e ajudam a enriquecer a comunicação. 
+Aprender idioms é essencial para compreender diálogos naturais e cultura.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões idiomáticas comuns.
+    * Utilizar idioms em frases simples.
+    * Diferenciar significado literal e figurado.
+    * Construir diálogos curtos aplicando idioms.
+
+Lista de Exercícios:
+    1. Escreva três idioms em inglês.
+    2. Traduza: "Ele desistiu." (idiom: give up).
+    3. Complete: It’s ___ cats and dogs. (chover muito)
+    4. Escreva três frases usando idioms.
+    5. Crie um diálogo curto usando idioms.
+
+Solução dos Exercícios:
+    1. Give up, Break the ice, Piece of cake.
+    2. "He gave up."
+    3. "It’s raining cats and dogs."
+    4. Exemplos: "This test is a piece of cake." / "Let’s break the ice with a joke." / "He gave up after trying many times."
+    5. Exemplo: A: "How was the exam?" B: "It was a piece of cake!"
+
+Indicação de artefatos visuais:
+    - Quadro com idioms e traduções.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre expressões idiomáticas.
+---
+
+[TÓPICO: COLLOCATIONS]
+
+Explicação:
+Collocations são combinações naturais de palavras que frequentemente aparecem juntas em inglês.  
+Exemplo: "make a decision" (tomar uma decisão), "do homework" (fazer lição de casa), "take a shower" (tomar banho).  
+Elas ajudam a tornar a fala e escrita mais fluentes e naturais, evitando traduções literais que soam estranhas.
+
+Objetivos de aprendizagem:
+    * Reconhecer collocations comuns.
+    * Utilizar collocations em frases simples.
+    * Diferenciar combinações naturais de traduções literais.
+    * Construir diálogos curtos aplicando collocations.
+
+Lista de Exercícios:
+    1. Escreva três collocations com "make".
+    2. Escreva três collocations com "do".
+    3. Traduza: "Tomar uma decisão."
+    4. Complete: She ___ (take) a shower.
+    5. Crie um diálogo curto usando collocations.
+
+Solução dos Exercícios:
+    1. "Make a decision." / "Make a mistake." / "Make money."
+    2. "Do homework." / "Do the dishes." / "Do business."
+    3. "Make a decision."
+    4. "She takes a shower."
+    5. Exemplo: A: "I need to make a decision." B: "Yes, but first do your homework."
+
+Indicação de artefatos visuais:
+    - Quadro com collocations comuns.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre collocations.
+---
+
+[TÓPICO: FALSE FRIENDS]
+
+Explicação:
+False friends são palavras que parecem semelhantes em inglês e português, mas têm significados diferentes.  
+Exemplo: "actual" (real, verdadeiro) ≠ "atual" (current).  
+Outro exemplo: "pretend" (fingir) ≠ "pretender" (intend).  
+Dominar esses falsos cognatos evita erros de interpretação e comunicação.
+
+Objetivos de aprendizagem:
+    * Reconhecer false friends comuns entre inglês e português.
+    * Diferenciar significados corretos e incorretos.
+    * Utilizar palavras corretamente em frases.
+    * Construir diálogos curtos evitando erros.
+
+Lista de Exercícios:
+    1. Escreva três false friends comuns.
+    2. Traduza corretamente: "Ele fingiu estar doente."
+    3. Complete: She ___ (pretend) to be happy.
+    4. Escreva três frases usando false friends corretamente.
+    5. Crie um diálogo curto evitando erros com false friends.
+
+Solução dos Exercícios:
+    1. Actual, Pretend, Library.
+    2. "He pretended to be sick."
+    3. "She pretended to be happy."
+    4. Exemplos: "The library is near my house." (biblioteca) / "This is the actual reason." (verdadeiro) / "He pretended to sleep." (fingiu).
+    5. Exemplo: A: "Where is the library?" B: "It’s near the school." A: "Oh, I thought it meant bookstore!"
+
+Indicação de artefatos visuais:
+    - Quadro com lista de false friends.
+    - Tabela comparativa: português vs. inglês.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre false friends.
+---
+
+[TÓPICO: SYNONYMS AND ANTONYMS]
+
+Explicação:
+Sinônimos são palavras com significados semelhantes, enquanto antônimos são palavras com significados opostos.  
+Exemplo: synonym → "big" e "large"; antonym → "big" e "small".  
+Aprender sinônimos e antônimos ajuda a enriquecer o vocabulário e evitar repetições.
+
+Objetivos de aprendizagem:
+    * Reconhecer sinônimos e antônimos comuns.
+    * Utilizar sinônimos para variar a linguagem.
+    * Utilizar antônimos para contrastar ideias.
+    * Construir diálogos curtos aplicando sinônimos e antônimos.
+
+Lista de Exercícios:
+    1. Escreva três sinônimos de "happy".
+    2. Escreva três antônimos de "happy".
+    3. Traduza: "Ele está triste."
+    4. Complete: This book is very ___ (big/large).
+    5. Crie um diálogo curto usando sinônimos e antônimos.
+
+Solução dos Exercícios:
+    1. Glad, Joyful, Cheerful.
+    2. Sad, Unhappy, Miserable.
+    3. "He is sad."
+    4. "This book is very large."
+    5. Exemplo: A: "Are you happy today?" B: "Yes, I am glad." A: "Yesterday you were sad." B: "Yes, I was unhappy."
+
+Indicação de artefatos visuais:
+    - Quadro com lista de sinônimos e antônimos.
+    - Tabela com exemplos práticos.
+    - Ilustrações com contrastes visuais.
+    - Link audiovisual: vídeo sobre sinônimos e antônimos.
+---
+
+[TÓPICO: WORD FORMATION]
+
+Explicação:
+Word formation (formação de palavras) é o processo de criar novas palavras a partir de raízes, prefixos e sufixos.  
+Exemplo: "happy" → "unhappy" (prefixo) / "teach" → "teacher" (sufixo).  
+Esse conhecimento ajuda a expandir o vocabulário e compreender palavras complexas em inglês.
+
+Objetivos de aprendizagem:
+    * Reconhecer processos de formação de palavras.
+    * Utilizar prefixos e sufixos para criar novas palavras.
+    * Diferenciar palavras derivadas e compostas.
+    * Construir frases aplicando word formation.
+
+Lista de Exercícios:
+    1. Complete: "possible" → ___ (prefixo de negação).
+    2. Traduza: "Ele é um professor."
+    3. Escreva três palavras derivadas de "happy".
+    4. Escreva três palavras derivadas de "use".
+    5. Crie um diálogo curto usando palavras formadas por prefixos e sufixos.
+
+Solução dos Exercícios:
+    1. "impossible"
+    2. "He is a teacher."
+    3. "Unhappy" / "Happiness" / "Happily"
+    4. "Useful" / "Useless" / "Usage"
+    5. Exemplo: A: "Is this tool useful?" B: "Yes, it is very useful, but sometimes it can be useless."
+
+Indicação de artefatos visuais:
+    - Quadro com exemplos de formação de palavras.
+    - Tabela com prefixos e sufixos comuns.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre word formation.
+---
+
+[TÓPICO: PREFIXES AND SUFFIXES]
+
+Explicação:
+Prefixos são adicionados no início da palavra para mudar seu significado.  
+Exemplo: "un-" (negação) → "unhappy".  
+Sufixos são adicionados ao final da palavra para mudar sua classe gramatical ou significado.  
+Exemplo: "-er" (profissão) → "teacher".  
+Dominar prefixos e sufixos ajuda a ampliar o vocabulário e compreender palavras complexas.
+
+Objetivos de aprendizagem:
+    * Reconhecer prefixos e sufixos comuns.
+    * Utilizar prefixos para alterar significados.
+    * Utilizar sufixos para formar novas palavras.
+    * Construir frases aplicando prefixos e sufixos.
+
+Lista de Exercícios:
+    1. Complete: "legal" → ___ (prefixo de negação).
+    2. Traduza: "Ele é um trabalhador."
+    3. Escreva três palavras com prefixo "re-".
+    4. Escreva três palavras com sufixo "-ness".
+    5. Crie um diálogo curto usando prefixos e sufixos.
+
+Solução dos Exercícios:
+    1. "illegal"
+    2. "He is a worker."
+    3. "Rewrite" / "Replay" / "Redo"
+    4. "Happiness" / "Sadness" / "Kindness"
+    5. Exemplo: A: "Why did you rewrite the text?" B: "Because the first version was full of sadness."
+
+Indicação de artefatos visuais:
+    - Quadro com prefixos e sufixos comuns.
+    - Tabela com exemplos práticos.
+    - Ilustrações com palavras derivadas.
+    - Link audiovisual: vídeo sobre prefixos e sufixos.
+---
+
+[TÓPICO: COMPOUND WORDS]
+
+Explicação:
+Compound words (palavras compostas) são formadas pela junção de duas palavras para criar um novo significado.  
+Exemplo: "toothbrush" (escova de dentes), "football" (futebol), "sunflower" (girassol).  
+Elas podem ser escritas juntas, separadas ou com hífen.
+
+Objetivos de aprendizagem:
+    * Reconhecer palavras compostas comuns.
+    * Utilizar compound words em frases simples.
+    * Diferenciar tipos de palavras compostas.
+    * Construir diálogos curtos aplicando compound words.
+
+Lista de Exercícios:
+    1. Escreva três compound words relacionadas a objetos.
+    2. Escreva três compound words relacionadas a lugares.
+    3. Traduza: "Girassol."
+    4. Complete: I need a ___ (tooth + brush).
+    5. Crie um diálogo curto usando compound words.
+
+Solução dos Exercícios:
+    1. "Toothbrush" / "Notebook" / "Laptop"
+    2. "Airport" / "Classroom" / "Playground"
+    3. "Sunflower"
+    4. "I need a toothbrush."
+    5. Exemplo: A: "Where is my notebook?" B: "It’s in the classroom."
+
+Indicação de artefatos visuais:
+    - Quadro com exemplos de compound words.
+    - Tabela com objetos e lugares compostos.
+    - Ilustrações com palavras compostas.
+    - Link audiovisual: vídeo sobre compound words.
+---
+
+[TÓPICO: WORD FAMILIES]
+
+Explicação:
+Word families (famílias de palavras) são grupos de palavras que compartilham a mesma raiz e estão relacionadas em significado.  
+Exemplo: "act" → "action", "active", "actor".  
+Aprender famílias de palavras ajuda a expandir o vocabulário e compreender como palavras se conectam entre si.
+
+Objetivos de aprendizagem:
+    * Reconhecer famílias de palavras comuns.
+    * Utilizar diferentes formas de uma mesma raiz em frases.
+    * Diferenciar substantivos, verbos, adjetivos e advérbios.
+    * Construir diálogos curtos aplicando word families.
+
+Lista de Exercícios:
+    1. Escreva três palavras da família de "teach".
+    2. Escreva três palavras da família de "happy".
+    3. Traduza: "Ele é um ator famoso."
+    4. Complete: She is very ___ (act).
+    5. Crie um diálogo curto usando palavras da mesma família.
+
+Solução dos Exercícios:
+    1. "Teacher" / "Teaching" / "Taught"
+    2. "Happiness" / "Unhappy" / "Happily"
+    3. "He is a famous actor."
+    4. "She is very active."
+    5. Exemplo: A: "Are you happy?" B: "Yes, I feel happiness every day."
+
+Indicação de artefatos visuais:
+    - Quadro com famílias de palavras.
+    - Tabela com exemplos práticos.
+    - Ilustrações com conexões entre palavras.
+    - Link audiovisual: vídeo sobre word families.
+---
+
+[TÓPICO: HOMOPHONES AND HOMONYMS]
+
+Explicação:
+Homophones são palavras que têm a mesma pronúncia, mas significados diferentes.  
+Exemplo: "two" (número) / "too" (também) / "to" (preposição).  
+Homonyms são palavras que têm a mesma forma escrita, mas significados diferentes.  
+Exemplo: "bank" (banco financeiro) / "bank" (margem do rio).  
+Dominar esses conceitos ajuda a evitar confusões na leitura e fala.
+
+Objetivos de aprendizagem:
+    * Reconhecer homophones e homonyms comuns.
+    * Utilizar palavras corretamente em frases.
+    * Diferenciar significados em contextos distintos.
+    * Construir diálogos curtos aplicando homophones e homonyms.
+
+Lista de Exercícios:
+    1. Escreva três homophones comuns.
+    2. Escreva três homonyms comuns.
+    3. Traduza: "Eu fui ao banco."
+    4. Complete: I want ___ apples. (two/too/to)
+    5. Crie um diálogo curto usando homophones e homonyms.
+
+Solução dos Exercícios:
+    1. "Two/Too/To" / "There/Their/They’re" / "Right/Write"
+    2. "Bank" / "Bat" / "Ring"
+    3. "I went to the bank."
+    4. "I want two apples."
+    5. Exemplo: A: "Did you go to the bank?" B: "Yes, I did. But I also sat by the river bank."
+
+Indicação de artefatos visuais:
+    - Quadro com homophones e homonyms.
+    - Tabela comparativa com significados.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo sobre homophones e homonyms.
+---
+
+[TÓPICO: PHRASAL VERBS – ADVANCED]
+
+Explicação:
+Os phrasal verbs avançados são combinações de verbos com partículas que possuem significados mais complexos.  
+Exemplo: "carry out" (realizar), "look forward to" (aguardar ansiosamente), "put up with" (tolerar).  
+Eles são muito usados em inglês cotidiano e acadêmico, tornando a comunicação mais natural.
+
+Objetivos de aprendizagem:
+    * Reconhecer phrasal verbs avançados.
+    * Utilizar phrasal verbs em frases complexas.
+    * Diferenciar significados literais e figurativos.
+    * Construir diálogos curtos aplicando phrasal verbs avançados.
+
+Lista de Exercícios:
+    1. Escreva três frases usando "carry out".
+    2. Escreva três frases usando "look forward to".
+    3. Traduza: "Eu não aguento mais esse barulho."
+    4. Complete: She ___ (put up with) the situation.
+    5. Crie um diálogo curto usando phrasal verbs avançados.
+
+Solução dos Exercícios:
+    1. Exemplos: "The scientist carried out an experiment." / "They carried out the plan." / "He carried out his duties."
+    2. Exemplos: "I look forward to meeting you." / "She looks forward to the holidays." / "We look forward to the party."
+    3. "I can’t put up with this noise anymore."
+    4. "She put up with the situation."
+    5. Exemplo: A: "Are you excited about the trip?" B: "Yes, I look forward to it."
+
+Indicação de artefatos visuais:
+    - Quadro com lista de phrasal verbs avançados.
+    - Tabela com exemplos práticos.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre phrasal verbs avançados.
+---
+
+[TÓPICO: ADVANCED VOCABULARY – ACADEMIC WORDS]
+
+Explicação:
+O vocabulário acadêmico em inglês é usado em textos formais, artigos científicos e apresentações.  
+Palavras como "analyze" (analisar), "evaluate" (avaliar), "assume" (assumir), "significant" (significativo) 
+são comuns nesse contexto. Dominar esse vocabulário ajuda a escrever e compreender textos acadêmicos.
+
+Objetivos de aprendizagem:
+    * Reconhecer palavras acadêmicas comuns.
+    * Utilizar vocabulário acadêmico em frases formais.
+    * Diferenciar linguagem cotidiana e acadêmica.
+    * Construir pequenos trechos acadêmicos aplicando essas palavras.
+
+Lista de Exercícios:
+    1. Escreva três frases usando "analyze".
+    2. Escreva três frases usando "evaluate".
+    3. Traduza: "O estudo é significativo."
+    4. Complete: We must ___ (assume) responsibility.
+    5. Crie um pequeno parágrafo acadêmico usando palavras avançadas.
+
+Solução dos Exercícios:
+    1. Exemplos: "We need to analyze the data." / "She analyzed the text carefully." / "They analyzed the results."
+    2. Exemplos: "We must evaluate the project." / "He evaluated the experiment." / "They evaluated the performance."
+    3. "The study is significant."
+    4. "We must assume responsibility."
+    5. Exemplo: "The study is significant because it analyzes the data carefully and evaluates the results objectively."
+
+Indicação de artefatos visuais:
+    - Quadro com lista de palavras acadêmicas.
+    - Tabela com exemplos práticos.
+    - Ilustrações com textos formais.
+    - Link audiovisual: vídeo sobre vocabulário acadêmico.
+---
+
+[TÓPICO: LINKING WORDS AND CONNECTORS]
+
+Explicação:
+Linking words e connectors são usados para conectar ideias em textos e diálogos.  
+Exemplos: "however" (entretanto), "therefore" (portanto), "in addition" (além disso), "although" (embora).  
+Eles ajudam a dar coesão e clareza ao discurso, especialmente em textos formais.
+
+Objetivos de aprendizagem:
+    * Reconhecer linking words comuns.
+    * Utilizar conectores em frases simples.
+    * Diferenciar conectores de contraste, causa e adição.
+    * Construir diálogos curtos aplicando linking words.
+
+Lista de Exercícios:
+    1. Escreva três frases usando "however".
+    2. Escreva três frases usando "therefore".
+    3. Traduza: "Além disso, precisamos estudar mais."
+    4. Complete: She studied hard, ___ she passed the test.
+    5. Crie um pequeno parágrafo usando diferentes conectores.
+
+Solução dos Exercícios:
+    1. Exemplos: "I wanted to go; however, I stayed home." / "She is tired; however, she will work." / "They are busy; however, they will help."
+    2. Exemplos: "He studied; therefore, he passed." / "She worked hard; therefore, she succeeded." / "They trained; therefore, they won."
+    3. "In addition, we need to study more."
+    4. "She studied hard, therefore she passed the test."
+    5. Exemplo: "She studied hard; therefore, she passed the test. In addition, she helped her friends. However, she was very tired."
+
+Indicação de artefatos visuais:
+    - Quadro com lista de conectores.
+    - Tabela com exemplos práticos.
+    - Ilustrações com textos formais.
+    - Link audiovisual: vídeo sobre linking words.
+---
+
+[TÓPICO: DISCOURSE MARKERS]
+
+Explicação:
+Discourse markers são palavras ou expressões usadas para organizar o discurso e indicar a relação entre ideias.  
+Exemplos: "well" (bem), "so" (então), "anyway" (de qualquer forma), "actually" (na verdade).  
+Eles são comuns em diálogos informais e ajudam a dar fluidez à fala.
+
+Objetivos de aprendizagem:
+    * Reconhecer discourse markers comuns.
+    * Utilizar discourse markers em diálogos simples.
+    * Diferenciar uso em contextos formais e informais.
+    * Construir diálogos curtos aplicando discourse markers.
+
+Lista de Exercícios:
+    1. Escreva três frases usando "well".
+    2. Escreva três frases usando "actually".
+    3. Traduza: "De qualquer forma, precisamos terminar o trabalho."
+    4. Complete: ___, I think we should go now.
+    5. Crie um diálogo curto usando discourse markers.
+
+Solução dos Exercícios:
+    1. Exemplos: "Well, I don’t know." / "Well, let’s start." / "Well, it’s time to go."
+    2. Exemplos: "Actually, I like pizza." / "Actually, she is my friend." / "Actually, we are busy."
+    3. "Anyway, we need to finish the work."
+    4. "Well, I think we should go now."
+    5. Exemplo: A: "Do you like the movie?" B: "Well, actually, I prefer the book."
+
+Indicação de artefatos visuais:
+    - Quadro com discourse markers comuns.
+    - Tabela com exemplos práticos.
+    - Ilustrações com diálogos informais.
+    - Link audiovisual: vídeo sobre discourse markers.
+---
+
+[TÓPICO: ACADEMIC WRITING – ESSAY STRUCTURE]
+
+Explicação:
+A estrutura de um ensaio acadêmico geralmente segue três partes principais: introdução, desenvolvimento e conclusão.  
+- Introdução: apresenta o tema e a tese.  
+- Desenvolvimento: organiza os argumentos em parágrafos.  
+- Conclusão: resume as ideias e reforça a tese.  
+Seguir essa estrutura garante clareza e organização no texto.
+
+Objetivos de aprendizagem:
+    * Reconhecer a estrutura básica de um ensaio acadêmico.
+    * Organizar ideias em introdução, desenvolvimento e conclusão.
+    * Utilizar conectores para dar coesão ao texto.
+    * Construir pequenos ensaios aplicando a estrutura.
+
+Lista de Exercícios:
+    1. Escreva uma introdução simples sobre "Educação".
+    2. Escreva um parágrafo de desenvolvimento com um argumento.
+    3. Traduza: "Em conclusão, a educação é essencial."
+    4. Complete: The essay has three parts: ___, ___, and ___.
+    5. Crie um pequeno ensaio com três parágrafos.
+
+Solução dos Exercícios:
+    1. "Education is one of the most important aspects of human development."
+    2. "Education provides opportunities for better jobs and improves quality of life."
+    3. "In conclusion, education is essential."
+    4. "Introduction, body, and conclusion."
+    5. Exemplo:  
+       Introduction: "Education is vital for society."  
+       Body: "It helps people get better jobs and improves their lives."  
+       Conclusion: "In conclusion, education is essential for everyone."
+
+Indicação de artefatos visuais:
+    - Quadro com estrutura de ensaio.
+    - Tabela com exemplos práticos.
+    - Ilustrações com organização de texto.
+    - Link audiovisual: vídeo sobre essay structure.
+---
+
+[TÓPICO: ARGUMENTATIVE WRITING]
+
+Explicação:
+A escrita argumentativa apresenta uma tese e a defende com argumentos e evidências.  
+É comum em textos acadêmicos e debates.  
+Exemplo: "School uniforms should be mandatory because they promote equality."  
+Esse tipo de escrita exige clareza, lógica e uso de conectores.
+
+Objetivos de aprendizagem:
+    * Reconhecer características da escrita argumentativa.
+    * Utilizar argumentos e evidências para defender uma tese.
+    * Organizar ideias de forma lógica.
+    * Construir pequenos textos argumentativos.
+
+Lista de Exercícios:
+    1. Escreva uma tese sobre "Tecnologia na educação".
+    2. Escreva um argumento defendendo sua tese.
+    3. Traduza: "Os uniformes escolares promovem igualdade."
+    4. Complete: An argumentative essay must have ___ and ___.
+    5. Crie um pequeno texto argumentativo com dois parágrafos.
+
+Solução dos Exercícios:
+    1. "Technology improves education by providing new tools for learning."
+    2. "Students can access information quickly and learn more effectively."
+    3. "School uniforms promote equality."
+    4. "Arguments and evidence."
+    5. Exemplo:  
+       Thesis: "Technology improves education."  
+       Argument: "It allows students to access information quickly and makes learning more interactive."
+
+Indicação de artefatos visuais:
+    - Quadro com estrutura de texto argumentativo.
+    - Tabela com exemplos práticos.
+    - Ilustrações com debates.
+    - Link audiovisual: vídeo sobre argumentative writing.
+---
+
+[TÓPICO: PERSUASIVE WRITING]
+
+Explicação:
+A escrita persuasiva busca convencer o leitor a adotar uma ideia ou atitude.  
+Ela utiliza argumentos emocionais, exemplos e linguagem forte.  
+Exemplo: "You must recycle to save the planet."  
+É comum em campanhas, discursos e textos opinativos.
+
+Objetivos de aprendizagem:
+    * Reconhecer características da escrita persuasiva.
+    * Utilizar linguagem emocional e convincente.
+    * Construir frases que incentivem ação.
+    * Criar pequenos textos persuasivos.
+
+Lista de Exercícios:
+    1. Escreva uma frase persuasiva sobre "Reciclagem".
+    2. Escreva uma frase persuasiva sobre "Saúde".
+    3. Traduza: "Você deve estudar para ter sucesso."
+    4. Complete: Persuasive writing uses ___ and ___.
+    5. Crie um pequeno texto persuasivo com dois parágrafos.
+
+Solução dos Exercícios:
+    1. "Recycle today to protect tomorrow."
+    2. "Take care of your health to live longer."
+    3. "You must study to succeed."
+    4. "Emotional language and strong arguments."
+    5. Exemplo:  
+       "We must recycle to protect the environment. Every bottle you recycle helps save the planet.  
+       If we don’t act now, future generations will suffer. Start recycling today!"
+
+Indicação de artefatos visuais:
+    - Quadro com técnicas de escrita persuasiva.
+    - Tabela com exemplos práticos.
+    - Ilustrações com campanhas e discursos.
+    - Link audiovisual: vídeo sobre persuasive writing.
+---
+
+[TÓPICO: NARRATIVE WRITING]
+
+Explicação:
+A escrita narrativa conta uma história, seja real ou fictícia.  
+Ela geralmente inclui personagens, cenário, conflito e resolução.  
+Exemplo: "Once upon a time, there was a boy who dreamed of flying."  
+Esse tipo de escrita é comum em contos, romances e relatos pessoais.
+
+Objetivos de aprendizagem:
+    * Reconhecer elementos da narrativa (personagens, cenário, conflito, resolução).
+    * Organizar ideias em forma de história.
+    * Utilizar conectores temporais (first, then, finally).
+    * Construir pequenos textos narrativos.
+
+Lista de Exercícios:
+    1. Escreva uma frase de abertura para uma história.
+    2. Escreva uma frase descrevendo um conflito.
+    3. Traduza: "Era uma vez uma menina que queria viajar."
+    4. Complete: First ___, then ___, finally ___.
+    5. Crie um pequeno parágrafo narrativo.
+
+Solução dos Exercícios:
+    1. "Once upon a time, there was a boy who loved adventures."
+    2. "He faced a big challenge when he lost his map."
+    3. "Once upon a time, there was a girl who wanted to travel."
+    4. "First he woke up, then he ate breakfast, finally he went to school."
+    5. Exemplo: "Once upon a time, there was a boy who dreamed of flying. He faced many challenges, but finally he built his own wings."
+
+Indicação de artefatos visuais:
+    - Quadro com elementos da narrativa.
+    - Tabela com conectores temporais.
+    - Ilustrações com personagens e cenários.
+    - Link audiovisual: vídeo sobre narrative writing.
+---
+
+[TÓPICO: DESCRIPTIVE WRITING]
+
+Explicação:
+A escrita descritiva busca criar imagens vívidas na mente do leitor.  
+Ela utiliza adjetivos, advérbios e detalhes sensoriais (visão, audição, tato, olfato, paladar).  
+Exemplo: "The garden was full of colorful flowers and the sweet smell of roses."  
+Esse tipo de escrita é comum em literatura e descrições de lugares ou pessoas.
+
+Objetivos de aprendizagem:
+    * Reconhecer características da escrita descritiva.
+    * Utilizar adjetivos e advérbios para enriquecer frases.
+    * Explorar os cinco sentidos na escrita.
+    * Construir pequenos textos descritivos.
+
+Lista de Exercícios:
+    1. Escreva uma frase descrevendo um lugar.
+    2. Escreva uma frase descrevendo uma pessoa.
+    3. Traduza: "O céu estava cheio de estrelas brilhantes."
+    4. Complete: The food was ___ and ___.
+    5. Crie um pequeno parágrafo descritivo.
+
+Solução dos Exercícios:
+    1. "The park was full of green trees and singing birds."
+    2. "She was tall, with long brown hair and a kind smile."
+    3. "The sky was full of bright stars."
+    4. "The food was delicious and spicy."
+    5. Exemplo: "The beach was quiet, with soft sand and the sound of waves crashing gently."
+
+Indicação de artefatos visuais:
+    - Quadro com adjetivos e advérbios comuns.
+    - Tabela com exemplos sensoriais.
+    - Ilustrações com paisagens e pessoas.
+    - Link audiovisual: vídeo sobre descriptive writing.
+---
+
+[TÓPICO: CREATIVE WRITING]
+
+Explicação:
+A escrita criativa envolve imaginação e originalidade.  
+Ela pode incluir poesia, contos, diálogos fictícios e textos artísticos.  
+Exemplo: "The moon whispered secrets to the ocean."  
+Esse tipo de escrita é usado para expressar emoções e ideias de forma livre.
+
+Objetivos de aprendizagem:
+    * Reconhecer características da escrita criativa.
+    * Utilizar metáforas e comparações.
+    * Explorar diferentes gêneros literários.
+    * Construir pequenos textos criativos.
+
+Lista de Exercícios:
+    1. Escreva uma metáfora sobre o sol.
+    2. Escreva uma comparação usando "like".
+    3. Traduza: "A lua sussurrava segredos para o oceano."
+    4. Complete: The dream was ___ and ___.
+    5. Crie um pequeno poema ou texto criativo.
+
+Solução dos Exercícios:
+    1. "The sun is a golden crown in the sky."
+    2. "Her smile was like sunshine."
+    3. "The moon whispered secrets to the ocean."
+    4. "The dream was strange and beautiful."
+    5. Exemplo: "The stars danced in the night sky, like tiny candles lighting the darkness."
+
+Indicação de artefatos visuais:
+    - Quadro com metáforas e comparações.
+    - Tabela com exemplos criativos.
+    - Ilustrações com elementos poéticos.
+    - Link audiovisual: vídeo sobre creative writing.
+---
+[TÓPICO: BUSINESS ENGLISH – MEETINGS]
+
+Explicação:
+O inglês para reuniões de negócios envolve vocabulário e expressões formais para conduzir discussões, tomar decisões e organizar tarefas.  
+Exemplo: "Let’s start the meeting." / "Can we move on to the next point?" / "We need to reach a decision."  
+Dominar esse vocabulário é essencial para ambientes corporativos internacionais.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões comuns em reuniões.
+    * Utilizar frases formais para conduzir discussões.
+    * Praticar vocabulário de tomada de decisão.
+    * Construir diálogos curtos simulando reuniões.
+
+Lista de Exercícios:
+    1. Escreva três frases para iniciar uma reunião.
+    2. Escreva três frases para encerrar uma reunião.
+    3. Traduza: "Precisamos chegar a uma decisão."
+    4. Complete: Let’s ___ (move) on to the next point.
+    5. Crie um diálogo curto simulando uma reunião.
+
+Solução dos Exercícios:
+    1. "Let’s start the meeting." / "Shall we begin?" / "Let’s get started."
+    2. "Let’s wrap up." / "That’s all for today." / "The meeting is over."
+    3. "We need to reach a decision."
+    4. "Let’s move on to the next point."
+    5. Exemplo: A: "Let’s start the meeting." B: "Yes, let’s move on to the first topic."
+
+Indicação de artefatos visuais:
+    - Quadro com expressões de reuniões.
+    - Tabela com frases formais.
+    - Ilustrações com ambiente corporativo.
+    - Link audiovisual: vídeo sobre inglês para reuniões.
+---
+
+[TÓPICO: BUSINESS ENGLISH – EMAILS]
+
+Explicação:
+O inglês para e-mails de negócios exige clareza, formalidade e polidez.  
+Exemplo: "Dear Mr. Smith," / "I am writing to inform you..." / "Best regards."  
+Dominar esse formato é essencial para comunicação profissional.
+
+Objetivos de aprendizagem:
+    * Reconhecer estrutura de e-mails formais.
+    * Utilizar vocabulário adequado em mensagens corporativas.
+    * Diferenciar abertura, corpo e fechamento.
+    * Construir pequenos e-mails simulando situações reais.
+
+Lista de Exercícios:
+    1. Escreva uma saudação formal para um e-mail.
+    2. Escreva uma frase de abertura para informar algo.
+    3. Traduza: "Atenciosamente."
+    4. Complete: I am ___ (write) to request information.
+    5. Crie um pequeno e-mail formal.
+
+Solução dos Exercícios:
+    1. "Dear Mr. Smith,"
+    2. "I am writing to inform you about the meeting."
+    3. "Best regards."
+    4. "I am writing to request information."
+    5. Exemplo:  
+       Dear Mr. Smith,  
+       I am writing to inform you about the meeting scheduled for Monday.  
+       Best regards,  
+       John.
+
+Indicação de artefatos visuais:
+    - Quadro com estrutura de e-mail formal.
+    - Tabela com exemplos práticos.
+    - Ilustrações com comunicação corporativa.
+    - Link audiovisual: vídeo sobre inglês para e-mails.
+---
+
+[TÓPICO: BUSINESS ENGLISH – PRESENTATIONS]
+
+Explicação:
+O inglês para apresentações de negócios envolve vocabulário para introduzir tópicos, explicar dados e concluir ideias.  
+Exemplo: "Let me start by introducing the topic." / "As you can see in this chart..." / "In conclusion, our results are positive."  
+Esse vocabulário é essencial para falar em público em ambientes corporativos.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões comuns em apresentações.
+    * Utilizar frases para introdução, desenvolvimento e conclusão.
+    * Praticar vocabulário para gráficos e dados.
+    * Construir pequenos trechos simulando apresentações.
+
+Lista de Exercícios:
+    1. Escreva três frases para iniciar uma apresentação.
+    2. Escreva três frases para explicar dados.
+    3. Traduza: "Em conclusão, nossos resultados são positivos."
+    4. Complete: As you can ___ (see) in this chart...
+    5. Crie um pequeno trecho de apresentação.
+
+Solução dos Exercícios:
+    1. "Let me start by introducing the topic." / "Today I will talk about our project." / "Let’s begin with an overview."
+    2. "As you can see in this chart, sales increased." / "This graph shows our progress." / "The data indicates growth."
+    3. "In conclusion, our results are positive."
+    4. "As you can see in this chart..."
+    5. Exemplo: "Today I will talk about our project. As you can see in this chart, sales increased. In conclusion, our results are positive."
+
+Indicação de artefatos visuais:
+    - Quadro com expressões de apresentações.
+    - Tabela com exemplos práticos.
+    - Ilustrações com gráficos e palestras.
+    - Link audiovisual: vídeo sobre inglês para apresentações.
+---
+
+[TÓPICO: ENGLISH FOR TRAVEL]
+
+Explicação:
+O inglês para viagens envolve vocabulário e expressões úteis em aeroportos, hotéis, restaurantes e passeios.  
+Exemplo: "Where is the boarding gate?" / "I would like to book a room." / "Can I have the menu, please?"  
+Dominar esse vocabulário é essencial para comunicação prática em viagens internacionais.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões comuns em viagens.
+    * Utilizar frases para pedir informações e serviços.
+    * Praticar vocabulário de aeroporto, hotel e restaurante.
+    * Construir diálogos curtos simulando situações de viagem.
+
+Lista de Exercícios:
+    1. Escreva três frases úteis em um aeroporto.
+    2. Escreva três frases úteis em um hotel.
+    3. Traduza: "Eu gostaria de reservar um quarto."
+    4. Complete: Can I have the ___, please?
+    5. Crie um diálogo curto simulando uma situação de viagem.
+
+Solução dos Exercícios:
+    1. "Where is the boarding gate?" / "What time is the flight?" / "Can I check in, please?"
+    2. "I would like to book a room." / "Can I have the key, please?" / "Is breakfast included?"
+    3. "I would like to book a room."
+    4. "Can I have the menu, please?"
+    5. Exemplo: A: "Where is the boarding gate?" B: "It’s gate number 5."
+
+Indicação de artefatos visuais:
+    - Quadro com vocabulário de viagem.
+    - Tabela com frases úteis.
+    - Ilustrações com aeroporto e hotel.
+    - Link audiovisual: vídeo sobre inglês para viagens.
+---
+
+[TÓPICO: ENGLISH FOR INTERVIEWS]
+
+Explicação:
+O inglês para entrevistas de emprego envolve vocabulário formal e expressões para responder perguntas sobre experiência, habilidades e objetivos.  
+Exemplo: "Tell me about yourself." / "What are your strengths?" / "Why do you want this job?"  
+Dominar esse vocabulário é essencial para se destacar em entrevistas internacionais.
+
+Objetivos de aprendizagem:
+    * Reconhecer perguntas comuns em entrevistas.
+    * Utilizar respostas formais e claras.
+    * Praticar vocabulário de habilidades e experiências.
+    * Construir diálogos curtos simulando entrevistas.
+
+Lista de Exercícios:
+    1. Escreva três perguntas comuns em entrevistas.
+    2. Escreva três respostas curtas sobre habilidades.
+    3. Traduza: "Quais são seus pontos fortes?"
+    4. Complete: I am ___ (apply) for the position.
+    5. Crie um diálogo curto simulando uma entrevista.
+
+Solução dos Exercícios:
+    1. "Tell me about yourself." / "What are your strengths?" / "Why do you want this job?"
+    2. "I am hardworking." / "I am creative." / "I am a good team player."
+    3. "What are your strengths?"
+    4. "I am applying for the position."
+    5. Exemplo: A: "Tell me about yourself." B: "I am hardworking and creative."
+
+Indicação de artefatos visuais:
+    - Quadro com perguntas e respostas de entrevistas.
+    - Tabela com vocabulário de habilidades.
+    - Ilustrações com ambiente corporativo.
+    - Link audiovisual: vídeo sobre inglês para entrevistas.
+---
+
+[TÓPICO: ENGLISH FOR NEGOTIATIONS]
+
+Explicação:
+O inglês para negociações envolve vocabulário formal para discutir preços, condições e acordos.  
+Exemplo: "We would like to discuss the terms." / "Can we reach an agreement?" / "The price is negotiable."  
+Esse vocabulário é essencial em ambientes de negócios internacionais.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões comuns em negociações.
+    * Utilizar frases formais para discutir acordos.
+    * Praticar vocabulário de preços e condições.
+    * Construir diálogos curtos simulando negociações.
+
+Lista de Exercícios:
+    1. Escreva três frases para iniciar uma negociação.
+    2. Escreva três frases para discutir preços.
+    3. Traduza: "O preço é negociável."
+    4. Complete: Can we ___ (reach) an agreement?
+    5. Crie um diálogo curto simulando uma negociação.
+
+Solução dos Exercícios:
+    1. "We would like to discuss the terms." / "Let’s start the negotiation." / "Can we talk about the contract?"
+    2. "The price is too high." / "Can you lower the price?" / "The price is fair."
+    3. "The price is negotiable."
+    4. "Can we reach an agreement?"
+    5. Exemplo: A: "The price is too high." B: "The price is negotiable. Can we reach an agreement?"
+
+Indicação de artefatos visuais:
+    - Quadro com vocabulário de negociações.
+    - Tabela com frases formais.
+    - Ilustrações com reuniões de negócios.
+    - Link audiovisual: vídeo sobre inglês para negociações.
+---
+
+[TÓPICO: ENGLISH FOR SOCIALIZING]
+
+Explicação:
+O inglês para socialização envolve vocabulário e expressões usadas em encontros, festas, eventos e conversas informais.  
+Exemplo: "Nice to meet you." / "How are you doing?" / "Let’s grab a coffee."  
+Dominar esse vocabulário é essencial para criar conexões sociais em ambientes internacionais.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões comuns em situações sociais.
+    * Utilizar frases para iniciar e manter conversas informais.
+    * Praticar vocabulário de cumprimentos e despedidas.
+    * Construir diálogos curtos simulando encontros sociais.
+
+Lista de Exercícios:
+    1. Escreva três frases para cumprimentar alguém.
+    2. Escreva três frases para se despedir.
+    3. Traduza: "Prazer em conhecê-lo."
+    4. Complete: Let’s ___ (grab) a coffee.
+    5. Crie um diálogo curto simulando uma socialização.
+
+Solução dos Exercícios:
+    1. "Nice to meet you." / "How are you?" / "Good to see you."
+    2. "See you later." / "Goodbye." / "Take care."
+    3. "Nice to meet you."
+    4. "Let’s grab a coffee."
+    5. Exemplo: A: "Hi, how are you?" B: "I’m fine, thanks. Nice to meet you."
+
+Indicação de artefatos visuais:
+    - Quadro com vocabulário social.
+    - Tabela com cumprimentos e despedidas.
+    - Ilustrações com encontros informais.
+    - Link audiovisual: vídeo sobre inglês para socialização.
+---
+
+[TÓPICO: ENGLISH FOR CUSTOMER SERVICE]
+
+Explicação:
+O inglês para atendimento ao cliente envolve vocabulário formal e polido para lidar com solicitações, reclamações e suporte.  
+Exemplo: "How can I help you?" / "I’m sorry for the inconvenience." / "Let me check that for you."  
+Esse vocabulário é essencial em ambientes corporativos e de serviços.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões comuns em atendimento ao cliente.
+    * Utilizar frases polidas para oferecer ajuda.
+    * Praticar vocabulário de suporte e resolução de problemas.
+    * Construir diálogos curtos simulando atendimento.
+
+Lista de Exercícios:
+    1. Escreva três frases para oferecer ajuda.
+    2. Escreva três frases para pedir desculpas.
+    3. Traduza: "Desculpe pelo inconveniente."
+    4. Complete: Let me ___ (check) that for you.
+    5. Crie um diálogo curto simulando atendimento ao cliente.
+
+Solução dos Exercícios:
+    1. "How can I help you?" / "Is there anything I can do?" / "Can I assist you?"
+    2. "I’m sorry for the inconvenience." / "We apologize for the delay." / "I’m sorry about that."
+    3. "I’m sorry for the inconvenience."
+    4. "Let me check that for you."
+    5. Exemplo: A: "My order is late." B: "I’m sorry for the inconvenience. Let me check that for you."
+
+Indicação de artefatos visuais:
+    - Quadro com vocabulário de atendimento.
+    - Tabela com frases polidas.
+    - Ilustrações com situações de suporte.
+    - Link audiovisual: vídeo sobre inglês para atendimento ao cliente.
+---
+
+[TÓPICO: ENGLISH FOR TELEPHONING]
+
+Explicação:
+O inglês para telefonemas envolve vocabulário e expressões formais para iniciar, conduzir e encerrar chamadas.  
+Exemplo: "Hello, this is John speaking." / "May I speak to Mr. Smith?" / "Thank you for calling."  
+Esse vocabulário é essencial em ambientes profissionais e de negócios.
+
+Objetivos de aprendizagem:
+    * Reconhecer expressões comuns em telefonemas.
+    * Utilizar frases para iniciar e encerrar chamadas.
+    * Praticar vocabulário de pedidos e transferências.
+    * Construir diálogos curtos simulando telefonemas.
+
+Lista de Exercícios:
+    1. Escreva três frases para iniciar uma chamada.
+    2. Escreva três frases para encerrar uma chamada.
+    3. Traduza: "Obrigado por ligar."
+    4. Complete: May I ___ (speak) to Mr. Smith?
+    5. Crie um diálogo curto simulando um telefonema.
+
+Solução dos Exercícios:
+    1. "Hello, this is John speaking." / "Good morning, may I help you?" / "Hi, can I talk to Mary?"
+    2. "Thank you for calling." / "Goodbye." / "Talk to you soon."
+    3. "Thank you for calling."
+    4. "May I speak to Mr. Smith?"
+    5. Exemplo: A: "Hello, this is John speaking." B: "Good morning, may I speak to Mr. Smith?" A: "Sure, I’ll transfer the call."
+
+Indicação de artefatos visuais:
+    - Quadro com vocabulário de telefonemas.
+    - Tabela com frases formais.
+    - Ilustrações com situações de chamadas.
+    - Link audiovisual: vídeo sobre inglês para telefonemas.
+---
+
+[TÓPICO: RESUMO E REVISÃO FINAL: “O QUE VOCÊ JÁ É CAPAZ DE FAZER COM O QUE APRENDEU ATÉ AGORA”]
+
+Explicação:
+Nesta seção, você consolida tudo o que foi aprendido ao longo da apostila.  
+Agora você já é capaz de:
+    * Identificar e usar corretamente os tempos verbais (present, past, future, perfect, continuous).
+    * Diferenciar voz ativa e passiva.
+    * Utilizar modais em diferentes contextos.
+    * Construir frases complexas com relative clauses e reported speech.
+    * Escrever textos narrativos, descritivos, argumentativos e persuasivos.
+    * Usar vocabulário acadêmico, idioms, collocations e phrasal verbs.
+    * Aplicar inglês em situações práticas: viagens, entrevistas, reuniões e negociações.
+    * Reconhecer e usar possessive nouns corretamente.
+
+Atividade de Revisão:
+    1. Escreva um pequeno parágrafo usando pelo menos três tempos verbais diferentes.
+    2. Escreva uma frase na voz passiva.
+    3. Escreva uma frase com um modal verb.
+    4. Escreva uma frase com relative clause.
+    5. Escreva uma frase com possessive noun.
+
+Sugestão de Respostas:
+    1. "I studied yesterday, I am studying today, and I will study tomorrow."
+    2. "The homework was done by the students."
+    3. "You must study every day."
+    4. "The book that I read was interesting."
+    5. "John’s car is fast."
+
+Indicação de artefatos visuais:
+    - Quadro resumo com todos os tópicos.
+    - Tabela de revisão geral.
+    - Ilustrações com exemplos práticos.
+    - Link audiovisual: vídeo de revisão geral.
+
+Tópico Resumo e Revisão Final concluído com 3 parágrafos.
+
+---
+
+[TÓPICO: FLASHCARDS BÁSICOS PARA REVISÃO]
+
+Explicação:
+Os flashcards são cartões de estudo que ajudam a memorizar conceitos rapidamente.  
+Cada cartão traz uma pergunta de um lado e a resposta do outro.  
+Eles são ideais para revisão rápida e prática.
+
+Exemplos de Flashcards:
+
+1. Frente: "Qual a forma do Present Perfect?"  
+   Verso: "Have/Has + particípio passado."
+
+2. Frente: "Exemplo de voz passiva no presente."  
+   Verso: "The room is cleaned every day."
+
+3. Frente: "Traduza: 'Ela deveria estudar mais.'"  
+   Verso: "She should study more."
+
+4. Frente: "Qual a diferença entre 'who' e 'which'?"  
+   Verso: "'Who' refere-se a pessoas; 'which' refere-se a coisas."
+
+5. Frente: "Exemplo de possessive noun no plural."  
+   Verso: "The students’ books are on the table."
+
+Indicação de artefatos visuais:
+    - Cartões ilustrados com perguntas e respostas.
+    - Tabela com flashcards organizados por tema.
+    - Ilustrações com situações cotidianas.
+    - Link audiovisual: vídeo sobre como usar flashcards.
+---
+## Glossário Didático
+
+Explicação:
+Este glossário reúne os principais termos apresentados ao longo da apostila, organizados em ordem alfabética. Ele serve como referência rápida para consulta e revisão, consolidando vocabulário essencial para o aprendizado.  
+
+Exemplos de entradas:
+- **Alphabet**: Alfabeto em inglês, composto por 26 letras.  
+- **Cardinal Numbers**: Números cardinais usados para contar (one, two, three).  
+- **Ordinal Numbers**: Números ordinais usados para indicar posição (first, second, third).  
+- **Verb To Be**: Verbo fundamental que significa "ser/estar".  
+- **Possessive Nouns**: Substantivos usados para indicar posse (John’s book).  
+- **Phrasal Verbs**: Combinações de verbo + partícula com significado próprio (look after, give up).  
+- **Idioms**: Expressões idiomáticas cujo sentido não é literal (It’s raining cats and dogs).  
+
+Indicação de artefatos visuais:
+- Tabela G.1: Vocabulário organizado por categoria (gramática, vocabulário, expressões).  
+- Quadro G.2: Diferenças entre inglês britânico e americano.  
+- Figura G.3: Ilustração com exemplos de uso em frases.  
+- Link audiovisual: vídeo explicativo sobre como revisar com glossário.  
+
+Tópico Glossário concluído com 2 parágrafos.
