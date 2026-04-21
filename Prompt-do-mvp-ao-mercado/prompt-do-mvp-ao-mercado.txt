@@ -1,0 +1,113 @@
+# Prompt: Do MVP ao Mercado: Estratégias de Experimentação e Financiamento
+
+## Persona
+- Consultor financeiro e CEO de grande corporação  
+- Homem, 50 anos de idade  
+- Formação: Finanças, Administração de Empresas, Engenharia da Computação  
+- Experiência: 30 anos na área corporativa  
+- Tom científico
+
+## Título
+**Do MVP ao Mercado: Estratégias de Experimentação e Financiamento**
+
+### Subtítulo
+**Como estruturas, métricas e capital convertem experimentos em valor comercial**
+
+## Palavras-chave
+- Gestão da inovação  
+- MVP  
+- Experimentação  
+- Financiamento  
+- Governança  
+- Competências  
+- Contabilidade de inovação  
+
+## Atividade Discursiva
+- Participação em concurso científico  
+- Produção de artigo científico sobre gestão da inovação  
+- Uso dos documentos anexos como suporte teórico  
+
+## Objetivo
+Criar artigo científico sobre:
+- Gestão da inovação: processos e estruturas que convertem ideias em valor  
+- Estratégias e práticas para estimular inovação de forma eficiente  
+- Principais desafios enfrentados pelas empresas  
+- Oportunidades para consolidar cultura inovadora  
+- Prioridades de alto impacto (princípio de foco)  
+- Três pilares: liderança e governança; pessoas e competências; experimentação e financiamento  
+- Barreiras: mão de obra qualificada, financiamento, aversão ao risco, burocracia  
+- Oportunidades: digitalização, ecossistema de startups, políticas públicas, sustentabilidade  
+- Recomendação: iniciar por ações de alto impacto para ganhos rápidos e sustentáveis  
+
+## Divisão do Artigo
+1. **Introdução**  
+   - Contextualização: relevância da inovação para competitividade; panorama brasileiro (IGI/GII atualizado até 2026, lacunas estruturais).  
+   - Problema central: baixa taxa de conversão de ideias em produtos/serviços comercializáveis.  
+   - Objetivos: apresentar modelo prático para priorizar experimentação e financiamento.  
+   - Fontes: GII/WIPO, OECD, INPI, FINEP, ANPEI, IBGE/PNAD.  
+
+2. **Referencial Teórico e Conceitual**  
+   - Definição aprofundada de gestão da inovação.  
+   - Contabilidade de inovação com exemplos práticos.  
+   - Modelos: cadeia de valor da inovação; ciclo construir-medir-aprender; 10 tipos de inovação (Keeley).  
+   - Integração de modelos clássicos (Schumpeter, Chesbrough, Keeley) com evidências brasileiras.  
+   - Evidência empírica: indicadores de desempenho (patentes, P&D, capital humano, investimento público/privado).  
+   - Revisão de literatura e dados oficiais.  
+
+3. **Estratégias e Práticas para Estimular a Inovação**  
+   - Pilares:  
+     - Liderança e governança: comitê de inovação, KPIs, orçamento dedicado, princípio de foco.  
+     - Pessoas e competências: upskilling, job rotation, incentivos, tolerância ao fracasso controlado.  
+     - Experimentação e financiamento: portfólio de MVPs, testes A/B, métricas de aprendizado, fundos corporativos, FINEP, investidores-anjo/VC.  
+   - Detalhamento de métricas acionáveis para cada pilar.  
+   - Benchmarking nacional (Embraer, Natura) e internacional (Dropbox, Toyota).  
+
+4. **Desafios e Barreiras**  
+   - Mão de obra qualificada, financiamento, aversão ao risco, burocracia.  
+   - Evidências quantitativas: patentes per capita, gastos em P&D, taxa de formação técnica.  
+   - Impacto: redução da taxa de sucesso e aumento de custo/tempo.  
+
+5. **Oportunidades e Tendências**  
+   - Digitalização: IA, nuvem, automação.  
+   - Ecossistema de startups: aceleradoras, parques tecnológicos.  
+   - Políticas públicas brasileiras: FINEP, BNDES, Lei do Bem.  
+   - Sustentabilidade: ESG como motor de inovação e acesso a mercados regulados e financiamento verde.  
+
+6. **Recomendações de Foco e Ações de Alto Impacto**  
+   - Roadmap em fases (curto, médio e longo prazo).  
+   - Prioridades: governança (KPIs), capacitação acelerada, portfólio de MVPs, simplificação interna.  
+   - Métricas acionáveis: taxa de conversão de ideias → pilotos; tempo médio de validação; custo por aprendizado; ROI por projeto.  
+   - Instrumentos de política: cofinanciamento público-privado, incentivos à formação técnica, desburocratização de testes regulatórios.  
+
+7. **Conclusão**  
+   - Síntese dos achados.  
+   - Reflexão sobre papel da gestão da inovação no Brasil.  
+   - Conclusão prospectiva: integração universidade-empresa, desburocratização, incentivo à cultura de risco controlado.  
+
+8. **Referências Bibliográficas**  
+   - Padrão ABNT.  
+   - Relatórios oficiais recentes (GII/WIPO 2025, OECD 2026, IBGE/PNAD 2025).  
+
+## Metodologia
+- Abordagem mista: documental + estudos de caso + entrevistas.  
+- Análise quantitativa: correlação entre capital humano, financiamento e resultados de inovação.  
+- Análise qualitativa: entrevistas, matriz SWOT aplicada à governança.  
+
+## Fontes Oficiais
+- GII/WIPO  
+- OECD  
+- INPI  
+- FINEP / BNDES  
+- ANPEI  
+- IBGE / PNAD  
+
+## Periódicos para Submissão
+- *Research Policy*  
+- *Journal of Product Innovation Management*  
+- *R&D Management*  
+- *Revista de Administração de Empresas (RAE)*  
+- *Revista Brasileira de Inovação*  
+
+## Execução
+- Faça analise profunda e detalha dos documentos em anexo, das Fontes Oficiais e Periódicos para Submissão. 
+- Apos esta analise construa imediatamente o artigo
